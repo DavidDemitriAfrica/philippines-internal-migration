@@ -1,0 +1,94 @@
+id,operation,admin0Name,admin0Pcode,admin1Name,admin1Pcode,admin2Name,admin2Pcode,adminLevel,numPresentIdpInd,reportingDate,yearReportingDate,monthReportingDate,roundNumber,displacementReason,numberMales,numberFemales,idpOriginAdmin1Name,idpOriginAdmin1Pcode,assessmentType,operationStatus
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,37443,2013-11-30T00:00:00,2013,11,1,Natural disaster,17087,20356,Not available,Not available,SA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,22914,2013-12-31T00:00:00,2013,12,2,Natural disaster,11708,11206,Not available,Not available,SA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,15750,2014-01-30T00:00:00,2014,1,3,Natural disaster,,,Not available,Not available,SA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,24867,2014-04-30T00:00:00,2014,4,6,Natural disaster,,,Not available,Not available,BA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,7696,2014-05-01T00:00:00,2014,5,7,Natural disaster,,,Not available,Not available,SA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,13447,2014-06-01T00:00:00,2014,6,8,Natural disaster,,,Not available,Not available,SA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,12925,2014-07-01T00:00:00,2014,7,9,Natural disaster,,,Not available,Not available,SA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,9517,2014-08-01T00:00:00,2014,8,10,Natural disaster,,,Not available,Not available,SA,Inactive
+,Typhoon Haiyan,Philippines (the),PHL,,,,,0,2972,2014-09-01T00:00:00,2014,9,11,Natural disaster,,,Not available,Not available,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,3240,2019-11-30T00:00:00,2019,11,1,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,18110,2019-11-30T00:00:00,2019,11,1,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,4356,2019-11-30T00:00:00,2019,11,2,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,21092,2019-11-30T00:00:00,2019,11,2,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,7456,2019-11-30T00:00:00,2019,11,3,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,18862,2019-11-30T00:00:00,2019,11,3,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,7607,2019-12-31T00:00:00,2019,12,4,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,4141,2019-12-31T00:00:00,2019,12,4,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+,Earthquakes in Mindanao,Philippines (the),PHL,,,,,0,31791,2019-12-31T00:00:00,2019,12,5,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+,Maguindanao Displacement,Philippines (the),PHL,,,,,0,63037,2021-04-30T00:00:00,2021,4,1,Conflict,,,Autonomous Region in Muslim Mindanao,PH150000000,SA,Active
+43760,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,34522,2013-11-30T00:00:00,2013,11,1,Natural disaster,15730,18792,Not available,Not available,SA,Inactive
+43752,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,2921,2013-11-30T00:00:00,2013,11,1,Natural disaster,1357,1564,Not available,Not available,SA,Inactive
+43753,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,2350,2013-12-31T00:00:00,2013,12,2,Natural disaster,1179,1171,Not available,Not available,SA,Inactive
+43759,Typhoon Haiyan,Philippines (the),PHL,Region VII,PH070000000,,,1,4630,2013-12-31T00:00:00,2013,12,2,Natural disaster,2299,2331,Not available,Not available,SA,Inactive
+43761,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,15934,2013-12-31T00:00:00,2013,12,2,Natural disaster,8230,7704,Not available,Not available,SA,Inactive
+43762,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,14540,2014-01-30T00:00:00,2014,1,3,Natural disaster,,,Not available,Not available,SA,Inactive
+43754,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,1210,2014-01-30T00:00:00,2014,1,3,Natural disaster,,,Not available,Not available,SA,Inactive
+63638,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,940,2014-04-30T00:00:00,2014,4,6,Natural disaster,,,Not available,Not available,BA,Inactive
+63639,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,23927,2014-04-30T00:00:00,2014,4,6,Natural disaster,,,Not available,Not available,BA,Inactive
+43755,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,544,2014-05-01T00:00:00,2014,5,7,Natural disaster,,,Not available,Not available,SA,Inactive
+43763,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,7152,2014-05-01T00:00:00,2014,5,7,Natural disaster,,,Not available,Not available,SA,Inactive
+43764,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,11279,2014-06-01T00:00:00,2014,6,8,Natural disaster,,,Not available,Not available,SA,Inactive
+43756,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,2168,2014-06-01T00:00:00,2014,6,8,Natural disaster,,,Not available,Not available,SA,Inactive
+43757,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,526,2014-07-01T00:00:00,2014,7,9,Natural disaster,,,Not available,Not available,SA,Inactive
+43765,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,12399,2014-07-01T00:00:00,2014,7,9,Natural disaster,,,Not available,Not available,SA,Inactive
+43766,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,8465,2014-08-01T00:00:00,2014,8,10,Natural disaster,,,Not available,Not available,SA,Inactive
+43758,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,,,1,1052,2014-08-01T00:00:00,2014,8,10,Natural disaster,,,Not available,Not available,SA,Inactive
+43767,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,,,1,2972,2014-09-01T00:00:00,2014,9,11,Natural disaster,,,Not available,Not available,SA,Inactive
+8571,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,,,1,3240,2019-11-30T00:00:00,2019,11,1,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+8572,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,,,1,4356,2019-11-30T00:00:00,2019,11,2,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+8573,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,,,1,7456,2019-11-30T00:00:00,2019,11,3,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+8576,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,,,1,18110,2019-11-30T00:00:00,2019,11,1,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+8577,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,,,1,21092,2019-11-30T00:00:00,2019,11,2,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+8578,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,,,1,18862,2019-11-30T00:00:00,2019,11,3,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+8579,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,,,1,4141,2019-12-31T00:00:00,2019,12,4,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+8574,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,,,1,7607,2019-12-31T00:00:00,2019,12,4,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+8575,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,,,1,31791,2019-12-31T00:00:00,2019,12,5,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+8733,Maguindanao Displacement,Philippines (the),PHL,Autonomous Region in Muslim Mindanao,PH150000000,,,1,62342,2021-04-30T00:00:00,2021,4,1,Conflict,,,Autonomous Region in Muslim Mindanao,PH150000000,SA,Active
+8734,Maguindanao Displacement,Philippines (the),PHL,Region XII,PH120000000,,,1,695,2021-04-30T00:00:00,2021,4,1,Conflict,,,Autonomous Region in Muslim Mindanao,PH150000000,SA,Active
+153385,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Capiz,PH061900000,2,2585,2013-11-30T00:00:00,2013,11,1,Natural disaster,1254,1331,Not available,Not available,SA,Inactive
+153386,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,336,2013-11-30T00:00:00,2013,11,1,Natural disaster,103,233,Not available,Not available,SA,Inactive
+153396,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,1858,2013-11-30T00:00:00,2013,11,1,Natural disaster,856,1002,Not available,Not available,SA,Inactive
+153413,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Samar,PH086000000,2,2651,2013-11-30T00:00:00,2013,11,1,Natural disaster,1369,1282,Not available,Not available,SA,Inactive
+153414,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Southern Leyte,PH086400000,2,5,2013-11-30T00:00:00,2013,11,1,Natural disaster,2,3,Not available,Not available,SA,Inactive
+153409,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,30008,2013-11-30T00:00:00,2013,11,1,Natural disaster,13503,16505,Not available,Not available,SA,Inactive
+153410,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Samar,PH086000000,2,26,2013-12-31T00:00:00,2013,12,2,Natural disaster,11,15,Not available,Not available,SA,Inactive
+153408,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,15232,2013-12-31T00:00:00,2013,12,2,Natural disaster,7886,7346,Not available,Not available,SA,Inactive
+153384,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Capiz,PH061900000,2,71,2013-12-31T00:00:00,2013,12,2,Natural disaster,38,33,Not available,Not available,SA,Inactive
+153392,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,2279,2013-12-31T00:00:00,2013,12,2,Natural disaster,1141,1138,Not available,Not available,SA,Inactive
+153393,Typhoon Haiyan,Philippines (the),PHL,Region VII,PH070000000,Cebu,PH072200000,2,4630,2013-12-31T00:00:00,2013,12,2,Natural disaster,2299,2331,Not available,Not available,SA,Inactive
+153394,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,676,2013-12-31T00:00:00,2013,12,2,Natural disaster,333,343,Not available,Not available,SA,Inactive
+153399,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,3027,2014-01-30T00:00:00,2014,1,3,Natural disaster,,,Not available,Not available,SA,Inactive
+153390,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,1210,2014-01-30T00:00:00,2014,1,3,Natural disaster,,,Not available,Not available,SA,Inactive
+153407,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,11422,2014-01-30T00:00:00,2014,1,3,Natural disaster,,,Not available,Not available,SA,Inactive
+153411,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Samar,PH086000000,2,91,2014-01-30T00:00:00,2014,1,3,Natural disaster,,,Not available,Not available,SA,Inactive
+39255,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,940,2014-04-30T00:00:00,2014,4,6,Natural disaster,,,Not available,Not available,BA,Inactive
+92088,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,15579,2014-04-30T00:00:00,2014,4,6,Natural disaster,,,Not available,Not available,BA,Inactive
+115607,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Samar,PH086000000,2,8348,2014-04-30T00:00:00,2014,4,6,Natural disaster,,,Not available,Not available,BA,Inactive
+153388,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,544,2014-05-01T00:00:00,2014,5,7,Natural disaster,,,Not available,Not available,SA,Inactive
+153397,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,1884,2014-05-01T00:00:00,2014,5,7,Natural disaster,,,Not available,Not available,SA,Inactive
+153403,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,5268,2014-05-01T00:00:00,2014,5,7,Natural disaster,,,Not available,Not available,SA,Inactive
+153406,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,7804,2014-06-01T00:00:00,2014,6,8,Natural disaster,,,Not available,Not available,SA,Inactive
+153391,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,2168,2014-06-01T00:00:00,2014,6,8,Natural disaster,,,Not available,Not available,SA,Inactive
+153400,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,3475,2014-06-01T00:00:00,2014,6,8,Natural disaster,,,Not available,Not available,SA,Inactive
+153401,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,3563,2014-07-01T00:00:00,2014,7,9,Natural disaster,,,Not available,Not available,SA,Inactive
+153387,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,526,2014-07-01T00:00:00,2014,7,9,Natural disaster,,,Not available,Not available,SA,Inactive
+153405,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,7409,2014-07-01T00:00:00,2014,7,9,Natural disaster,,,Not available,Not available,SA,Inactive
+153412,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Samar,PH086000000,2,1427,2014-07-01T00:00:00,2014,7,9,Natural disaster,,,Not available,Not available,SA,Inactive
+153404,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,6368,2014-08-01T00:00:00,2014,8,10,Natural disaster,,,Not available,Not available,SA,Inactive
+153398,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,2097,2014-08-01T00:00:00,2014,8,10,Natural disaster,,,Not available,Not available,SA,Inactive
+153389,Typhoon Haiyan,Philippines (the),PHL,Region VI,PH060000000,Iloilo,PH063000000,2,1052,2014-08-01T00:00:00,2014,8,10,Natural disaster,,,Not available,Not available,SA,Inactive
+153402,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Leyte,PH083700000,2,1641,2014-09-01T00:00:00,2014,9,11,Natural disaster,,,Not available,Not available,SA,Inactive
+153395,Typhoon Haiyan,Philippines (the),PHL,Region VIII,PH080000000,Eastern Samar,PH082600000,2,1331,2014-09-01T00:00:00,2014,9,11,Natural disaster,,,Not available,Not available,SA,Inactive
+156768,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,Davao del Sur,PH112400000,2,3240,2019-11-30T00:00:00,2019,11,1,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+156769,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,Davao del Sur,PH112400000,2,4356,2019-11-30T00:00:00,2019,11,2,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+156770,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,Davao del Sur,PH112400000,2,7456,2019-11-30T00:00:00,2019,11,3,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+156774,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,Cotabato,PH124700000,2,18110,2019-11-30T00:00:00,2019,11,1,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+156775,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,Cotabato,PH124700000,2,18862,2019-11-30T00:00:00,2019,11,3,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+156776,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,Cotabato,PH124700000,2,21092,2019-11-30T00:00:00,2019,11,2,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+156771,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,Davao del Sur,PH112400000,2,7607,2019-12-31T00:00:00,2019,12,4,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+156772,Earthquakes in Mindanao,Philippines (the),PHL,Region XI,PH110000000,Davao del Sur,PH112400000,2,31791,2019-12-31T00:00:00,2019,12,5,Natural disaster,,,Region XI,PH110000000,SA,Inactive
+156773,Earthquakes in Mindanao,Philippines (the),PHL,Region XII,PH120000000,Cotabato,PH124700000,2,4141,2019-12-31T00:00:00,2019,12,4,Natural disaster,,,Region XII,PH120000000,SA,Inactive
+157204,Maguindanao Displacement,Philippines (the),PHL,Autonomous Region in Muslim Mindanao,PH150000000,Maguindanao,PH153800000,2,62342,2021-04-30T00:00:00,2021,4,1,Conflict,,,Autonomous Region in Muslim Mindanao,PH150000000,SA,Active
+157205,Maguindanao Displacement,Philippines (the),PHL,Region XII,PH120000000,Cotabato,PH124700000,2,695,2021-04-30T00:00:00,2021,4,1,Conflict,,,Autonomous Region in Muslim Mindanao,PH150000000,SA,Active

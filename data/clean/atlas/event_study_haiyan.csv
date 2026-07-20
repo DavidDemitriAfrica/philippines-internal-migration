@@ -1,0 +1,409 @@
+psgc10,name,province,region,treated,g0010,g1015,g1520,d_event,d_recovery
+0600401000,Altavas,Aklan,Region VI (Western Visayas),False,0.615,0.551,0.858,-0.064,0.307
+0600402000,Balete,Aklan,Region VI (Western Visayas),False,1.422,1.177,0.838,-0.245,-0.338
+0600403000,Banga,Aklan,Region VI (Western Visayas),False,1.71,0.711,0.43,-0.999,-0.281
+0600404000,Batan,Aklan,Region VI (Western Visayas),False,0.837,1.057,0.938,0.22,-0.119
+0600405000,Buruanga,Aklan,Region VI (Western Visayas),False,1.185,2.188,0.389,1.003,-1.798
+0600406000,Ibajay,Aklan,Region VI (Western Visayas),False,1.338,1.737,1.164,0.399,-0.574
+0600407000,Kalibo ,Aklan,Region VI (Western Visayas),False,1.798,1.481,2.138,-0.318,0.658
+0600408000,Lezo,Aklan,Region VI (Western Visayas),False,1.595,0.909,0.568,-0.687,-0.341
+0600409000,Libacao,Aklan,Region VI (Western Visayas),False,0.752,0.16,0.023,-0.592,-0.137
+0600410000,Madalag,Aklan,Region VI (Western Visayas),False,0.409,0.231,0.567,-0.179,0.337
+0600411000,Makato,Aklan,Region VI (Western Visayas),False,1.12,1.31,1.832,0.19,0.522
+0600412000,Malay,Aklan,Region VI (Western Visayas),False,6.45,2.805,2.685,-3.645,-0.121
+0600413000,Malinao,Aklan,Region VI (Western Visayas),False,0.171,-0.733,1.175,-0.905,1.908
+0600414000,Nabas,Aklan,Region VI (Western Visayas),False,2.186,3.092,2.322,0.906,-0.77
+0600415000,New Washington,Aklan,Region VI (Western Visayas),False,2.168,1.274,1.345,-0.894,0.07
+0600416000,Numancia,Aklan,Region VI (Western Visayas),False,1.952,1.286,2.37,-0.666,1.084
+0600417000,Tangalan,Aklan,Region VI (Western Visayas),False,1.422,1.492,1.665,0.069,0.173
+0600601000,Anini-Y,Antique,Region VI (Western Visayas),False,0.364,0.784,0.799,0.42,0.015
+0600602000,Barbaza,Antique,Region VI (Western Visayas),False,1.59,0.799,0.601,-0.791,-0.198
+0600603000,Belison,Antique,Region VI (Western Visayas),False,0.977,1.064,0.902,0.088,-0.162
+0600604000,Bugasong,Antique,Region VI (Western Visayas),False,1.322,0.8,0.639,-0.522,-0.16
+0600605000,Caluya,Antique,Region VI (Western Visayas),False,4.128,3.226,1.951,-0.902,-1.275
+0600606000,Culasi,Antique,Region VI (Western Visayas),False,1.188,1.021,1.618,-0.167,0.596
+0600607000,Tobias Fornier,Antique,Region VI (Western Visayas),False,1.159,1.432,0.486,0.273,-0.946
+0600608000,Hamtic,Antique,Region VI (Western Visayas),False,1.864,1.057,1.717,-0.807,0.66
+0600609000,Laua-An,Antique,Region VI (Western Visayas),False,0.81,0.642,0.407,-0.168,-0.235
+0600610000,Libertad,Antique,Region VI (Western Visayas),False,1.92,0.906,1.347,-1.014,0.441
+0600611000,Pandan,Antique,Region VI (Western Visayas),False,1.629,1.054,0.982,-0.574,-0.072
+0600612000,Patnongon,Antique,Region VI (Western Visayas),False,1.071,1.099,0.645,0.028,-0.454
+0600613000,San Jose ,Antique,Region VI (Western Visayas),False,1.828,1.495,0.863,-0.333,-0.632
+0600614000,San Remigio,Antique,Region VI (Western Visayas),False,1.56,0.914,1.356,-0.647,0.442
+0600615000,Sebaste,Antique,Region VI (Western Visayas),False,1.437,0.692,1.048,-0.745,0.356
+0600616000,Sibalom,Antique,Region VI (Western Visayas),False,1.156,1.401,1.204,0.245,-0.197
+0600617000,Tibiao,Antique,Region VI (Western Visayas),False,1.193,1.676,1.496,0.483,-0.18
+0600618000,Valderrama,Antique,Region VI (Western Visayas),False,0.313,0.694,0.917,0.381,0.222
+0601901000,Cuartero,Capiz,Region VI (Western Visayas),False,0.472,1.417,0.446,0.946,-0.972
+0601902000,Dao,Capiz,Region VI (Western Visayas),False,0.413,0.347,0.858,-0.066,0.511
+0601903000,Dumalag,Capiz,Region VI (Western Visayas),False,1.233,0.109,0.448,-1.124,0.339
+0601904000,Dumarao,Capiz,Region VI (Western Visayas),False,0.878,0.922,1.486,0.044,0.564
+0601905000,Ivisan,Capiz,Region VI (Western Visayas),False,0.988,1.577,1.564,0.589,-0.013
+0601906000,Jamindan,Capiz,Region VI (Western Visayas),False,0.301,0.894,1.12,0.593,0.226
+0601907000,Ma-Ayon,Capiz,Region VI (Western Visayas),False,1.086,1.016,1.497,-0.07,0.481
+0601908000,Mambusao,Capiz,Region VI (Western Visayas),False,0.236,0.977,0.55,0.74,-0.427
+0601909000,Panay,Capiz,Region VI (Western Visayas),False,0.681,1.14,1.238,0.46,0.098
+0601910000,Panitan,Capiz,Region VI (Western Visayas),False,0.116,1.174,1.164,1.058,-0.01
+0601911000,Pilar,Capiz,Region VI (Western Visayas),False,0.666,1.644,0.83,0.978,-0.814
+0601912000,Pontevedra,Capiz,Region VI (Western Visayas),False,0.822,1.237,1.455,0.415,0.217
+0601913000,President Roxas,Capiz,Region VI (Western Visayas),False,0.368,0.732,1.107,0.364,0.375
+0601914000,City of Roxas ,Capiz,Region VI (Western Visayas),False,2.143,1.282,1.506,-0.861,0.224
+0601915000,Sapi-An,Capiz,Region VI (Western Visayas),False,0.786,0.788,0.705,0.001,-0.083
+0601916000,Sigma,Capiz,Region VI (Western Visayas),False,0.629,0.642,1.064,0.013,0.422
+0601917000,Tapaz,Capiz,Region VI (Western Visayas),False,0.865,1.259,1.246,0.394,-0.012
+0607901000,Buenavista,Guimaras,Region VI (Western Visayas),False,1.135,1.476,1.008,0.34,-0.467
+0607902000,Jordan ,Guimaras,Region VI (Western Visayas),False,1.927,0.704,1.951,-1.223,1.247
+0607903000,Nueva Valencia,Guimaras,Region VI (Western Visayas),False,2.111,0.965,1.522,-1.146,0.557
+0607904000,San Lorenzo,Guimaras,Region VI (Western Visayas),False,1.768,1.594,2.561,-0.175,0.967
+0607905000,Sibunag,Guimaras,Region VI (Western Visayas),False,-0.271,2.399,0.937,2.67,-1.462
+0603001000,Ajuy,Iloilo,Region VI (Western Visayas),False,0.446,1.942,0.477,1.496,-1.465
+0603002000,Alimodian,Iloilo,Region VI (Western Visayas),False,1.756,0.465,0.711,-1.292,0.246
+0603003000,Anilao,Iloilo,Region VI (Western Visayas),False,2.173,0.816,1.315,-1.357,0.499
+0603004000,Badiangan,Iloilo,Region VI (Western Visayas),False,1.672,0.565,0.04,-1.107,-0.525
+0603005000,Balasan,Iloilo,Region VI (Western Visayas),False,1.555,2.063,1.229,0.508,-0.835
+0603006000,Banate,Iloilo,Region VI (Western Visayas),False,0.806,1.853,0.541,1.046,-1.312
+0603007000,Barotac Nuevo,Iloilo,Region VI (Western Visayas),False,1.251,0.822,1.523,-0.428,0.7
+0603008000,Barotac Viejo,Iloilo,Region VI (Western Visayas),False,1.337,1.913,1.26,0.577,-0.654
+0603009000,Batad,Iloilo,Region VI (Western Visayas),False,1.316,1.809,0.836,0.493,-0.973
+0603010000,Bingawan,Iloilo,Region VI (Western Visayas),False,1.247,2.382,1.304,1.135,-1.078
+0603012000,Cabatuan,Iloilo,Region VI (Western Visayas),False,1.808,1.18,0.944,-0.628,-0.236
+0603013000,Calinog,Iloilo,Region VI (Western Visayas),False,1.17,2.006,0.837,0.837,-1.169
+0603014000,Carles,Iloilo,Region VI (Western Visayas),False,1.616,1.606,1.348,-0.01,-0.258
+0603015000,Concepcion,Iloilo,Region VI (Western Visayas),False,1.469,1.644,0.71,0.175,-0.935
+0603016000,Dingle,Iloilo,Region VI (Western Visayas),False,1.229,0.883,0.291,-0.346,-0.592
+0603017000,Dueñas,Iloilo,Region VI (Western Visayas),False,0.868,0.321,0.217,-0.548,-0.103
+0603018000,Dumangas,Iloilo,Region VI (Western Visayas),False,1.621,0.849,1.421,-0.772,0.572
+0603019000,Estancia,Iloilo,Region VI (Western Visayas),False,1.758,2.49,1.946,0.732,-0.544
+0603020000,Guimbal,Iloilo,Region VI (Western Visayas),False,1.554,0.865,0.738,-0.689,-0.127
+0603021000,Igbaras,Iloilo,Region VI (Western Visayas),False,1.18,0.396,0.127,-0.784,-0.269
+0603023000,Janiuay,Iloilo,Region VI (Western Visayas),False,1.527,0.263,0.933,-1.265,0.67
+0603025000,Lambunao,Iloilo,Region VI (Western Visayas),False,1.229,1.241,2.088,0.012,0.847
+0603026000,Leganes,Iloilo,Region VI (Western Visayas),False,2.289,1.891,1.417,-0.399,-0.474
+0603027000,Lemery,Iloilo,Region VI (Western Visayas),False,1.543,2.256,0.381,0.714,-1.875
+0603028000,Leon,Iloilo,Region VI (Western Visayas),False,0.835,0.925,0.878,0.089,-0.047
+0603029000,Maasin,Iloilo,Region VI (Western Visayas),False,1.297,0.986,0.863,-0.312,-0.122
+0603030000,Miagao,Iloilo,Region VI (Western Visayas),False,1.235,0.875,0.171,-0.36,-0.704
+0603031000,Mina,Iloilo,Region VI (Western Visayas),False,1.873,1.492,0.44,-0.381,-1.052
+0603032000,New Lucena,Iloilo,Region VI (Western Visayas),False,1.299,0.898,0.956,-0.4,0.057
+0603034000,Oton,Iloilo,Region VI (Western Visayas),False,2.363,1.463,2.132,-0.9,0.669
+0603035000,City of Passi,Iloilo,Region VI (Western Visayas),False,1.359,0.21,2.093,-1.15,1.884
+0603036000,Pavia,Iloilo,Region VI (Western Visayas),False,2.883,4.735,5.089,1.852,0.355
+0603037000,Pototan,Iloilo,Region VI (Western Visayas),False,1.489,1.08,0.89,-0.409,-0.189
+0603038000,San Dionisio,Iloilo,Region VI (Western Visayas),False,1.603,2.737,0.148,1.134,-2.589
+0603039000,San Enrique,Iloilo,Region VI (Western Visayas),False,1.243,0.859,1.801,-0.384,0.942
+0603040000,San Joaquin,Iloilo,Region VI (Western Visayas),False,0.771,0.091,0.293,-0.68,0.202
+0603041000,San Miguel,Iloilo,Region VI (Western Visayas),False,1.884,1.953,1.786,0.069,-0.167
+0603042000,San Rafael,Iloilo,Region VI (Western Visayas),False,1.325,2.322,1.562,0.997,-0.76
+0603043000,Santa Barbara,Iloilo,Region VI (Western Visayas),False,1.873,1.575,2.475,-0.298,0.9
+0603044000,Sara,Iloilo,Region VI (Western Visayas),False,1.02,2.225,0.791,1.205,-1.434
+0603045000,Tigbauan,Iloilo,Region VI (Western Visayas),False,1.547,1.228,0.839,-0.319,-0.389
+0603046000,Tubungan,Iloilo,Region VI (Western Visayas),False,1.259,0.79,0.531,-0.468,-0.259
+0603047000,Zarraga,Iloilo,Region VI (Western Visayas),False,2.643,1.489,1.363,-1.154,-0.127
+0631000000,City of Iloilo ,Region VI (Western Visayas),Region VI (Western Visayas),False,1.486,1.026,0.449,-0.46,-0.577
+1804502000,City of Bago,Negros Occidental,Negros Island Region (NIR),False,1.412,0.909,2.382,-0.502,1.473
+1804503000,Binalbagan,Negros Occidental,Negros Island Region (NIR),False,1.164,0.529,1.264,-0.635,0.735
+1804504000,City of Cadiz,Negros Occidental,Negros Island Region (NIR),False,0.653,0.402,0.515,-0.251,0.113
+1804505000,Calatrava,Negros Occidental,Negros Island Region (NIR),False,0.573,0.386,0.496,-0.187,0.11
+1804506000,Candoni,Negros Occidental,Negros Island Region (NIR),False,0.655,0.401,1.832,-0.254,1.431
+1804507000,Cauayan,Negros Occidental,Negros Island Region (NIR),False,0.901,1.009,1.271,0.108,0.262
+1804508000,Enrique B. Magalona,Negros Occidental,Negros Island Region (NIR),False,0.872,1.092,0.454,0.22,-0.638
+1804509000,City of Escalante,Negros Occidental,Negros Island Region (NIR),False,1.633,0.217,0.463,-1.416,0.246
+1804510000,City of Himamaylan,Negros Occidental,Negros Island Region (NIR),False,1.508,0.706,1.783,-0.803,1.077
+1804511000,Hinigaran,Negros Occidental,Negros Island Region (NIR),False,0.887,0.84,0.801,-0.048,-0.039
+1804512000,Hinoba-an,Negros Occidental,Negros Island Region (NIR),False,0.727,0.753,1.459,0.027,0.705
+1804513000,Ilog,Negros Occidental,Negros Island Region (NIR),False,1.58,1.016,0.89,-0.564,-0.126
+1804514000,Isabela,Negros Occidental,Negros Island Region (NIR),False,2.023,0.825,0.791,-1.198,-0.034
+1804515000,City of Kabankalan,Negros Occidental,Negros Island Region (NIR),False,1.135,1.572,2.029,0.437,0.457
+1804516000,City of La Carlota,Negros Occidental,Negros Island Region (NIR),False,1.247,0.183,0.707,-1.064,0.524
+1804517000,La Castellana,Negros Occidental,Negros Island Region (NIR),False,1.853,1.009,1.273,-0.844,0.265
+1804518000,Manapla,Negros Occidental,Negros Island Region (NIR),False,0.609,0.768,0.091,0.158,-0.676
+1804519000,Moises Padilla,Negros Occidental,Negros Island Region (NIR),False,1.254,1.011,1.036,-0.243,0.025
+1804520000,Murcia,Negros Occidental,Negros Island Region (NIR),False,2.395,1.492,1.895,-0.903,0.404
+1804521000,Pontevedra,Negros Occidental,Negros Island Region (NIR),False,1.311,1.509,1.049,0.197,-0.459
+1804522000,Pulupandan,Negros Occidental,Negros Island Region (NIR),False,-0.195,1.727,1.75,1.922,0.022
+1804523000,City of Sagay,Negros Occidental,Negros Island Region (NIR),False,0.815,0.736,0.376,-0.079,-0.36
+1804524000,City of San Carlos,Negros Occidental,Negros Island Region (NIR),False,0.95,0.371,0.018,-0.578,-0.353
+1804525000,San Enrique,Negros Occidental,Negros Island Region (NIR),False,0.486,0.583,0.237,0.096,-0.346
+1804526000,City of Silay,Negros Occidental,Negros Island Region (NIR),False,1.169,0.916,0.582,-0.253,-0.334
+1804527000,City of Sipalay,Negros Occidental,Negros Island Region (NIR),False,0.829,0.742,0.705,-0.087,-0.037
+1804528000,City of Talisay,Negros Occidental,Negros Island Region (NIR),False,2.115,0.889,1.345,-1.225,0.455
+1804529000,Toboso,Negros Occidental,Negros Island Region (NIR),False,0.23,0.208,0.657,-0.022,0.45
+1804530000,Valladolid,Negros Occidental,Negros Island Region (NIR),False,1.121,0.73,1.177,-0.391,0.448
+1804531000,City of Victorias,Negros Occidental,Negros Island Region (NIR),False,0.774,-0.079,0.514,-0.854,0.593
+1804532000,Salvador Benedicto,Negros Occidental,Negros Island Region (NIR),False,3.189,1.589,1.014,-1.6,-0.574
+1830200000,City of Bacolod ,Negros Island Region (NIR),Negros Island Region (NIR),False,1.779,1.793,1.42,0.014,-0.374
+0701201000,Alburquerque,Bohol,Region VII (Central Visayas),False,1.305,1.16,1.374,-0.145,0.215
+0701202000,Alicia,Bohol,Region VII (Central Visayas),False,0.31,1.03,0.756,0.72,-0.274
+0701203000,Anda,Bohol,Region VII (Central Visayas),False,-0.547,-0.509,1.632,0.038,2.141
+0701204000,Antequera,Bohol,Region VII (Central Visayas),False,0.513,-0.074,0.812,-0.587,0.886
+0701205000,Baclayon,Bohol,Region VII (Central Visayas),False,2.194,1.925,1.847,-0.269,-0.078
+0701206000,Balilihan,Bohol,Region VII (Central Visayas),False,0.183,0.825,0.914,0.643,0.089
+0701207000,Batuan,Bohol,Region VII (Central Visayas),False,0.493,0.509,1.721,0.017,1.212
+0701208000,Bilar,Bohol,Region VII (Central Visayas),False,0.279,0.542,1.081,0.263,0.54
+0701209000,Buenavista,Bohol,Region VII (Central Visayas),False,0.405,0.162,1.828,-0.244,1.667
+0701210000,Calape,Bohol,Region VII (Central Visayas),False,0.77,0.449,1.471,-0.321,1.022
+0701211000,Candijay,Bohol,Region VII (Central Visayas),False,-0.452,0.282,0.456,0.734,0.174
+0701212000,Carmen,Bohol,Region VII (Central Visayas),False,0.683,1.163,1.281,0.48,0.118
+0701213000,Catigbian,Bohol,Region VII (Central Visayas),False,0.557,-0.009,1.029,-0.566,1.038
+0701214000,Clarin,Bohol,Region VII (Central Visayas),False,1.185,0.005,0.874,-1.181,0.87
+0701215000,Corella,Bohol,Region VII (Central Visayas),False,2.443,1.855,2.375,-0.588,0.52
+0701216000,Cortes,Bohol,Region VII (Central Visayas),False,1.874,1.982,1.673,0.108,-0.309
+0701217000,Dagohoy,Bohol,Region VII (Central Visayas),False,1.141,0.291,0.775,-0.85,0.484
+0701218000,Danao,Bohol,Region VII (Central Visayas),False,0.391,-0.066,2.638,-0.457,2.704
+0701219000,Dauis,Bohol,Region VII (Central Visayas),False,4.092,2.826,2.978,-1.266,0.152
+0701220000,Dimiao,Bohol,Region VII (Central Visayas),False,0.695,-1.03,0.759,-1.725,1.788
+0701221000,Duero,Bohol,Region VII (Central Visayas),False,0.645,0.319,1.136,-0.327,0.817
+0701222000,Garcia Hernandez,Bohol,Region VII (Central Visayas),False,0.727,0.937,0.205,0.21,-0.732
+0701223000,Guindulman,Bohol,Region VII (Central Visayas),False,0.243,0.368,1.08,0.125,0.712
+0701224000,Inabanga,Bohol,Region VII (Central Visayas),False,0.616,1.113,1.191,0.497,0.078
+0701225000,Jagna,Bohol,Region VII (Central Visayas),False,0.611,0.763,1.179,0.153,0.416
+0701226000,Getafe,Bohol,Region VII (Central Visayas),False,0.353,2.077,1.627,1.724,-0.45
+0701227000,Lila,Bohol,Region VII (Central Visayas),False,1.505,0.428,-0.029,-1.077,-0.458
+0701228000,Loay,Bohol,Region VII (Central Visayas),False,1.2,0.498,1.429,-0.701,0.931
+0701229000,Loboc,Bohol,Region VII (Central Visayas),False,0.361,-0.375,1.813,-0.737,2.189
+0701230000,Loon,Bohol,Region VII (Central Visayas),False,-0.547,0.104,0.576,0.651,0.472
+0701231000,Mabini,Bohol,Region VII (Central Visayas),False,0.334,-0.688,1.16,-1.022,1.848
+0701232000,Maribojoc,Bohol,Region VII (Central Visayas),False,2.014,0.182,1.475,-1.832,1.293
+0701233000,Panglao,Bohol,Region VII (Central Visayas),False,2.974,3.087,3.681,0.113,0.594
+0701234000,Pilar,Bohol,Region VII (Central Visayas),False,0.692,0.26,1.088,-0.432,0.828
+0701235000,President Carlos P. Garcia,Bohol,Region VII (Central Visayas),False,1.163,0.056,0.241,-1.107,0.185
+0701236000,Sagbayan,Bohol,Region VII (Central Visayas),False,0.913,2.041,1.818,1.128,-0.223
+0701237000,San Isidro,Bohol,Region VII (Central Visayas),False,0.021,-0.809,2.668,-0.83,3.477
+0701238000,San Miguel,Bohol,Region VII (Central Visayas),False,1.246,0.449,1.044,-0.797,0.595
+0701239000,Sevilla,Bohol,Region VII (Central Visayas),False,0.156,0.394,1.376,0.238,0.982
+0701240000,Sierra Bullones,Bohol,Region VII (Central Visayas),False,-0.319,0.036,1.125,0.355,1.088
+0701241000,Sikatuna,Bohol,Region VII (Central Visayas),False,-0.341,1.011,0.558,1.352,-0.453
+0701242000,City of Tagbilaran ,Bohol,Region VII (Central Visayas),False,2.221,1.572,-0.015,-0.65,-1.587
+0701243000,Talibon,Bohol,Region VII (Central Visayas),False,1.261,1.676,1.32,0.415,-0.356
+0701244000,Trinidad,Bohol,Region VII (Central Visayas),False,1.162,1.982,2.007,0.82,0.025
+0701245000,Tubigon,Bohol,Region VII (Central Visayas),False,1.066,0.417,0.899,-0.649,0.482
+0701246000,Ubay,Bohol,Region VII (Central Visayas),False,1.375,1.385,2.216,0.01,0.831
+0701247000,Valencia,Bohol,Region VII (Central Visayas),False,1.25,-0.32,0.965,-1.57,1.285
+0701248000,Bien Unido,Bohol,Region VII (Central Visayas),False,1.524,0.954,-0.351,-0.569,-1.305
+0702201000,Alcantara,Cebu,Region VII (Central Visayas),False,1.63,2.153,2.327,0.523,0.174
+0702202000,Alcoy,Cebu,Region VII (Central Visayas),False,0.896,2.708,2.606,1.811,-0.102
+0702203000,Alegria,Cebu,Region VII (Central Visayas),False,0.655,1.037,2.018,0.382,0.982
+0702204000,Aloguinsan,Cebu,Region VII (Central Visayas),False,1.35,2.883,1.508,1.533,-1.375
+0702205000,Argao,Cebu,Region VII (Central Visayas),False,1.312,0.772,1.642,-0.54,0.87
+0702206000,Asturias,Cebu,Region VII (Central Visayas),False,1.391,1.295,3.128,-0.096,1.834
+0702207000,Badian,Cebu,Region VII (Central Visayas),False,2.175,0.107,3.054,-2.068,2.946
+0702208000,Balamban,Cebu,Region VII (Central Visayas),False,1.745,3.921,1.856,2.176,-2.065
+0702209000,Bantayan,Cebu,Region VII (Central Visayas),False,0.937,1.07,1.842,0.133,0.772
+0702210000,Barili,Cebu,Region VII (Central Visayas),False,1.268,2.308,1.885,1.039,-0.422
+0702211000,City of Bogo,Cebu,Region VII (Central Visayas),False,0.908,2.137,2.751,1.229,0.613
+0702212000,Boljoon,Cebu,Region VII (Central Visayas),False,1.168,1.613,1.48,0.445,-0.133
+0702213000,Borbon,Cebu,Region VII (Central Visayas),False,1.012,2.257,1.532,1.245,-0.725
+0702214000,City of Carcar,Cebu,Region VII (Central Visayas),False,1.867,2.095,2.803,0.228,0.708
+0702215000,Carmen,Cebu,Region VII (Central Visayas),False,1.801,2.69,2.569,0.89,-0.121
+0702216000,Catmon,Cebu,Region VII (Central Visayas),False,1.221,1.404,2.172,0.183,0.768
+0702218000,Compostela,Cebu,Region VII (Central Visayas),False,3.076,2.27,3.296,-0.806,1.026
+0702219000,Consolacion,Cebu,Region VII (Central Visayas),False,5.523,4.075,2.517,-1.449,-1.558
+0702220000,Cordova,Cebu,Region VII (Central Visayas),False,3.995,3.3,3.588,-0.695,0.287
+0702221000,Daanbantayan,Cebu,Region VII (Central Visayas),False,0.774,2.308,2.172,1.534,-0.136
+0702222000,Dalaguete,Cebu,Region VII (Central Visayas),False,0.986,1.249,2.128,0.263,0.879
+0702223000,Danao City,Cebu,Region VII (Central Visayas),False,1.901,2.602,2.9,0.701,0.298
+0702224000,Dumanjug,Cebu,Region VII (Central Visayas),False,1.658,1.749,2.59,0.091,0.841
+0702225000,Ginatilan,Cebu,Region VII (Central Visayas),False,0.857,0.724,1.274,-0.133,0.55
+0702227000,Liloan,Cebu,Region VII (Central Visayas),False,4.459,3.23,5.508,-1.229,2.278
+0702228000,Madridejos,Cebu,Region VII (Central Visayas),False,1.864,0.817,3.061,-1.046,2.244
+0702229000,Malabuyoc,Cebu,Region VII (Central Visayas),False,0.8,0.959,0.428,0.159,-0.531
+0702231000,Medellin,Cebu,Region VII (Central Visayas),False,1.503,1.931,1.578,0.428,-0.352
+0702232000,Minglanilla,Cebu,Region VII (Central Visayas),False,3.891,2.994,2.85,-0.897,-0.144
+0702233000,Moalboal,Cebu,Region VII (Central Visayas),False,1.692,2.265,3.662,0.574,1.397
+0702234000,City of Naga,Cebu,Region VII (Central Visayas),False,2.392,2.52,2.998,0.128,0.477
+0702235000,Oslob,Cebu,Region VII (Central Visayas),False,1.514,1.262,1.015,-0.252,-0.246
+0702236000,Pilar,Cebu,Region VII (Central Visayas),False,0.297,-0.425,2.143,-0.723,2.568
+0702237000,Pinamungajan,Cebu,Region VII (Central Visayas),False,1.153,2.479,2.78,1.326,0.301
+0702238000,Poro,Cebu,Region VII (Central Visayas),False,0.941,1.35,0.838,0.409,-0.512
+0702239000,Ronda,Cebu,Region VII (Central Visayas),False,1.008,1.756,0.659,0.747,-1.097
+0702240000,Samboan,Cebu,Region VII (Central Visayas),False,1.115,2.217,-0.52,1.102,-2.737
+0702241000,San Fernando,Cebu,Region VII (Central Visayas),False,2.371,1.603,1.825,-0.767,0.221
+0702242000,San Francisco,Cebu,Region VII (Central Visayas),False,1.371,2.955,1.504,1.584,-1.45
+0702243000,San Remigio,Cebu,Region VII (Central Visayas),False,1.559,2.181,2.839,0.622,0.659
+0702244000,Santa Fe,Cebu,Region VII (Central Visayas),False,1.737,0.913,4.007,-0.824,3.094
+0702245000,Santander,Cebu,Region VII (Central Visayas),False,1.526,1.986,0.778,0.461,-1.208
+0702246000,Sibonga,Cebu,Region VII (Central Visayas),False,1.319,1.905,2.196,0.586,0.291
+0702247000,Sogod,Cebu,Region VII (Central Visayas),False,1.107,2.636,2.484,1.528,-0.152
+0702248000,Tabogon,Cebu,Region VII (Central Visayas),False,1.727,3.225,1.275,1.498,-1.951
+0702249000,Tabuelan,Cebu,Region VII (Central Visayas),False,1.413,2.693,2.565,1.28,-0.128
+0702250000,City of Talisay,Cebu,Region VII (Central Visayas),False,3.089,2.422,3.09,-0.667,0.668
+0702251000,City of Toledo,Cebu,Region VII (Central Visayas),False,1.073,1.555,4.223,0.482,2.668
+0702252000,Tuburan,Cebu,Region VII (Central Visayas),False,1.286,1.549,1.382,0.263,-0.168
+0702253000,Tudela,Cebu,Region VII (Central Visayas),False,-0.534,2.626,0.015,3.159,-2.611
+0730600000,City of Cebu ,Region VII (Central Visayas),Region VII (Central Visayas),False,1.882,1.21,0.932,-0.673,-0.278
+0731100000,City of Lapu-Lapu,Region VII (Central Visayas),Region VII (Central Visayas),False,4.91,2.943,4.262,-1.967,1.319
+0731300000,City of Mandaue,Region VII (Central Visayas),Region VII (Central Visayas),False,2.464,1.736,0.085,-0.728,-1.651
+1804601000,Amlan,Negros Oriental,Negros Island Region (NIR),False,1.451,1.186,1.633,-0.265,0.447
+1804602000,Ayungon,Negros Oriental,Negros Island Region (NIR),False,1.253,0.065,0.361,-1.188,0.296
+1804603000,Bacong,Negros Oriental,Negros Island Region (NIR),False,3.352,2.379,2.571,-0.973,0.192
+1804604000,City of Bais,Negros Oriental,Negros Island Region (NIR),False,0.93,0.397,2.128,-0.533,1.732
+1804605000,Basay,Negros Oriental,Negros Island Region (NIR),False,1.548,1.231,1.514,-0.317,0.282
+1804606000,City of Bayawan,Negros Oriental,Negros Island Region (NIR),False,1.186,0.63,0.852,-0.555,0.221
+1804607000,Bindoy,Negros Oriental,Negros Island Region (NIR),False,1.261,0.194,0.257,-1.067,0.063
+1804608000,City of Canlaon,Negros Oriental,Negros Island Region (NIR),False,0.844,1.417,1.616,0.574,0.199
+1804609000,Dauin,Negros Oriental,Negros Island Region (NIR),False,1.818,1.848,1.64,0.03,-0.208
+1804610000,City of Dumaguete ,Negros Oriental,Negros Island Region (NIR),False,1.687,1.598,0.433,-0.088,-1.165
+1804611000,City of Guihulngan,Negros Oriental,Negros Island Region (NIR),False,1.023,0.462,1.428,-0.561,0.966
+1804612000,Jimalalud,Negros Oriental,Negros Island Region (NIR),False,0.824,1.215,0.877,0.391,-0.338
+1804613000,La Libertad,Negros Oriental,Negros Island Region (NIR),False,1.028,-0.148,1.323,-1.176,1.471
+1804614000,Mabinay,Negros Oriental,Negros Island Region (NIR),False,1.024,1.171,1.07,0.147,-0.101
+1804615000,Manjuyod,Negros Oriental,Negros Island Region (NIR),False,0.825,0.561,1.2,-0.265,0.639
+1804616000,Pamplona,Negros Oriental,Negros Island Region (NIR),False,0.627,1.424,1.209,0.797,-0.215
+1804617000,San Jose,Negros Oriental,Negros Island Region (NIR),False,2.001,1.276,1.546,-0.725,0.269
+1804618000,Santa Catalina,Negros Oriental,Negros Island Region (NIR),False,0.874,0.628,0.481,-0.246,-0.148
+1804619000,Siaton,Negros Oriental,Negros Island Region (NIR),False,1.323,1.12,1.421,-0.204,0.302
+1804620000,Sibulan,Negros Oriental,Negros Island Region (NIR),False,3.221,2.767,1.677,-0.454,-1.089
+1804621000,City of Tanjay,Negros Oriental,Negros Island Region (NIR),False,1.205,0.343,0.546,-0.862,0.203
+1804622000,Tayasan,Negros Oriental,Negros Island Region (NIR),False,1.174,0.469,1.55,-0.705,1.081
+1804623000,Valencia,Negros Oriental,Negros Island Region (NIR),False,2.594,1.959,2.248,-0.635,0.289
+1804624000,Vallehermoso,Negros Oriental,Negros Island Region (NIR),False,0.859,0.669,1.352,-0.19,0.683
+1804625000,Zamboanguita,Negros Oriental,Negros Island Region (NIR),False,0.689,1.872,1.499,1.183,-0.373
+1806101000,Enrique Villanueva,Siquijor,Negros Island Region (NIR),False,1.08,0.417,2.268,-0.662,1.85
+1806102000,Larena,Siquijor,Negros Island Region (NIR),False,0.504,1.312,0.907,0.808,-0.405
+1806103000,Lazi,Siquijor,Negros Island Region (NIR),False,0.897,0.439,1.978,-0.457,1.539
+1806104000,Maria,Siquijor,Negros Island Region (NIR),False,0.868,0.625,0.835,-0.243,0.21
+1806105000,San Juan,Siquijor,Negros Island Region (NIR),False,1.038,1.801,2.058,0.763,0.256
+1806106000,Siquijor ,Siquijor,Negros Island Region (NIR),False,1.78,1.2,1.563,-0.58,0.364
+0807801000,Almeria,Biliran,Region VIII (Eastern Visayas),True,1.76,0.521,1.218,-1.239,0.697
+0807802000,Biliran,Biliran,Region VIII (Eastern Visayas),True,1.593,0.809,0.955,-0.784,0.147
+0807803000,Cabucgayan,Biliran,Region VIII (Eastern Visayas),True,1.041,1.107,0.753,0.066,-0.354
+0807804000,Caibiran,Biliran,Region VIII (Eastern Visayas),True,0.914,0.914,1.493,0.001,0.579
+0807805000,Culaba,Biliran,Region VIII (Eastern Visayas),True,0.63,0.113,1.083,-0.517,0.97
+0807806000,Kawayan,Biliran,Region VIII (Eastern Visayas),True,1.46,0.05,0.17,-1.41,0.12
+0807807000,Maripipi,Biliran,Region VIII (Eastern Visayas),True,-2.143,1.273,-2.419,3.416,-3.692
+0807808000,Naval ,Biliran,Region VIII (Eastern Visayas),True,2.54,2.195,1.313,-0.344,-0.883
+0802601000,Arteche,Eastern Samar,Region VIII (Eastern Visayas),True,1.533,1.059,0.435,-0.474,-0.623
+0802602000,Balangiga,Eastern Samar,Region VIII (Eastern Visayas),True,1.809,1.906,0.38,0.096,-1.526
+0802603000,Balangkayan,Eastern Samar,Region VIII (Eastern Visayas),True,1.068,2.17,0.124,1.101,-2.045
+0802604000,City of Borongan ,Eastern Samar,Region VIII (Eastern Visayas),True,1.573,1.389,0.797,-0.185,-0.591
+0802605000,Can-Avid,Eastern Samar,Region VIII (Eastern Visayas),True,1.394,1.155,0.66,-0.238,-0.495
+0802606000,Dolores,Eastern Samar,Region VIII (Eastern Visayas),True,1.455,2.367,0.851,0.912,-1.516
+0802607000,General Macarthur,Eastern Samar,Region VIII (Eastern Visayas),True,1.57,3.39,-0.202,1.82,-3.592
+0802608000,Giporlos,Eastern Samar,Region VIII (Eastern Visayas),True,1.654,1.926,-0.304,0.271,-2.229
+0802609000,Guiuan,Eastern Samar,Region VIII (Eastern Visayas),True,1.972,2.296,0.147,0.325,-2.15
+0802610000,Hernani,Eastern Samar,Region VIII (Eastern Visayas),True,0.546,1.158,-0.103,0.612,-1.262
+0802611000,Jipapad,Eastern Samar,Region VIII (Eastern Visayas),True,1.153,1.224,1.44,0.072,0.215
+0802612000,Lawaan,Eastern Samar,Region VIII (Eastern Visayas),True,1.654,1.785,0.428,0.13,-1.357
+0802613000,Llorente,Eastern Samar,Region VIII (Eastern Visayas),True,-0.122,1.023,1.335,1.145,0.312
+0802614000,Maslog,Eastern Samar,Region VIII (Eastern Visayas),True,1.777,2.371,0.217,0.595,-2.154
+0802615000,Maydolong,Eastern Samar,Region VIII (Eastern Visayas),True,1.491,1.529,0.803,0.038,-0.726
+0802616000,Mercedes,Eastern Samar,Region VIII (Eastern Visayas),True,1.007,2.365,0.145,1.358,-2.22
+0802617000,Oras,Eastern Samar,Region VIII (Eastern Visayas),True,1.049,0.956,0.52,-0.093,-0.436
+0802618000,Quinapondan,Eastern Samar,Region VIII (Eastern Visayas),True,1.676,1.257,-0.39,-0.42,-1.647
+0802619000,Salcedo,Eastern Samar,Region VIII (Eastern Visayas),True,1.641,2.326,-0.373,0.685,-2.698
+0802620000,San Julian,Eastern Samar,Region VIII (Eastern Visayas),True,1.051,1.017,0.435,-0.034,-0.582
+0802621000,San Policarpo,Eastern Samar,Region VIII (Eastern Visayas),True,1.099,1.143,0.955,0.044,-0.189
+0802622000,Sulat,Eastern Samar,Region VIII (Eastern Visayas),True,0.677,0.241,0.517,-0.436,0.276
+0802623000,Taft,Eastern Samar,Region VIII (Eastern Visayas),True,0.446,1.846,-0.144,1.4,-1.99
+0803701000,Abuyog,Leyte,Region VIII (Eastern Visayas),True,0.598,0.795,0.575,0.196,-0.22
+0803702000,Alangalang,Leyte,Region VIII (Eastern Visayas),True,1.187,3.371,0.733,2.184,-2.638
+0803703000,Albuera,Leyte,Region VIII (Eastern Visayas),True,1.678,2.57,0.37,0.892,-2.2
+0803705000,Babatngon,Leyte,Region VIII (Eastern Visayas),True,1.937,1.6,0.766,-0.338,-0.834
+0803706000,Barugo,Leyte,Region VIII (Eastern Visayas),True,1.121,1.622,1.103,0.502,-0.519
+0803707000,Bato,Leyte,Region VIII (Eastern Visayas),True,0.772,1.425,0.082,0.653,-1.343
+0803708000,City of Baybay,Leyte,Region VIII (Eastern Visayas),True,0.73,1.19,0.461,0.461,-0.729
+0803710000,Burauen,Leyte,Region VIII (Eastern Visayas),True,0.349,1.466,-0.088,1.117,-1.554
+0803713000,Calubian,Leyte,Region VIII (Eastern Visayas),True,0.414,1.013,0.28,0.599,-0.732
+0803714000,Capoocan,Leyte,Region VIII (Eastern Visayas),True,0.784,2.3,0.065,1.516,-2.235
+0803715000,Carigara,Leyte,Region VIII (Eastern Visayas),True,0.882,1.516,1.324,0.634,-0.192
+0803717000,Dagami,Leyte,Region VIII (Eastern Visayas),True,0.744,2.115,0.611,1.371,-1.504
+0803718000,Dulag,Leyte,Region VIII (Eastern Visayas),True,0.712,2.403,0.743,1.691,-1.66
+0803719000,Hilongos,Leyte,Region VIII (Eastern Visayas),True,0.992,2.124,0.357,1.132,-1.767
+0803720000,Hindang,Leyte,Region VIII (Eastern Visayas),True,0.876,0.693,-0.076,-0.183,-0.769
+0803721000,Inopacan,Leyte,Region VIII (Eastern Visayas),True,0.637,0.61,0.846,-0.026,0.236
+0803722000,Isabel,Leyte,Region VIII (Eastern Visayas),True,1.254,1.409,-0.06,0.155,-1.469
+0803723000,Jaro,Leyte,Region VIII (Eastern Visayas),True,0.557,1.682,0.271,1.125,-1.411
+0803724000,Javier,Leyte,Region VIII (Eastern Visayas),True,0.438,1.168,1.04,0.73,-0.128
+0803725000,Julita,Leyte,Region VIII (Eastern Visayas),True,0.959,2.455,0.666,1.496,-1.789
+0803726000,Kananga,Leyte,Region VIII (Eastern Visayas),True,1.143,3.169,1.137,2.026,-2.032
+0803728000,La Paz,Leyte,Region VIII (Eastern Visayas),True,0.823,0.846,-0.882,0.023,-1.728
+0803729000,Leyte,Leyte,Region VIII (Eastern Visayas),True,0.625,1.54,-0.126,0.916,-1.666
+0803730000,Macarthur,Leyte,Region VIII (Eastern Visayas),True,1.064,2.404,0.362,1.34,-2.042
+0803731000,Mahaplag,Leyte,Region VIII (Eastern Visayas),True,0.033,0.861,0.032,0.827,-0.829
+0803733000,Matag-Ob,Leyte,Region VIII (Eastern Visayas),True,-0.253,1.39,-0.993,1.642,-2.383
+0803734000,Matalom,Leyte,Region VIII (Eastern Visayas),True,0.288,1.208,-0.342,0.921,-1.551
+0803735000,Mayorga,Leyte,Region VIII (Eastern Visayas),True,1.509,3.0,1.094,1.491,-1.907
+0803736000,Merida,Leyte,Region VIII (Eastern Visayas),True,0.725,1.778,1.18,1.053,-0.598
+0803738000,Ormoc City,Leyte,Region VIII (Eastern Visayas),True,2.168,2.263,1.519,0.095,-0.743
+0803739000,Palo,Leyte,Region VIII (Eastern Visayas),True,2.716,2.126,1.79,-0.59,-0.336
+0803740000,Palompon,Leyte,Region VIII (Eastern Visayas),True,0.652,1.348,0.074,0.696,-1.274
+0803741000,Pastrana,Leyte,Region VIII (Eastern Visayas),True,1.496,1.499,1.542,0.003,0.042
+0803742000,San Isidro,Leyte,Region VIII (Eastern Visayas),True,-0.295,1.975,-0.619,2.27,-2.593
+0803743000,San Miguel,Leyte,Region VIII (Eastern Visayas),True,1.486,1.935,0.359,0.449,-1.577
+0803744000,Santa Fe,Leyte,Region VIII (Eastern Visayas),True,1.483,3.083,1.66,1.601,-1.423
+0803745000,Tabango,Leyte,Region VIII (Eastern Visayas),True,0.158,1.313,-0.202,1.155,-1.515
+0803746000,Tabontabon,Leyte,Region VIII (Eastern Visayas),True,1.627,2.507,1.28,0.881,-1.227
+0803748000,Tanauan,Leyte,Region VIII (Eastern Visayas),True,1.071,1.793,0.915,0.723,-0.878
+0803749000,Tolosa,Leyte,Region VIII (Eastern Visayas),True,2.113,3.045,-0.272,0.932,-3.318
+0803750000,Tunga,Leyte,Region VIII (Eastern Visayas),True,0.644,2.933,0.199,2.289,-2.734
+0803751000,Villaba,Leyte,Region VIII (Eastern Visayas),True,0.745,1.461,0.482,0.716,-0.979
+0831600000,City of Tacloban ,Region VIII (Eastern Visayas),Region VIII (Eastern Visayas),True,2.159,1.736,0.838,-0.423,-0.898
+0804801000,Allen,Northern Samar,Region VIII (Eastern Visayas),False,1.695,1.35,-0.2,-0.345,-1.55
+0804802000,Biri,Northern Samar,Region VIII (Eastern Visayas),False,2.361,1.315,-0.897,-1.046,-2.212
+0804803000,Bobon,Northern Samar,Region VIII (Eastern Visayas),False,2.204,2.345,1.968,0.141,-0.377
+0804804000,Capul,Northern Samar,Region VIII (Eastern Visayas),False,1.773,0.03,-0.598,-1.743,-0.628
+0804805000,Catarman ,Northern Samar,Region VIII (Eastern Visayas),False,2.286,1.981,0.847,-0.305,-1.135
+0804806000,Catubig,Northern Samar,Region VIII (Eastern Visayas),False,1.656,0.769,-0.548,-0.887,-1.317
+0804807000,Gamay,Northern Samar,Region VIII (Eastern Visayas),False,0.509,0.905,-0.129,0.395,-1.034
+0804808000,Laoang,Northern Samar,Region VIII (Eastern Visayas),False,0.627,1.066,-0.259,0.439,-1.325
+0804809000,Lapinig,Northern Samar,Region VIII (Eastern Visayas),False,0.843,1.984,-1.973,1.141,-3.957
+0804810000,Las Navas,Northern Samar,Region VIII (Eastern Visayas),False,2.216,0.723,-0.746,-1.494,-1.469
+0804811000,Lavezares,Northern Samar,Region VIII (Eastern Visayas),False,1.361,0.889,0.45,-0.472,-0.439
+0804812000,Mapanas,Northern Samar,Region VIII (Eastern Visayas),False,1.086,2.337,0.312,1.251,-2.025
+0804813000,Mondragon,Northern Samar,Region VIII (Eastern Visayas),False,2.313,1.77,1.423,-0.543,-0.347
+0804814000,Palapag,Northern Samar,Region VIII (Eastern Visayas),False,0.922,0.47,-0.155,-0.452,-0.625
+0804815000,Pambujan,Northern Samar,Region VIII (Eastern Visayas),False,2.034,1.199,1.528,-0.835,0.33
+0804816000,Rosario,Northern Samar,Region VIII (Eastern Visayas),False,1.679,0.564,0.845,-1.116,0.281
+0804817000,San Antonio,Northern Samar,Region VIII (Eastern Visayas),False,1.154,0.385,-0.412,-0.768,-0.797
+0804818000,San Isidro,Northern Samar,Region VIII (Eastern Visayas),False,0.885,1.262,0.945,0.377,-0.317
+0804819000,San Jose,Northern Samar,Region VIII (Eastern Visayas),False,1.715,1.694,0.096,-0.022,-1.598
+0804820000,San Roque,Northern Samar,Region VIII (Eastern Visayas),False,2.865,2.896,-0.485,0.031,-3.381
+0804821000,San Vicente,Northern Samar,Region VIII (Eastern Visayas),False,2.476,1.024,-2.612,-1.453,-3.635
+0804822000,Silvino Lobos,Northern Samar,Region VIII (Eastern Visayas),False,1.24,1.291,-0.275,0.051,-1.566
+0804823000,Victoria,Northern Samar,Region VIII (Eastern Visayas),False,1.812,1.197,0.762,-0.615,-0.435
+0804824000,Lope De Vega,Northern Samar,Region VIII (Eastern Visayas),False,1.426,1.558,0.004,0.132,-1.554
+0806001000,Almagro,Samar,Region VIII (Eastern Visayas),True,0.375,-3.909,0.768,-4.284,4.677
+0806002000,Basey,Samar,Region VIII (Eastern Visayas),True,1.416,1.837,0.453,0.421,-1.384
+0806003000,City of Calbayog,Samar,Region VIII (Eastern Visayas),True,1.616,1.19,0.354,-0.426,-0.837
+0806004000,Calbiga,Samar,Region VIII (Eastern Visayas),True,1.271,1.337,0.299,0.066,-1.038
+0806005000,City of Catbalogan ,Samar,Region VIII (Eastern Visayas),True,1.144,1.856,0.514,0.713,-1.342
+0806006000,Daram,Samar,Region VIII (Eastern Visayas),True,1.521,0.707,-0.631,-0.814,-1.338
+0806007000,Gandara,Samar,Region VIII (Eastern Visayas),True,1.018,1.441,0.489,0.423,-0.951
+0806008000,Hinabangan,Samar,Region VIII (Eastern Visayas),True,0.43,1.491,0.031,1.061,-1.46
+0806009000,Jiabong,Samar,Region VIII (Eastern Visayas),True,1.04,1.373,0.973,0.333,-0.4
+0806010000,Marabut,Samar,Region VIII (Eastern Visayas),True,2.053,2.22,1.071,0.167,-1.15
+0806011000,Matuguinao,Samar,Region VIII (Eastern Visayas),True,2.325,1.483,0.219,-0.842,-1.264
+0806012000,Motiong,Samar,Region VIII (Eastern Visayas),True,1.211,0.416,0.166,-0.795,-0.25
+0806013000,Pinabacdao,Samar,Region VIII (Eastern Visayas),True,2.1,2.288,-0.134,0.188,-2.422
+0806014000,San Jose De Buan,Samar,Region VIII (Eastern Visayas),True,0.192,3.265,-0.005,3.073,-3.271
+0806015000,San Sebastian,Samar,Region VIII (Eastern Visayas),True,1.293,0.847,1.639,-0.446,0.792
+0806016000,Santa Margarita,Samar,Region VIII (Eastern Visayas),True,1.346,1.121,0.371,-0.225,-0.75
+0806017000,Santa Rita,Samar,Region VIII (Eastern Visayas),True,2.374,1.693,0.398,-0.681,-1.295
+0806018000,Santo Niño,Samar,Region VIII (Eastern Visayas),True,0.739,-0.922,-0.569,-1.661,0.353
+0806019000,Talalora,Samar,Region VIII (Eastern Visayas),True,1.952,0.176,-0.53,-1.776,-0.706
+0806020000,Tarangnan,Samar,Region VIII (Eastern Visayas),True,1.632,0.658,0.601,-0.973,-0.058
+0806021000,Villareal,Samar,Region VIII (Eastern Visayas),True,1.057,1.416,-0.631,0.359,-2.047
+0806022000,Paranas,Samar,Region VIII (Eastern Visayas),True,0.491,0.786,1.223,0.295,0.438
+0806023000,Zumarraga,Samar,Region VIII (Eastern Visayas),True,0.94,-0.732,-0.021,-1.672,0.712
+0806024000,Tagapul-An,Samar,Region VIII (Eastern Visayas),True,-0.667,1.52,0.812,2.187,-0.707
+0806025000,San Jorge,Samar,Region VIII (Eastern Visayas),True,2.022,0.964,0.48,-1.058,-0.484
+0806026000,Pagsanghan,Samar,Region VIII (Eastern Visayas),True,1.264,-0.188,0.037,-1.452,0.225
+0806401000,Anahawan,Southern Leyte,Region VIII (Eastern Visayas),True,0.973,0.636,0.553,-0.337,-0.083
+0806402000,Bontoc,Southern Leyte,Region VIII (Eastern Visayas),True,0.175,0.554,0.643,0.379,0.09
+0806403000,Hinunangan,Southern Leyte,Region VIII (Eastern Visayas),True,1.282,1.024,-0.587,-0.258,-1.611
+0806404000,Hinundayan,Southern Leyte,Region VIII (Eastern Visayas),True,0.678,0.624,0.193,-0.054,-0.431
+0806405000,Libagon,Southern Leyte,Region VIII (Eastern Visayas),True,1.067,1.06,0.104,-0.007,-0.956
+0806406000,Liloan,Southern Leyte,Region VIII (Eastern Visayas),True,1.409,0.952,0.709,-0.457,-0.243
+0806407000,City of Maasin ,Southern Leyte,Region VIII (Eastern Visayas),True,1.334,0.989,0.46,-0.345,-0.529
+0806408000,Macrohon,Southern Leyte,Region VIII (Eastern Visayas),True,0.947,0.635,0.268,-0.312,-0.367
+0806409000,Malitbog,Southern Leyte,Region VIII (Eastern Visayas),True,1.312,0.778,0.304,-0.534,-0.474
+0806410000,Padre Burgos,Southern Leyte,Region VIII (Eastern Visayas),True,1.662,1.003,0.129,-0.659,-0.874
+0806411000,Pintuyan,Southern Leyte,Region VIII (Eastern Visayas),True,-0.325,1.134,0.794,1.459,-0.341
+0806412000,Saint Bernard,Southern Leyte,Region VIII (Eastern Visayas),True,0.866,2.324,0.014,1.457,-2.31
+0806413000,San Francisco,Southern Leyte,Region VIII (Eastern Visayas),True,1.431,1.293,0.053,-0.138,-1.239
+0806414000,San Juan,Southern Leyte,Region VIII (Eastern Visayas),True,0.409,1.039,0.076,0.63,-0.963
+0806415000,San Ricardo,Southern Leyte,Region VIII (Eastern Visayas),True,1.178,0.773,0.012,-0.405,-0.761
+0806416000,Silago,Southern Leyte,Region VIII (Eastern Visayas),True,1.617,0.709,0.556,-0.908,-0.153
+0806417000,Sogod,Southern Leyte,Region VIII (Eastern Visayas),True,1.023,1.59,1.175,0.566,-0.415
+0806418000,Tomas Oppus,Southern Leyte,Region VIII (Eastern Visayas),True,0.572,0.946,0.48,0.374,-0.466
+0806419000,Limasawa,Southern Leyte,Region VIII (Eastern Visayas),True,1.243,0.726,0.448,-0.516,-0.279

@@ -1,0 +1,1643 @@
+name_src,province_src,pop2024,class_src,psgc10,match_method
+Bangued,Abra,48331,Mun,1400101000,cur:exact
+Boliney,Abra,3778,Mun,1400102000,cur:exact
+Bucay,Abra,17775,Mun,1400103000,cur:exact
+Bucloc,Abra,2264,Mun,1400104000,cur:exact
+Daguioman,Abra,1773,Mun,1400105000,cur:exact
+Danglas,Abra,4372,Mun,1400106000,cur:exact
+Dolores,Abra,11967,Mun,1400107000,cur:exact
+La Paz,Abra,16014,Mun,1400108000,cur:exact
+Lacub,Abra,3649,Mun,1400109000,cur:exact
+Lagangilang,Abra,14577,Mun,1400110000,cur:exact
+Lagayan,Abra,5154,Mun,1400111000,cur:exact
+Langiden,Abra,3457,Mun,1400112000,cur:exact
+Licuan-Baay,Abra,4301,Mun,1400113000,cur:exact
+Luba,Abra,6402,Mun,1400114000,cur:exact
+Malibcong,Abra,4167,Mun,1400115000,cur:exact
+Manabo,Abra,11087,Mun,1400116000,cur:exact
+Peñarrubia,Abra,7003,Mun,1400117000,cur:exact
+Pidigan,Abra,12058,Mun,1400118000,cur:exact
+Pilar,Abra,10498,Mun,1400119000,cur:exact
+Sallapadan,Abra,6328,Mun,1400120000,cur:exact
+San Isidro,Abra,4771,Mun,1400121000,cur:exact
+San Juan,Abra,10777,Mun,1400122000,cur:exact
+San Quintin,Abra,5963,Mun,1400123000,cur:exact
+Tayum,Abra,14808,Mun,1400124000,cur:exact
+Tineg,Abra,5059,Mun,1400125000,cur:exact
+Tubo,Abra,4941,Mun,1400126000,cur:exact
+Villaviciosa,Abra,5674,Mun,1400127000,cur:exact
+Buenavista,Agusan del Norte,70691,Mun,1600201000,cur:exact
+Butuan,Agusan del Norte,385530,,1630400000,cur:based
+Cabadbaran,Agusan del Norte,82343,,1600203000,cur:based
+Carmen,Agusan del Norte,23304,Mun,1600204000,cur:exact
+Jabonga,Agusan del Norte,25937,Mun,1600205000,cur:exact
+Kitcharao,Agusan del Norte,22671,Mun,1600206000,cur:exact
+Las Nieves,Agusan del Norte,32402,Mun,1600207000,cur:exact
+Magallanes,Agusan del Norte,22780,Mun,1600208000,cur:exact
+Nasipit,Agusan del Norte,46382,Mun,1600209000,cur:exact
+Remedios T. Romualdez,Agusan del Norte,17250,Mun,1600212000,cur:exact
+Santiago,Agusan del Norte,33877,Mun,1600210000,cur:exact
+Tubay,Agusan del Norte,26463,Mun,1600211000,cur:exact
+Bayugan,Agusan del Sur,110313,,1600301000,cur:based
+Bunawan,Agusan del Sur,50999,Mun,1600302000,cur:exact
+Esperanza,Agusan del Sur,59065,Mun,1600303000,cur:exact
+La Paz,Agusan del Sur,29096,Mun,1600304000,cur:exact
+Loreto,Agusan del Sur,43761,Mun,1600305000,cur:exact
+Prosperidad,Agusan del Sur,90162,Mun,1600306000,cur:exact
+Rosario,Agusan del Sur,51207,Mun,1600307000,cur:exact
+San Francisco,Agusan del Sur,79718,Mun,1600308000,cur:exact
+San Luis,Agusan del Sur,36264,Mun,1600309000,cur:exact
+Santa Josefa,Agusan del Sur,24667,Mun,1600310000,cur:exact
+Sibagat,Agusan del Sur,33271,Mun,1600314000,cur:exact
+Talacogon,Agusan del Sur,37744,Mun,1600311000,cur:exact
+Trento,Agusan del Sur,51179,Mun,1600312000,cur:exact
+Veruela,Agusan del Sur,43085,Mun,1600313000,cur:exact
+Altavas,Aklan,26181,Mun,0600401000,cur:exact
+Balete,Aklan,30310,Mun,0600402000,cur:exact
+Banga,Aklan,41188,Mun,0600403000,cur:exact
+Batan,Aklan,33932,Mun,0600404000,cur:exact
+Buruanga,Aklan,19878,Mun,0600405000,cur:exact
+Ibajay,Aklan,53399,Mun,0600406000,cur:exact
+Kalibo,Aklan,93218,Mun,0600407000,cur:exact
+Lezo,Aklan,16200,Mun,0600408000,cur:exact
+Libacao,Aklan,28525,Mun,0600409000,cur:exact
+Madalag,Aklan,19043,Mun,0600410000,cur:exact
+Makato,Aklan,30650,Mun,0600411000,cur:exact
+Malay,Aklan,64723,Mun,0600412000,cur:exact
+Malinao,Aklan,24971,Mun,0600413000,cur:exact
+Nabas,Aklan,41568,Mun,0600414000,cur:exact
+New Washington,Aklan,49204,Mun,0600415000,cur:exact
+Numancia,Aklan,37428,Mun,0600416000,cur:exact
+Tangalan,Aklan,24004,Mun,0600417000,cur:exact
+Bacacay,Albay,72298,Mun,0500501000,cur:exact
+Camalig,Albay,73087,Mun,0500502000,cur:exact
+Daraga,Albay,138000,Mun,0500503000,cur:exact
+Guinobatan,Albay,84420,Mun,0500504000,cur:exact
+Jovellar,Albay,17538,Mun,0500505000,cur:exact
+Legazpi,Albay,210616,,0500506000,cur:based
+Libon,Albay,72135,Mun,0500507000,cur:exact
+Ligao,Albay,119779,,0500508000,cur:based
+Malilipot,Albay,41066,Mun,0500509000,cur:exact
+Malinao,Albay,49570,Mun,0500510000,cur:exact
+Manito,Albay,26425,Mun,0500511000,cur:exact
+Oas,Albay,64890,Mun,0500512000,cur:exact
+Pio Duran,Albay,48713,Mun,0500513000,cur:exact
+Polangui,Albay,89344,Mun,0500514000,cur:exact
+Rapu-Rapu,Albay,36281,Mun,0500515000,cur:exact
+Santo Domingo,Albay,37586,Mun,0500516000,cur:exact
+Tabaco,Albay,140779,,0500517000,cur:based
+Tiwi,Albay,56871,Mun,0500518000,cur:exact
+Anini-y,Antique,22713,Mun,0600601000,cur:exact
+Barbaza,Antique,24925,Mun,0600602000,cur:exact
+Belison,Antique,14433,Mun,0600603000,cur:exact
+Bugasong,Antique,36060,Mun,0600604000,cur:exact
+Caluya,Antique,42895,Mun,0600605000,cur:exact
+Culasi,Antique,46442,Mun,0600606000,cur:exact
+Hamtic,Antique,54455,Mun,0600608000,cur:exact
+Laua-an,Antique,28177,Mun,0600609000,cur:exact
+Libertad,Antique,18685,Mun,0600610000,cur:exact
+Pandan,Antique,37325,Mun,0600611000,cur:exact
+Patnongon,Antique,40070,Mun,0600612000,cur:exact
+San Jose de Buenavista,Antique,69522,Mun,0600613000,cur:exact
+San Remigio,Antique,36170,Mun,0600614000,cur:exact
+Sebaste,Antique,19365,Mun,0600615000,cur:exact
+Sibalom,Antique,67155,Mun,0600616000,cur:exact
+Tibiao,Antique,29608,Mun,0600617000,cur:exact
+Tobias Fornier,Antique,34411,Mun,0600607000,cur:exact
+Valderrama,Antique,20762,Mun,0600618000,cur:exact
+Calanasan,Apayao,12176,Mun,1408101000,cur:exact
+Conner,Apayao,28360,Mun,1408102000,cur:exact
+Flora,Apayao,18271,Mun,1408103000,cur:exact
+Kabugao,Apayao,16425,Mun,1408104000,cur:exact
+Luna,Apayao,21630,Mun,1408105000,cur:exact
+Pudtol,Apayao,15676,Mun,1408106000,cur:exact
+Santa Marcela,Apayao,14049,Mun,1408107000,cur:exact
+Baler,Aurora,44684,Mun,0307701000,cur:exact
+Casiguran,Aurora,26855,Mun,0307702000,cur:exact
+Dilasag,Aurora,17536,Mun,0307703000,cur:exact
+Dinalungan,Aurora,12552,Mun,0307704000,cur:exact
+Dingalan,Aurora,29286,Mun,0307705000,cur:exact
+Dipaculao,Aurora,33597,Mun,0307706000,cur:exact
+Maria Aurora,Aurora,45972,Mun,0307707000,cur:exact
+San Luis,Aurora,30342,Mun,0307708000,cur:exact
+Akbar,Basilan,27911,Mun,1900708000,cur:exact
+Al-Barka,Basilan,30318,Mun,1900709000,cur:exact
+Hadji Mohammad Ajul,Basilan,32806,Mun,1900710000,cur:exact
+Hadji Muhtamad,Basilan,30122,Mun,1900712000,cur:exact
+Isabela,Basilan,151297,,0990101000,cur:based
+Lamitan,Basilan,116652,,1900702000,cur:based
+Lantawan,Basilan,48777,Mun,1900703000,cur:exact
+Maluso,Basilan,66817,Mun,1900704000,cur:exact
+Sumisip,Basilan,55778,Mun,1900705000,cur:exact
+Tabuan-Lasa,Basilan,38964,Mun,1900713000,cur:exact
+Tipo-Tipo,Basilan,32734,Mun,1900706000,cur:exact
+Tuburan,Basilan,30027,Mun,1900707000,cur:exact
+Ungkaya Pukan,Basilan,31041,Mun,1900711000,cur:exact
+Abucay,Bataan,44846,Mun,0300801000,cur:exact
+Bagac,Bataan,32799,Mun,0300802000,cur:exact
+Balanga,Bataan,109931,,0300803000,cur:based
+Dinalupihan,Bataan,124188,Mun,0300804000,cur:exact
+Hermosa,Bataan,80557,Mun,0300805000,cur:exact
+Limay,Bataan,81960,Mun,0300806000,cur:exact
+Mariveles,Bataan,156200,Mun,0300807000,cur:exact
+Morong,Bataan,37024,Mun,0300808000,cur:exact
+Orani,Bataan,72941,Mun,0300809000,cur:exact
+Orion,Bataan,63044,Mun,0300810000,cur:exact
+Pilar,Bataan,47107,Mun,0300811000,cur:exact
+Samal,Bataan,40843,Mun,0300812000,cur:exact
+Basco,Batanes,9647,Mun,0200901000,cur:exact
+Itbayat,Batanes,2937,Mun,0200902000,cur:exact
+Ivana,Batanes,1368,Mun,0200903000,cur:exact
+Mahatao,Batanes,1745,Mun,0200904000,cur:exact
+Sabtang,Batanes,1774,Mun,0200905000,cur:exact
+Uyugan,Batanes,1466,Mun,0200906000,cur:exact
+Agoncillo,Batangas,40662,Mun,0401001000,cur:exact
+Alitagtag,Batangas,28033,Mun,0401002000,cur:exact
+Balayan,Batangas,96939,Mun,0401003000,cur:exact
+Balete,Batangas,24202,Mun,0401004000,cur:exact
+Batangas City,Batangas,358267,,0401005000,cur:exact
+Bauan,Batangas,94016,Mun,0401006000,cur:exact
+Calaca,Batangas,92281,,0401007000,cur:based
+Calatagan,Batangas,60420,Mun,0401008000,cur:exact
+Cuenca,Batangas,36453,Mun,0401009000,cur:exact
+Ibaan,Batangas,58673,Mun,0401010000,cur:exact
+Laurel,Batangas,44791,Mun,0401011000,cur:exact
+Lemery,Batangas,94736,Mun,0401012000,cur:exact
+Lian,Batangas,56788,Mun,0401013000,cur:exact
+Lipa,Batangas,387392,,0401014000,cur:based
+Lobo,Batangas,41251,Mun,0401015000,cur:exact
+Mabini,Batangas,49876,Mun,0401016000,cur:exact
+Malvar,Batangas,74565,Mun,0401017000,cur:exact
+Mataasnakahoy,Batangas,31912,Mun,0401018000,cur:exact
+Nasugbu,Batangas,141063,Mun,0401019000,cur:exact
+Padre Garcia,Batangas,53526,Mun,0401020000,cur:exact
+Rosario,Batangas,131365,Mun,0401021000,cur:exact
+San Jose,Batangas,81170,Mun,0401022000,cur:exact
+San Juan,Batangas,115118,Mun,0401023000,cur:exact
+San Luis,Batangas,36841,Mun,0401024000,cur:exact
+San Nicolas,Batangas,24392,Mun,0401025000,cur:exact
+San Pascual,Batangas,69419,Mun,0401026000,cur:exact
+Santa Teresita,Batangas,21742,Mun,0401027000,cur:exact
+Santo Tomas,Batangas,226772,,0401028000,cur:based
+Taal,Batangas,61559,Mun,0401029000,cur:exact
+Talisay,Batangas,46477,Mun,0401030000,cur:exact
+Tanauan,Batangas,209697,,0401031000,cur:based
+Taysan,Batangas,41332,Mun,0401032000,cur:exact
+Tingloy,Batangas,15866,Mun,0401033000,cur:exact
+Tuy,Batangas,47199,Mun,0401034000,cur:exact
+Atok,Benguet,19346,Mun,1401101000,cur:exact
+Baguio,Benguet,368426,,1430300000,cur:based
+Bakun,Benguet,15399,Mun,1401103000,cur:exact
+Bokod,Benguet,16071,Mun,1401104000,cur:exact
+Buguias,Benguet,45703,Mun,1401105000,cur:exact
+Itogon,Benguet,59736,Mun,1401106000,cur:exact
+Kabayan,Benguet,15841,Mun,1401107000,cur:exact
+Kapangan,Benguet,20048,Mun,1401108000,cur:exact
+Kibungan,Benguet,16884,Mun,1401109000,cur:exact
+La Trinidad,Benguet,142925,Mun,1401110000,cur:exact
+Mankayan,Benguet,38647,Mun,1401111000,cur:exact
+Sablan,Benguet,12436,Mun,1401112000,cur:exact
+Tuba,Benguet,49268,Mun,1401113000,cur:exact
+Tublay,Benguet,20886,Mun,1401114000,cur:exact
+Almeria,Biliran,18716,Mun,0807801000,cur:exact
+Biliran,Biliran,18721,Mun,0807802000,cur:exact
+Cabucgayan,Biliran,21923,Mun,0807803000,cur:exact
+Caibiran,Biliran,24444,Mun,0807804000,cur:exact
+Culaba,Biliran,13563,Mun,0807805000,cur:exact
+Kawayan,Biliran,21422,Mun,0807806000,cur:exact
+Maripipi,Biliran,6070,Mun,0807807000,cur:exact
+Naval,Biliran,59236,Mun,0807808000,cur:exact
+Alburquerque,Bohol,11489,Mun,0701201000,cur:exact
+Alicia,Bohol,24663,Mun,0701202000,cur:exact
+Anda,Bohol,17835,Mun,0701203000,cur:exact
+Antequera,Bohol,14881,Mun,0701204000,cur:exact
+Baclayon,Bohol,22754,Mun,0701205000,cur:exact
+Balilihan,Bohol,19747,Mun,0701206000,cur:exact
+Batuan,Bohol,14423,Mun,0701207000,cur:exact
+Bien Unido,Bohol,26278,Mun,0701248000,cur:exact
+Bilar,Bohol,18877,Mun,0701208000,cur:exact
+Buenavista,Bohol,31095,Mun,0701209000,cur:exact
+Calape,Bohol,33022,Mun,0701210000,cur:exact
+Candijay,Bohol,30142,Mun,0701211000,cur:exact
+Carmen,Bohol,50249,Mun,0701212000,cur:exact
+Catigbian,Bohol,23812,Mun,0701213000,cur:exact
+Clarin,Bohol,21318,Mun,0701214000,cur:exact
+Corella,Bohol,9889,Mun,0701215000,cur:exact
+Cortes,Bohol,18976,Mun,0701216000,cur:exact
+Dagohoy,Bohol,20068,Mun,0701217000,cur:exact
+Danao,Bohol,20299,Mun,0701218000,cur:exact
+Dauis,Bohol,53864,Mun,0701219000,cur:exact
+Dimiao,Bohol,14894,Mun,0701220000,cur:exact
+Duero,Bohol,19136,Mun,0701221000,cur:exact
+Garcia Hernandez,Bohol,24450,Mun,0701222000,cur:exact
+Getafe,Bohol,33485,Mun,0701226000,cur:exact
+Guindulman,Bohol,34660,Mun,0701223000,cur:exact
+Inabanga,Bohol,49133,Mun,0701224000,cur:exact
+Jagna,Bohol,36674,Mun,0701225000,cur:exact
+Lila,Bohol,11450,Mun,0701227000,cur:exact
+Loay,Bohol,17957,Mun,0701228000,cur:exact
+Loboc,Bohol,17338,Mun,0701229000,cur:exact
+Loon,Bohol,43857,Mun,0701230000,cur:exact
+Mabini,Bohol,28224,Mun,0701231000,cur:exact
+Maribojoc,Bohol,22268,Mun,0701232000,cur:exact
+Panglao,Bohol,41760,Mun,0701233000,cur:exact
+Pilar,Bohol,28860,Mun,0701234000,cur:exact
+President Carlos P. Garcia,Bohol,23858,Mun,0701235000,cur:exact
+Sagbayan,Bohol,25329,Mun,0701236000,cur:exact
+San Isidro,Bohol,10228,Mun,0701237000,cur:exact
+San Miguel,Bohol,26124,Mun,0701238000,cur:exact
+Sevilla,Bohol,11425,Mun,0701239000,cur:exact
+Sierra Bullones,Bohol,26154,Mun,0701240000,cur:exact
+Sikatuna,Bohol,7031,Mun,0701241000,cur:exact
+Tagbilaran,Bohol,106120,,0701242000,cur:based
+Talibon,Bohol,71450,Mun,0701243000,cur:exact
+Trinidad,Bohol,37191,Mun,0701244000,cur:exact
+Tubigon,Bohol,49275,Mun,0701245000,cur:exact
+Ubay,Bohol,82179,Mun,0701246000,cur:exact
+Valencia,Bohol,28535,Mun,0701247000,cur:exact
+Baungon,Bukidnon,39151,Mun,1001301000,cur:exact
+Cabanglasan,Bukidnon,38365,Mun,1001322000,cur:exact
+Damulog,Bukidnon,38564,Mun,1001302000,cur:exact
+Dangcagan,Bukidnon,27128,Mun,1001303000,cur:exact
+Don Carlos,Bukidnon,73592,Mun,1001304000,cur:exact
+Impasugong,Bukidnon,55901,Mun,1001305000,cur:exact
+Kadingilan,Bukidnon,35432,Mun,1001306000,cur:exact
+Kalilangan,Bukidnon,44108,Mun,1001307000,cur:exact
+Kibawe,Bukidnon,43491,Mun,1001308000,cur:exact
+Kitaotao,Bukidnon,57364,Mun,1001309000,cur:exact
+Lantapan,Bukidnon,68777,Mun,1001310000,cur:exact
+Libona,Bukidnon,51555,Mun,1001311000,cur:exact
+Malaybalay,Bukidnon,195046,,1001312000,cur:based
+Malitbog,Bukidnon,28666,Mun,1001313000,cur:exact
+Manolo Fortich,Bukidnon,118075,Mun,1001314000,cur:exact
+Maramag,Bukidnon,109864,Mun,1001315000,cur:exact
+Pangantucan,Bukidnon,60162,Mun,1001316000,cur:exact
+Quezon,Bukidnon,114521,Mun,1001317000,cur:exact
+San Fernando,Bukidnon,65494,Mun,1001318000,cur:exact
+Sumilao,Bukidnon,31094,Mun,1001319000,cur:exact
+Talakag,Bukidnon,81932,Mun,1001320000,cur:exact
+Valencia,Bukidnon,223620,,1001321000,cur:based
+Angat,Bulacan,67862,Mun,0301401000,cur:exact
+Balagtas,Bulacan,80221,Mun,0301402000,cur:exact
+Baliwag,Bulacan,174194,,0301403000,cur:based
+Bocaue,Bulacan,147755,Mun,0301404000,cur:exact
+Bulakan,Bulacan,83101,Mun,0301405000,cur:exact
+Bustos,Bulacan,80565,Mun,0301406000,cur:exact
+Calumpit,Bulacan,122187,Mun,0301407000,cur:exact
+Doña Remedios Trinidad,Bulacan,30064,Mun,0301424000,cur:exact
+Guiguinto,Bulacan,118173,Mun,0301408000,cur:exact
+Hagonoy,Bulacan,136673,Mun,0301409000,cur:exact
+Malolos,Bulacan,269809,,0301410000,cur:based
+Marilao,Bulacan,263507,Mun,0301411000,cur:exact
+Meycauayan,Bulacan,228023,,0301412000,cur:based
+Norzagaray,Bulacan,140697,Mun,0301413000,cur:exact
+Obando,Bulacan,61073,Mun,0301414000,cur:exact
+Pandi,Bulacan,162725,Mun,0301415000,cur:exact
+Paombong,Bulacan,58453,Mun,0301416000,cur:exact
+Plaridel,Bulacan,120939,Mun,0301417000,cur:exact
+Pulilan,Bulacan,111384,Mun,0301418000,cur:exact
+San Ildefonso,Bulacan,123140,Mun,0301419000,cur:exact
+San Jose del Monte,Bulacan,685688,,0301420000,cur:based
+San Miguel,Bulacan,179792,Mun,0301421000,cur:exact
+San Rafael,Bulacan,108256,Mun,0301422000,cur:exact
+Santa Maria,Bulacan,322525,Mun,0301423000,cur:exact
+Abulug,Cagayan,35347,Mun,0201501000,cur:exact
+Alcala,Cagayan,41468,Mun,0201502000,cur:exact
+Allacapan,Cagayan,35946,Mun,0201503000,cur:exact
+Amulung,Cagayan,50903,Mun,0201504000,cur:exact
+Aparri,Cagayan,68368,Mun,0201505000,cur:exact
+Baggao,Cagayan,90723,Mun,0201506000,cur:exact
+Ballesteros,Cagayan,34562,Mun,0201507000,cur:exact
+Buguey,Cagayan,32351,Mun,0201508000,cur:exact
+Calayan,Cagayan,18008,Mun,0201509000,cur:exact
+Camalaniugan,Cagayan,25629,Mun,0201510000,cur:exact
+Claveria,Cagayan,32997,Mun,0201511000,cur:exact
+Enrile,Cagayan,36481,Mun,0201512000,cur:exact
+Gattaran,Cagayan,59704,Mun,0201513000,cur:exact
+Gonzaga,Cagayan,41994,Mun,0201514000,cur:exact
+Iguig,Cagayan,31342,Mun,0201515000,cur:exact
+Lal-lo,Cagayan,48404,Mun,0201516000,cur:exact
+Lasam,Cagayan,42042,Mun,0201517000,cur:exact
+Pamplona,Cagayan,25182,Mun,0201518000,cur:exact
+Peñablanca,Cagayan,50856,Mun,0201519000,cur:exact
+Piat,Cagayan,25436,Mun,0201520000,cur:exact
+Rizal,Cagayan,19577,Mun,0201521000,cur:exact
+Sanchez-Mira,Cagayan,26292,Mun,0201522000,cur:exact
+Santa Ana,Cagayan,34595,Mun,0201523000,cur:exact
+Santa Praxedes,Cagayan,4643,Mun,0201524000,cur:exact
+Santa Teresita,Cagayan,19476,Mun,0201525000,cur:exact
+Santo Niño,Cagayan,29066,Mun,0201526000,cur:exact
+Solana,Cagayan,89840,Mun,0201527000,cur:exact
+Tuao,Cagayan,66147,Mun,0201528000,cur:exact
+Tuguegarao,Cagayan,167297,,0201529000,cur:based
+Basud,Camarines Norte,43388,Mun,0501601000,cur:exact
+Capalonga,Camarines Norte,32800,Mun,0501602000,cur:exact
+Daet,Camarines Norte,106465,Mun,0501603000,cur:exact
+Jose Panganiban,Camarines Norte,60626,Mun,0501605000,cur:exact
+Labo,Camarines Norte,108319,Mun,0501606000,cur:exact
+Mercedes,Camarines Norte,53702,Mun,0501607000,cur:exact
+Paracale,Camarines Norte,58391,Mun,0501608000,cur:exact
+San Lorenzo Ruiz,Camarines Norte,15072,Mun,0501604000,cur:exact
+San Vicente,Camarines Norte,11774,Mun,0501609000,cur:exact
+Santa Elena,Camarines Norte,42585,Mun,0501610000,cur:exact
+Talisay,Camarines Norte,26371,Mun,0501611000,cur:exact
+Vinzons,Camarines Norte,45173,Mun,0501612000,cur:exact
+Baao,Camarines Sur,61357,Mun,0501701000,cur:exact
+Balatan,Camarines Sur,31069,Mun,0501702000,cur:exact
+Bato,Camarines Sur,52021,Mun,0501703000,cur:exact
+Bombon,Camarines Sur,17346,Mun,0501704000,cur:exact
+Buhi,Camarines Sur,78104,Mun,0501705000,cur:exact
+Bula,Camarines Sur,75943,Mun,0501706000,cur:exact
+Cabusao,Camarines Sur,18882,Mun,0501707000,cur:exact
+Calabanga,Camarines Sur,88918,Mun,0501708000,cur:exact
+Camaligan,Camarines Sur,25218,Mun,0501709000,cur:exact
+Canaman,Camarines Sur,35766,Mun,0501710000,cur:exact
+Caramoan,Camarines Sur,50433,Mun,0501711000,cur:exact
+Del Gallego,Camarines Sur,26029,Mun,0501712000,cur:exact
+Gainza,Camarines Sur,11652,Mun,0501713000,cur:exact
+Garchitorena,Camarines Sur,29408,Mun,0501714000,cur:exact
+Goa,Camarines Sur,71651,Mun,0501715000,cur:exact
+Iriga,Camarines Sur,115306,,0501716000,cur:based
+Lagonoy,Camarines Sur,57044,Mun,0501717000,cur:exact
+Libmanan,Camarines Sur,113254,Mun,0501718000,cur:exact
+Lupi,Camarines Sur,33474,Mun,0501719000,cur:exact
+Magarao,Camarines Sur,28197,Mun,0501720000,cur:exact
+Milaor,Camarines Sur,33680,Mun,0501721000,cur:exact
+Minalabac,Camarines Sur,51841,Mun,0501722000,cur:exact
+Nabua,Camarines Sur,86458,Mun,0501723000,cur:exact
+Naga,Camarines Sur,210545,,0501724000,cur:based
+Ocampo,Camarines Sur,49535,Mun,0501725000,cur:exact
+Pamplona,Camarines Sur,38556,Mun,0501726000,cur:exact
+Pasacao,Camarines Sur,50708,Mun,0501727000,cur:exact
+Pili,Camarines Sur,101668,Mun,0501728000,cur:exact
+Presentacion,Camarines Sur,23323,Mun,0501729000,cur:exact
+Ragay,Camarines Sur,58843,Mun,0501730000,cur:exact
+Sagñay,Camarines Sur,37087,Mun,0501731000,cur:exact
+San Fernando,Camarines Sur,39206,Mun,0501732000,cur:exact
+San Jose,Camarines Sur,44688,Mun,0501733000,cur:exact
+Sipocot,Camarines Sur,65286,Mun,0501734000,cur:exact
+Siruma,Camarines Sur,19168,Mun,0501735000,cur:exact
+Tigaon,Camarines Sur,61790,Mun,0501736000,cur:exact
+Tinambac,Camarines Sur,69860,Mun,0501737000,cur:exact
+Catarman,Camiguin,18186,Mun,1001801000,cur:exact
+Guinsiliban,Camiguin,6827,Mun,1001802000,cur:exact
+Mahinog,Camiguin,14905,Mun,1001803000,cur:exact
+Mambajao,Camiguin,41782,Mun,1001804000,cur:exact
+Sagay,Camiguin,13192,Mun,1001805000,cur:exact
+Cuartero,Capiz,28650,Mun,0601901000,cur:exact
+Dao,Capiz,34555,Mun,0601902000,cur:exact
+Dumalag,Capiz,30872,Mun,0601903000,cur:exact
+Dumarao,Capiz,51633,Mun,0601904000,cur:exact
+Ivisan,Capiz,32853,Mun,0601905000,cur:exact
+Jamindan,Capiz,40472,Mun,0601906000,cur:exact
+Ma-ayon,Capiz,42997,Mun,0601907000,cur:exact
+Mambusao,Capiz,41768,Mun,0601908000,cur:exact
+Panay,Capiz,50946,Mun,0601909000,cur:exact
+Panitan,Capiz,44246,Mun,0601910000,cur:exact
+Pilar,Capiz,48789,Mun,0601911000,cur:exact
+Pontevedra,Capiz,51956,Mun,0601912000,cur:exact
+President Roxas,Capiz,32436,Mun,0601913000,cur:exact
+Roxas,Capiz,185236,,0601914000,cur:based
+Sapian,Capiz,27377,Mun,0601915000,cur:exact
+Sigma,Capiz,32628,Mun,0601916000,cur:exact
+Tapaz,Capiz,57684,Mun,0601917000,cur:exact
+Bagamanoc,Catanduanes,10403,Mun,0502001000,cur:exact
+Baras,Catanduanes,12992,Mun,0502002000,cur:exact
+Bato,Catanduanes,21325,Mun,0502003000,cur:exact
+Caramoran,Catanduanes,30124,Mun,0502004000,cur:exact
+Gigmoto,Catanduanes,8348,Mun,0502005000,cur:exact
+Pandan,Catanduanes,20796,Mun,0502006000,cur:exact
+Panganiban,Catanduanes,8947,Mun,0502007000,cur:exact
+San Andres,Catanduanes,37157,Mun,0502008000,cur:exact
+San Miguel,Catanduanes,14578,Mun,0502009000,cur:exact
+Viga,Catanduanes,21364,Mun,0502010000,cur:exact
+Virac,Catanduanes,75135,Mun,0502011000,cur:exact
+Alfonso,Cavite,60583,Mun,0402101000,cur:exact
+Amadeo,Cavite,44190,Mun,0402102000,cur:exact
+Bacoor,Cavite,661381,,0402103000,cur:based
+Carmona,Cavite,112140,,0402104000,cur:based
+Cavite City,Cavite,98673,,0402105000,cur:exact
+Dasmariñas,Cavite,744511,,0402106000,cur:based
+General Emilio Aguinaldo,Cavite,24264,Mun,0402107000,cur:exact
+General Mariano Alvarez,Cavite,176927,Mun,0402123000,cur:exact
+General Trias,Cavite,482453,,0402108000,cur:based
+Imus,Cavite,481949,,0402109000,cur:based
+Indang,Cavite,70092,Mun,0402110000,cur:exact
+Kawit,Cavite,123631,Mun,0402111000,cur:exact
+Magallanes,Cavite,25826,Mun,0402112000,cur:exact
+Maragondon,Cavite,41977,Mun,0402113000,cur:exact
+Mendez,Cavite,36518,Mun,0402114000,cur:exact
+Naic,Cavite,236978,Mun,0402115000,cur:exact
+Noveleta,Cavite,46172,Mun,0402116000,cur:exact
+Rosario,Cavite,112572,Mun,0402117000,cur:exact
+Silang,Cavite,313145,Mun,0402118000,cur:exact
+Tagaytay,Cavite,87811,,0402119000,cur:based
+Tanza,Cavite,339308,Mun,0402120000,cur:exact
+Ternate,Cavite,24891,Mun,0402121000,cur:exact
+Trece Martires,Cavite,227892,,0402122000,cur:based
+Alcantara,Cebu,17490,Mun,0702201000,cur:exact
+Alcoy,Cebu,19207,Mun,0702202000,cur:exact
+Alegria,Cebu,26520,Mun,0702203000,cur:exact
+Aloguinsan,Cebu,34990,Mun,0702204000,cur:exact
+Argao,Cebu,78111,Mun,0702205000,cur:exact
+Asturias,Cebu,54777,Mun,0702206000,cur:exact
+Badian,Cebu,44626,Mun,0702207000,cur:exact
+Balamban,Cebu,98170,Mun,0702208000,cur:exact
+Bantayan,Cebu,87394,Mun,0702209000,cur:exact
+Barili,Cebu,82427,Mun,0702210000,cur:exact
+Bogo,Cebu,90187,,0702211000,cur:based
+Boljoon,Cebu,17153,Mun,0702212000,cur:exact
+Borbon,Cebu,40097,Mun,0702213000,cur:exact
+Carcar,Cebu,140308,,0702214000,cur:based
+Carmen,Cebu,60230,Mun,0702215000,cur:exact
+Catmon,Cebu,34608,Mun,0702216000,cur:exact
+Cebu City,Cebu,965332,,0730600000,cur:exact
+Compostela,Cebu,58178,Mun,0702218000,cur:exact
+Consolacion,Cebu,153931,Mun,0702219000,cur:exact
+Cordova,Cebu,72915,Mun,0702220000,cur:exact
+Daanbantayan,Cebu,95080,Mun,0702221000,cur:exact
+Dalaguete,Cebu,75937,Mun,0702222000,cur:exact
+Danao,Cebu,161307,,0702223000,cur:based
+Dumanjug,Cebu,59954,Mun,0702224000,cur:exact
+Ginatilan,Cebu,17184,Mun,0702225000,cur:exact
+Lapu-Lapu,Cebu,497813,,0731100000,cur:based
+Liloan,Cebu,158387,Mun,0702227000,cur:exact
+Madridejos,Cebu,42828,Mun,0702228000,cur:exact
+Malabuyoc,Cebu,20378,Mun,0702229000,cur:exact
+Mandaue,Cebu,364482,,0731300000,cur:based
+Medellin,Cebu,62163,Mun,0702231000,cur:exact
+Minglanilla,Cebu,155934,Mun,0702232000,cur:exact
+Moalboal,Cebu,37993,Mun,0702233000,cur:exact
+Naga,Cebu,138727,,0702234000,cur:based
+Oslob,Cebu,29378,Mun,0702235000,cur:exact
+Pilar,Cebu,12454,Mun,0702236000,cur:exact
+Pinamungajan,Cebu,76568,Mun,0702237000,cur:exact
+Poro,Cebu,26908,Mun,0702238000,cur:exact
+Ronda,Cebu,21179,Mun,0702239000,cur:exact
+Samboan,Cebu,20736,Mun,0702240000,cur:exact
+San Fernando,Cebu,76110,Mun,0702241000,cur:exact
+San Francisco,Cebu,61092,Mun,0702242000,cur:exact
+San Remigio,Cebu,67850,Mun,0702243000,cur:exact
+Santa Fe,Cebu,34834,Mun,0702244000,cur:exact
+Santander,Cebu,18669,Mun,0702245000,cur:exact
+Sibonga,Cebu,54610,Mun,0702246000,cur:exact
+Sogod,Cebu,40746,Mun,0702247000,cur:exact
+Tabogon,Cebu,42066,Mun,0702248000,cur:exact
+Tabuelan,Cebu,29662,Mun,0702249000,cur:exact
+Talisay,Cebu,263832,,0702250000,cur:based
+Toledo,Cebu,206692,,0702251000,cur:based
+Tuburan,Cebu,68307,Mun,0702252000,cur:exact
+Tudela,Cebu,11638,Mun,0702253000,cur:exact
+Alamada,Cotabato,71523,Mun,1204701000,cur:exact
+Aleosan,Cotabato,38023,Mun,1204717000,cur:exact
+Antipas,Cotabato,26946,Mun,1204715000,cur:exact
+Arakan,Cotabato,51584,Mun,1204718000,cur:exact
+Banisilan,Cotabato,48013,Mun,1204716000,cur:exact
+Carmen,Cotabato,79741,Mun,1204702000,cur:exact
+Kabacan,Cotabato,77945,Mun,1204703000,cur:exact
+Kadayangan,Cotabato,26099,Mun,1999903000,name_unique_national
+Kapalawan,Cotabato,29191,Mun,1999901000,name_unique_national
+Kidapawan,Cotabato,160864,,1204704000,cur:based
+Libungan,Cotabato,57776,Mun,1204705000,cur:exact
+Ligawasan,Cotabato,28322,Mun,1999907000,name_unique_national
+M'lang,Cotabato,98646,Mun,1204710000,cur:exact
+Magpet,Cotabato,55255,Mun,1204706000,cur:exact
+Makilala,Cotabato,88522,Mun,1204707000,cur:exact
+Malidegao,Cotabato,36427,Mun,1999906000,name_unique_national
+Matalam,Cotabato,81610,Mun,1204708000,cur:exact
+Midsayap,Cotabato,115735,Mun,1204709000,cur:exact
+Nabalawag,Cotabato,25500,Mun,1999904000,name_unique_national
+Old Kaabakan,Cotabato,16181,Mun,1999902000,name_unique_national
+Pahamuddin,Cotabato,19262,Mun,1999905000,name_unique_national
+Pigcawayan,Cotabato,53593,Mun,1204711000,cur:exact
+Pikit,Cotabato,67220,Mun,1204712000,cur:exact
+President Roxas,Cotabato,51245,Mun,1204713000,cur:exact
+Tugunan,Cotabato,33721,Mun,1999908000,name_unique_national
+Tulunan,Cotabato,61901,Mun,1204714000,cur:exact
+Compostela,Davao de Oro,89224,Mun,1108201000,cur:exact
+Laak,Davao de Oro,83632,Mun,1108202000,cur:exact
+Mabini,Davao de Oro,43971,Mun,1108203000,cur:exact
+Maco,Davao de Oro,87680,Mun,1108204000,cur:exact
+Maragusan,Davao de Oro,67759,Mun,1108205000,cur:exact
+Mawab,Davao de Oro,41050,Mun,1108206000,cur:exact
+Monkayo,Davao de Oro,96405,Mun,1108207000,cur:exact
+Montevista,Davao de Oro,46581,Mun,1108208000,cur:exact
+Nabunturan,Davao de Oro,85949,Mun,1108209000,cur:exact
+New Bataan,Davao de Oro,50212,Mun,1108210000,cur:exact
+Pantukan,Davao de Oro,91312,Mun,1108211000,cur:exact
+Asuncion,Davao del Norte,62929,Mun,1102301000,cur:exact
+Braulio E. Dujali,Davao del Norte,36092,Mun,1102323000,cur:exact
+Carmen,Davao del Norte,85423,Mun,1102303000,cur:exact
+Kapalong,Davao del Norte,80731,Mun,1102305000,cur:exact
+New Corella,Davao del Norte,60454,Mun,1102314000,cur:exact
+Panabo,Davao del Norte,211242,,1102315000,cur:based
+Samal,Davao del Norte,119701,,1102317000,cur:exact
+Santo Tomas,Davao del Norte,131100,Mun,1102318000,cur:exact
+Sawata,Davao del Norte,27552,Mun,1102324000,cur:exact
+Tagum,Davao del Norte,300042,,1102319000,cur:based
+Talaingod,Davao del Norte,28665,Mun,1102322000,cur:exact
+Bansalan,Davao del Sur,64816,Mun,1102401000,cur:exact
+Davao City,Davao del Sur,1848947,,1130700000,cur:exact
+Digos,Davao del Sur,192063,,1102403000,cur:based
+Hagonoy,Davao del Sur,58689,Mun,1102404000,cur:exact
+Kiblawan,Davao del Sur,53757,Mun,1102406000,cur:exact
+Magsaysay,Davao del Sur,57936,Mun,1102407000,cur:exact
+Malalag,Davao del Sur,40280,Mun,1102408000,cur:exact
+Matanao,Davao del Sur,62773,Mun,1102410000,cur:exact
+Padada,Davao del Sur,29888,Mun,1102411000,cur:exact
+Santa Cruz,Davao del Sur,104793,Mun,1102412000,cur:exact
+Sulop,Davao del Sur,40134,Mun,1102414000,cur:exact
+Don Marcelino,Davao Occidental,45681,Mun,1108601000,cur:exact
+Jose Abad Santos,Davao Occidental,72552,Mun,1108602000,cur:exact
+Malita,Davao Occidental,118438,Mun,1108603000,cur:exact
+Santa Maria,Davao Occidental,58886,Mun,1108604000,cur:exact
+Sarangani,Davao Occidental,22041,Mun,1108605000,cur:exact
+Baganga,Davao Oriental,59796,Mun,1102501000,cur:exact
+Banaybanay,Davao Oriental,46231,Mun,1102502000,cur:exact
+Boston,Davao Oriental,15074,Mun,1102503000,cur:exact
+Caraga,Davao Oriental,39630,Mun,1102504000,cur:exact
+Cateel,Davao Oriental,45623,Mun,1102505000,cur:exact
+Governor Generoso,Davao Oriental,63695,Mun,1102506000,cur:exact
+Lupon,Davao Oriental,68717,Mun,1102507000,cur:exact
+Manay,Davao Oriental,39271,Mun,1102508000,cur:exact
+Mati,Davao Oriental,148672,,1102509000,cur:based
+San Isidro,Davao Oriental,35984,Mun,1102510000,cur:exact
+Tarragona,Davao Oriental,27349,Mun,1102511000,cur:exact
+Basilisa,Dinagat Islands,27238,Mun,1608501000,cur:exact
+Cagdianao,Dinagat Islands,18679,Mun,1608502000,cur:exact
+Dinagat,Dinagat Islands,10820,Mun,1608503000,cur:exact
+Libjo,Dinagat Islands,18157,Mun,1608504000,cur:exact
+Loreto,Dinagat Islands,9940,Mun,1608505000,cur:exact
+San Jose,Dinagat Islands,26735,Mun,1608506000,cur:exact
+Tubajon,Dinagat Islands,8964,Mun,1608507000,cur:exact
+Arteche,Eastern Samar,16648,Mun,0802601000,cur:exact
+Balangiga,Eastern Samar,14473,Mun,0802602000,cur:exact
+Balangkayan,Eastern Samar,10014,Mun,0802603000,cur:exact
+Borongan,Eastern Samar,71431,,0802604000,cur:based
+Can-avid,Eastern Samar,21942,Mun,0802605000,cur:exact
+Dolores,Eastern Samar,45314,Mun,0802606000,cur:exact
+General MacArthur,Eastern Samar,14606,Mun,0802607000,cur:exact
+Giporlos,Eastern Samar,12974,Mun,0802608000,cur:exact
+Guiuan,Eastern Samar,52749,Mun,0802609000,cur:exact
+Hernani,Eastern Samar,8296,Mun,0802610000,cur:exact
+Jipapad,Eastern Samar,8726,Mun,0802611000,cur:exact
+Lawaan,Eastern Samar,13063,Mun,0802612000,cur:exact
+Llorente,Eastern Samar,18909,Mun,0802613000,cur:exact
+Maslog,Eastern Samar,5438,Mun,0802614000,cur:exact
+Maydolong,Eastern Samar,15456,Mun,0802615000,cur:exact
+Mercedes,Eastern Samar,6114,Mun,0802616000,cur:exact
+Oras,Eastern Samar,35997,Mun,0802617000,cur:exact
+Quinapondan,Eastern Samar,14624,Mun,0802618000,cur:exact
+Salcedo,Eastern Samar,21335,Mun,0802619000,cur:exact
+San Julian,Eastern Samar,14509,Mun,0802620000,cur:exact
+San Policarpo,Eastern Samar,15597,Mun,0802621000,cur:exact
+Sulat,Eastern Samar,15776,Mun,0802622000,cur:exact
+Taft,Eastern Samar,18692,Mun,0802623000,cur:exact
+Buenavista,Guimaras,54352,Mun,0607901000,cur:exact
+Jordan,Guimaras,40647,Mun,0607902000,cur:exact
+Nueva Valencia,Guimaras,43822,Mun,0607903000,cur:exact
+San Lorenzo,Guimaras,30266,Mun,0607904000,cur:exact
+Sibunag,Guimaras,23787,Mun,0607905000,cur:exact
+Aguinaldo,Ifugao,20924,Mun,1402708000,cur:exact
+Alfonso Lista,Ifugao,34810,Mun,1402707000,cur:exact
+Asipulo,Ifugao,16088,Mun,1402711000,cur:exact
+Banaue,Ifugao,20143,Mun,1402701000,cur:exact
+Hingyon,Ifugao,9966,Mun,1402709000,cur:exact
+Hungduan,Ifugao,8970,Mun,1402702000,cur:exact
+Kiangan,Ifugao,17849,Mun,1402703000,cur:exact
+Lagawe,Ifugao,19124,Mun,1402704000,cur:exact
+Lamut,Ifugao,26520,Mun,1402705000,cur:exact
+Mayoyao,Ifugao,15525,Mun,1402706000,cur:exact
+Tinoc,Ifugao,18749,Mun,1402710000,cur:exact
+Adams,Ilocos Norte,2279,Mun,0102801000,cur:exact
+Bacarra,Ilocos Norte,32734,Mun,0102802000,cur:exact
+Badoc,Ilocos Norte,32832,Mun,0102803000,cur:exact
+Bangui,Ilocos Norte,15227,Mun,0102804000,cur:exact
+Banna,Ilocos Norte,19363,Mun,0102811000,cur:exact
+Batac,Ilocos Norte,56781,,0102805000,cur:based
+Burgos,Ilocos Norte,10962,Mun,0102806000,cur:exact
+Carasi,Ilocos Norte,1775,Mun,0102807000,cur:exact
+Currimao,Ilocos Norte,12256,Mun,0102808000,cur:exact
+Dingras,Ilocos Norte,40176,Mun,0102809000,cur:exact
+Dumalneg,Ilocos Norte,3452,Mun,0102810000,cur:exact
+Laoag,Ilocos Norte,112117,,0102812000,cur:based
+Marcos,Ilocos Norte,18105,Mun,0102813000,cur:exact
+Nueva Era,Ilocos Norte,13305,Mun,0102814000,cur:exact
+Pagudpud,Ilocos Norte,25565,Mun,0102815000,cur:exact
+Paoay,Ilocos Norte,24204,Mun,0102816000,cur:exact
+Pasuquin,Ilocos Norte,30521,Mun,0102817000,cur:exact
+Piddig,Ilocos Norte,22781,Mun,0102818000,cur:exact
+Pinili,Ilocos Norte,17705,Mun,0102819000,cur:exact
+San Nicolas,Ilocos Norte,39116,Mun,0102820000,cur:exact
+Sarrat,Ilocos Norte,26294,Mun,0102821000,cur:exact
+Solsona,Ilocos Norte,26249,Mun,0102822000,cur:exact
+Vintar,Ilocos Norte,35051,Mun,0102823000,cur:exact
+Alilem,Ilocos Sur,7736,Mun,0102901000,cur:exact
+Banayoyo,Ilocos Sur,7953,Mun,0102902000,cur:exact
+Bantay,Ilocos Sur,37088,Mun,0102903000,cur:exact
+Burgos,Ilocos Sur,13026,Mun,0102904000,cur:exact
+Cabugao,Ilocos Sur,38981,Mun,0102905000,cur:exact
+Candon,Ilocos Sur,61315,,0102906000,cur:based
+Caoayan,Ilocos Sur,19715,Mun,0102907000,cur:exact
+Cervantes,Ilocos Sur,20065,Mun,0102908000,cur:exact
+Galimuyod,Ilocos Sur,10263,Mun,0102909000,cur:exact
+Gregorio del Pilar,Ilocos Sur,4385,Mun,0102910000,cur:exact
+Lidlidda,Ilocos Sur,4846,Mun,0102911000,cur:exact
+Magsingal,Ilocos Sur,31970,Mun,0102912000,cur:exact
+Nagbukel,Ilocos Sur,5370,Mun,0102913000,cur:exact
+Narvacan,Ilocos Sur,46265,Mun,0102914000,cur:exact
+Quirino,Ilocos Sur,9460,Mun,0102915000,cur:exact
+Salcedo,Ilocos Sur,11196,Mun,0102916000,cur:exact
+San Emilio,Ilocos Sur,7513,Mun,0102917000,cur:exact
+San Esteban,Ilocos Sur,8621,Mun,0102918000,cur:exact
+San Ildefonso,Ilocos Sur,8213,Mun,0102919000,cur:exact
+San Juan,Ilocos Sur,26709,Mun,0102920000,cur:exact
+San Vicente,Ilocos Sur,13074,Mun,0102921000,cur:exact
+Santa Catalina,Ilocos Sur,14319,Mun,0102923000,cur:exact
+Santa Cruz,Ilocos Sur,41296,Mun,0102924000,cur:exact
+Santa Lucia,Ilocos Sur,26200,Mun,0102925000,cur:exact
+Santa Maria,Ilocos Sur,30076,Mun,0102926000,cur:exact
+Santa,Ilocos Sur,15164,Mun,0102922000,cur:exact
+Santiago,Ilocos Sur,19771,Mun,0102927000,cur:exact
+Santo Domingo,Ilocos Sur,29372,Mun,0102928000,cur:exact
+Sigay,Ilocos Sur,2577,Mun,0102929000,cur:exact
+Sinait,Ilocos Sur,26059,Mun,0102930000,cur:exact
+Sugpon,Ilocos Sur,4238,Mun,0102931000,cur:exact
+Suyo,Ilocos Sur,11051,Mun,0102932000,cur:exact
+Tagudin,Ilocos Sur,41606,Mun,0102933000,cur:exact
+Vigan,Ilocos Sur,54498,,0102934000,cur:based
+Ajuy,Iloilo,54100,Mun,0603001000,cur:exact
+Alimodian,Iloilo,39814,Mun,0603002000,cur:exact
+Anilao,Iloilo,30612,Mun,0603003000,cur:exact
+Badiangan,Iloilo,27088,Mun,0603004000,cur:exact
+Balasan,Iloilo,35193,Mun,0603005000,cur:exact
+Banate,Iloilo,33790,Mun,0603006000,cur:exact
+Barotac Nuevo,Iloilo,59184,Mun,0603007000,cur:exact
+Barotac Viejo,Iloilo,49736,Mun,0603008000,cur:exact
+Batad,Iloilo,22174,Mun,0603009000,cur:exact
+Bingawan,Iloilo,16247,Mun,0603010000,cur:exact
+Cabatuan,Iloilo,62717,Mun,0603012000,cur:exact
+Calinog,Iloilo,63896,Mun,0603013000,cur:exact
+Carles,Iloilo,74177,Mun,0603014000,cur:exact
+Concepcion,Iloilo,45737,Mun,0603015000,cur:exact
+Dingle,Iloilo,46032,Mun,0603016000,cur:exact
+Dueñas,Iloilo,34941,Mun,0603017000,cur:exact
+Dumangas,Iloilo,75239,Mun,0603018000,cur:exact
+Estancia,Iloilo,54882,Mun,0603019000,cur:exact
+Guimbal,Iloilo,35129,Mun,0603020000,cur:exact
+Igbaras,Iloilo,32442,Mun,0603021000,cur:exact
+Iloilo City,Iloilo,473728,,0631000000,cur:exact
+Janiuay,Iloilo,67509,Mun,0603023000,cur:exact
+Lambunao,Iloilo,80724,Mun,0603025000,cur:exact
+Leganes,Iloilo,36542,Mun,0603026000,cur:exact
+Lemery,Iloilo,32836,Mun,0603027000,cur:exact
+Leon,Iloilo,52777,Mun,0603028000,cur:exact
+Maasin,Iloilo,38761,Mun,0603029000,cur:exact
+Miagao,Iloilo,68163,Mun,0603030000,cur:exact
+Mina,Iloilo,24145,Mun,0603031000,cur:exact
+New Lucena,Iloilo,24785,Mun,0603032000,cur:exact
+Oton,Iloilo,99920,Mun,0603034000,cur:exact
+Passi,Iloilo,90313,,0603035000,cur:based
+Pavia,Iloilo,74594,Mun,0603036000,cur:exact
+Pototan,Iloilo,78919,Mun,0603037000,cur:exact
+San Dionisio,Iloilo,39423,Mun,0603038000,cur:exact
+San Enrique,Iloilo,37381,Mun,0603039000,cur:exact
+San Joaquin,Iloilo,52773,Mun,0603040000,cur:exact
+San Miguel,Iloilo,31093,Mun,0603041000,cur:exact
+San Rafael,Iloilo,18293,Mun,0603042000,cur:exact
+Santa Barbara,Iloilo,68467,Mun,0603043000,cur:exact
+Sara,Iloilo,55476,Mun,0603044000,cur:exact
+Tigbauan,Iloilo,65657,Mun,0603045000,cur:exact
+Tubungan,Iloilo,23083,Mun,0603046000,cur:exact
+Zarraga,Iloilo,27852,Mun,0603047000,cur:exact
+Alicia,Isabela,74699,Mun,0203101000,cur:exact
+Angadanan,Isabela,45970,Mun,0203102000,cur:exact
+Aurora,Isabela,37191,Mun,0203103000,cur:exact
+Benito Soliven,Isabela,30682,Mun,0203104000,cur:exact
+Burgos,Isabela,26729,Mun,0203105000,cur:exact
+Cabagan,Isabela,55445,Mun,0203106000,cur:exact
+Cabatuan,Isabela,40223,Mun,0203107000,cur:exact
+Cauayan,Isabela,143539,,0203108000,cur:based
+Cordon,Isabela,46688,Mun,0203109000,cur:exact
+Delfin Albano,Isabela,30860,Mun,0203118000,cur:exact
+Dinapigue,Isabela,6116,Mun,0203110000,cur:exact
+Divilacan,Isabela,5871,Mun,0203111000,cur:exact
+Echague,Isabela,91320,Mun,0203112000,cur:exact
+Gamu,Isabela,30850,Mun,0203113000,cur:exact
+Ilagan,Isabela,164020,,0203114000,cur:based
+Jones,Isabela,46160,Mun,0203115000,cur:exact
+Luna,Isabela,21015,Mun,0203116000,cur:exact
+Maconacon,Isabela,4252,Mun,0203117000,cur:exact
+Mallig,Isabela,32509,Mun,0203119000,cur:exact
+Naguilian,Isabela,34520,Mun,0203120000,cur:exact
+Palanan,Isabela,18091,Mun,0203121000,cur:exact
+Quezon,Isabela,28376,Mun,0203122000,cur:exact
+Quirino,Isabela,25205,Mun,0203123000,cur:exact
+Ramon,Isabela,57412,Mun,0203124000,cur:exact
+Reina Mercedes,Isabela,28222,Mun,0203125000,cur:exact
+Roxas,Isabela,66593,Mun,0203126000,cur:exact
+San Agustin,Isabela,22228,Mun,0203127000,cur:exact
+San Guillermo,Isabela,21043,Mun,0203128000,cur:exact
+San Isidro,Isabela,27326,Mun,0203129000,cur:exact
+San Manuel,Isabela,34740,Mun,0203130000,cur:exact
+San Mariano,Isabela,61876,Mun,0203131000,cur:exact
+San Mateo,Isabela,67433,Mun,0203132000,cur:exact
+San Pablo,Isabela,26462,Mun,0203133000,cur:exact
+Santa Maria,Isabela,25919,Mun,0203134000,cur:exact
+Santiago,Isabela,150313,,0203135000,cur:based
+Santo Tomas,Isabela,25997,Mun,0203136000,cur:exact
+Tumauini,Isabela,77153,Mun,0203137000,cur:exact
+Balbalan,Kalinga,13332,Mun,1403201000,cur:exact
+Lubuagan,Kalinga,8660,Mun,1403206000,cur:exact
+Pasil,Kalinga,10690,Mun,1403208000,cur:exact
+Pinukpuk,Kalinga,35033,Mun,1403209000,cur:exact
+Rizal,Kalinga,20491,Mun,1403211000,cur:exact
+Tabuk,Kalinga,122771,,1403213000,cur:based
+Tanudan,Kalinga,11103,Mun,1403214000,cur:exact
+Tinglayan,Kalinga,13311,Mun,1403215000,cur:exact
+Agoo,La Union,65256,Mun,0103301000,cur:exact
+Aringay,La Union,50786,Mun,0103302000,cur:exact
+Bacnotan,La Union,45203,Mun,0103303000,cur:exact
+Bagulin,La Union,14434,Mun,0103304000,cur:exact
+Balaoan,La Union,40440,Mun,0103305000,cur:exact
+Bangar,La Union,38190,Mun,0103306000,cur:exact
+Bauang,La Union,77670,Mun,0103307000,cur:exact
+Burgos,La Union,9121,Mun,0103308000,cur:exact
+Caba,La Union,23432,Mun,0103309000,cur:exact
+Luna,La Union,38076,Mun,0103310000,cur:exact
+Naguilian,La Union,53443,Mun,0103311000,cur:exact
+Pugo,La Union,19107,Mun,0103312000,cur:exact
+Rosario,La Union,58797,Mun,0103313000,cur:exact
+San Fernando,La Union,124809,,0103314000,cur:based
+San Gabriel,La Union,18579,Mun,0103315000,cur:exact
+San Juan,La Union,41319,Mun,0103316000,cur:exact
+Santo Tomas,La Union,42777,Mun,0103317000,cur:exact
+Santol,La Union,14877,Mun,0103318000,cur:exact
+Sudipen,La Union,16888,Mun,0103319000,cur:exact
+Tubao,La Union,31868,Mun,0103320000,cur:exact
+Alaminos,Laguna,53589,Mun,0403401000,cur:exact
+Bay,Laguna,69802,Mun,0403402000,cur:exact
+Biñan,Laguna,584479,,0403403000,cur:based
+Cabuyao,Laguna,365202,,0403404000,cur:based
+Calamba,Laguna,575046,,0403405000,cur:based
+Calauan,Laguna,89670,Mun,0403406000,cur:exact
+Cavinti,Laguna,24740,Mun,0403407000,cur:exact
+Famy,Laguna,17668,Mun,0403408000,cur:exact
+Kalayaan,Laguna,25243,Mun,0403409000,cur:exact
+Liliw,Laguna,39976,Mun,0403410000,cur:exact
+Los Baños,Laguna,117030,Mun,0403411000,cur:exact
+Luisiana,Laguna,21824,Mun,0403412000,cur:exact
+Lumban,Laguna,32793,Mun,0403413000,cur:exact
+Mabitac,Laguna,21748,Mun,0403414000,cur:exact
+Magdalena,Laguna,28131,Mun,0403415000,cur:exact
+Majayjay,Laguna,28504,Mun,0403416000,cur:exact
+Nagcarlan,Laguna,66351,Mun,0403417000,cur:exact
+Paete,Laguna,25254,Mun,0403418000,cur:exact
+Pagsanjan,Laguna,45602,Mun,0403419000,cur:exact
+Pakil,Laguna,23972,Mun,0403420000,cur:exact
+Pangil,Laguna,25318,Mun,0403421000,cur:exact
+Pila,Laguna,57776,Mun,0403422000,cur:exact
+Rizal,Laguna,18864,Mun,0403423000,cur:exact
+San Pablo,Laguna,300166,,0403424000,cur:based
+San Pedro,Laguna,348968,,0403425000,cur:based
+Santa Cruz,Laguna,126844,Mun,0403426000,cur:exact
+Santa Maria,Laguna,34102,Mun,0403427000,cur:exact
+Santa Rosa,Laguna,430920,,0403428000,cur:based
+Siniloan,Laguna,42533,Mun,0403429000,cur:exact
+Victoria,Laguna,45230,Mun,0403430000,cur:exact
+Bacolod,Lanao del Norte,24963,Mun,1003501000,cur:exact
+Balo-i,Lanao del Norte,74003,Mun,1003502000,cur:exact
+Baroy,Lanao del Norte,24763,Mun,1003503000,cur:exact
+Iligan,Lanao del Norte,368132,,1030900000,cur:based
+Kapatagan,Lanao del Norte,72762,Mun,1003505000,cur:exact
+Kauswagan,Lanao del Norte,25515,Mun,1003507000,cur:exact
+Kolambugan,Lanao del Norte,28545,Mun,1003508000,cur:exact
+Lala,Lanao del Norte,75015,Mun,1003509000,cur:exact
+Linamon,Lanao del Norte,21385,Mun,1003510000,cur:exact
+Magsaysay,Lanao del Norte,20581,Mun,1003511000,cur:exact
+Maigo,Lanao del Norte,23400,Mun,1003512000,cur:exact
+Matungao,Lanao del Norte,16404,Mun,1003513000,cur:exact
+Munai,Lanao del Norte,36449,Mun,1003514000,cur:exact
+Nunungan,Lanao del Norte,19036,Mun,1003515000,cur:exact
+Pantao Ragat,Lanao del Norte,32557,Mun,1003516000,cur:exact
+Pantar,Lanao del Norte,27300,Mun,1003523000,cur:exact
+Poona Piagapo,Lanao del Norte,30666,Mun,1003517000,cur:exact
+Salvador,Lanao del Norte,34053,Mun,1003518000,cur:exact
+Sapad,Lanao del Norte,24826,Mun,1003519000,cur:exact
+Sultan Naga Dimaporo,Lanao del Norte,65656,Mun,1003506000,cur:exact
+Tagoloan,Lanao del Norte,16204,Mun,1003520000,cur:exact
+Tangcal,Lanao del Norte,17247,Mun,1003521000,cur:exact
+Tubod,Lanao del Norte,50395,Mun,1003522000,cur:exact
+Amai Manabilang,Lanao del Sur,14837,Mun,1903637000,cur:exact
+Bacolod-Kalawi,Lanao del Sur,24381,Mun,1903601000,cur:exact
+Balabagan,Lanao del Sur,31227,Mun,1903602000,cur:exact
+Balindong,Lanao del Sur,40047,Mun,1903603000,cur:exact
+Bayang,Lanao del Sur,30227,Mun,1903604000,cur:exact
+Binidayan,Lanao del Sur,27031,Mun,1903605000,cur:exact
+Buadiposo-Buntong,Lanao del Sur,23283,Mun,1903633000,cur:exact
+Bubong,Lanao del Sur,28733,Mun,1903606000,cur:exact
+Butig,Lanao del Sur,25394,Mun,1903607000,cur:exact
+Calanogas,Lanao del Sur,17585,Mun,1903632000,cur:exact
+Ditsaan-Ramain,Lanao del Sur,26918,Mun,1903624000,cur:exact
+Ganassi,Lanao del Sur,33897,Mun,1903609000,cur:exact
+Kapai,Lanao del Sur,21630,Mun,1903610000,cur:exact
+Kapatagan,Lanao del Sur,23228,Mun,1903639000,cur:exact
+Lumba-Bayabao,Lanao del Sur,50959,Mun,1903611000,cur:exact
+Lumbaca-Unayan,Lanao del Sur,8768,Mun,1903641000,cur:exact
+Lumbatan,Lanao del Sur,24988,Mun,1903612000,cur:exact
+Lumbayanague,Lanao del Sur,21469,Mun,1903636000,cur:exact
+Madalum,Lanao del Sur,30044,Mun,1903613000,cur:exact
+Madamba,Lanao del Sur,24886,Mun,1903614000,cur:exact
+Maguing,Lanao del Sur,37292,Mun,1903634000,cur:exact
+Malabang,Lanao del Sur,58377,Mun,1903615000,cur:exact
+Marantao,Lanao del Sur,46233,Mun,1903616000,cur:exact
+Marawi,Lanao del Sur,259993,,1903617000,cur:based
+Marogong,Lanao del Sur,33595,Mun,1903631000,cur:exact
+Masiu,Lanao del Sur,36803,Mun,1903618000,cur:exact
+Mulondo,Lanao del Sur,23159,Mun,1903619000,cur:exact
+Pagayawan,Lanao del Sur,15659,Mun,1903620000,cur:exact
+Piagapo,Lanao del Sur,40558,Mun,1903621000,cur:exact
+Picong,Lanao del Sur,19296,Mun,1903635000,cur:exact
+Poona Bayabao,Lanao del Sur,33307,Mun,1903622000,cur:exact
+Pualas,Lanao del Sur,18020,Mun,1903623000,cur:exact
+Saguiaran,Lanao del Sur,28807,Mun,1903625000,cur:exact
+Sultan Dumalondong,Lanao del Sur,12984,Mun,1903640000,cur:exact
+Tagoloan II,Lanao del Sur,12843,Mun,1903638000,cur:exact
+Tamparan,Lanao del Sur,37190,Mun,1903626000,cur:exact
+Taraka,Lanao del Sur,29558,Mun,1903627000,cur:exact
+Tubaran,Lanao del Sur,17567,Mun,1903628000,cur:exact
+Tugaya,Lanao del Sur,26283,Mun,1903629000,cur:exact
+Wao,Lanao del Sur,51081,Mun,1903630000,cur:exact
+Abuyog,Leyte,61854,Mun,0803701000,cur:exact
+Alangalang,Leyte,59063,Mun,0803702000,cur:exact
+Albuera,Leyte,47333,Mun,0803703000,cur:exact
+Babatngon,Leyte,29587,Mun,0803705000,cur:exact
+Barugo,Leyte,35402,Mun,0803706000,cur:exact
+Bato,Leyte,39275,Mun,0803707000,cur:exact
+Baybay,Leyte,114708,,0803708000,cur:based
+Burauen,Leyte,54635,Mun,0803710000,cur:exact
+Calubian,Leyte,31990,Mun,0803713000,cur:exact
+Capoocan,Leyte,34388,Mun,0803714000,cur:exact
+Carigara,Leyte,56060,Mun,0803715000,cur:exact
+Dagami,Leyte,36700,Mun,0803717000,cur:exact
+Dulag,Leyte,50728,Mun,0803718000,cur:exact
+Hilongos,Leyte,66774,Mun,0803719000,cur:exact
+Hindang,Leyte,21520,Mun,0803720000,cur:exact
+Inopacan,Leyte,21629,Mun,0803721000,cur:exact
+Isabel,Leyte,46858,Mun,0803722000,cur:exact
+Jaro,Leyte,44643,Mun,0803723000,cur:exact
+Javier,Leyte,27759,Mun,0803724000,cur:exact
+Julita,Leyte,16053,Mun,0803725000,cur:exact
+Kananga,Leyte,60885,Mun,0803726000,cur:exact
+La Paz,Leyte,19797,Mun,0803728000,cur:exact
+Leyte,Leyte,40622,Mun,0803729000,cur:exact
+MacArthur,Leyte,22256,Mun,0803730000,cur:exact
+Mahaplag,Leyte,28424,Mun,0803731000,cur:exact
+Matag-ob,Leyte,18618,Mun,0803733000,cur:exact
+Matalom,Leyte,32604,Mun,0803734000,cur:exact
+Mayorga,Leyte,18713,Mun,0803735000,cur:exact
+Merida,Leyte,32373,Mun,0803736000,cur:exact
+Ormoc,Leyte,238545,,0803738000,cur:based
+Palo,Leyte,80291,Mun,0803739000,cur:exact
+Palompon,Leyte,59486,Mun,0803740000,cur:exact
+Pastrana,Leyte,20327,Mun,0803741000,cur:exact
+San Isidro,Leyte,30792,Mun,0803742000,cur:exact
+San Miguel,Leyte,20322,Mun,0803743000,cur:exact
+Santa Fe,Leyte,22889,Mun,0803744000,cur:exact
+Tabango,Leyte,33888,Mun,0803745000,cur:exact
+Tabontabon,Leyte,12157,Mun,0803746000,cur:exact
+Tacloban,Leyte,259353,,0831600000,cur:based
+Tanauan,Leyte,60212,Mun,0803748000,cur:exact
+Tolosa,Leyte,22016,Mun,0803749000,cur:exact
+Tunga,Leyte,8301,Mun,0803750000,cur:exact
+Villaba,Leyte,42981,Mun,0803751000,cur:exact
+Barira,Maguindanao del Norte,43301,Mun,1908701000,cur:exact
+Buldon,Maguindanao del Norte,45676,Mun,1908702000,cur:exact
+Cotabato City,Maguindanao del Norte,383383,,1908703000,cur:exact
+Datu Blah T. Sinsuat,Maguindanao del Norte,32088,Mun,1908704000,cur:exact
+Datu Odin Sinsuat,Maguindanao del Norte,152907,Mun,1908705000,cur:exact
+Kabuntalan,Maguindanao del Norte,31863,Mun,1908706000,cur:exact
+Matanog,Maguindanao del Norte,41146,Mun,1908707000,cur:exact
+Northern Kabuntalan,Maguindanao del Norte,30332,Mun,1908708000,cur:exact
+Parang,Maguindanao del Norte,123209,Mun,1908709000,cur:exact
+Sultan Kudarat,Maguindanao del Norte,124965,Mun,1908710000,cur:exact
+Sultan Mastura,Maguindanao del Norte,30828,Mun,1908711000,cur:exact
+Talitay,Maguindanao del Norte,19750,Mun,1908712000,cur:exact
+Upi,Maguindanao del Norte,65363,Mun,1908713000,cur:exact
+Ampatuan,Maguindanao del Sur,31560,Mun,1908801000,cur:exact
+Buluan,Maguindanao del Sur,60931,Mun,1908802000,cur:exact
+Datu Abdullah Sangki,Maguindanao del Sur,35274,Mun,1908803000,cur:exact
+Datu Anggal Midtimbang,Maguindanao del Sur,35243,Mun,1908804000,cur:exact
+Datu Hoffer Ampatuan,Maguindanao del Sur,27678,Mun,1908805000,cur:exact
+Datu Montawal,Maguindanao del Sur,42181,Mun,1908815000,cur:exact
+Datu Paglas,Maguindanao del Sur,38446,Mun,1908806000,cur:exact
+Datu Piang,Maguindanao del Sur,31063,Mun,1908807000,cur:exact
+Datu Salibo,Maguindanao del Sur,21295,Mun,1908808000,cur:exact
+Datu Saudi Ampatuan,Maguindanao del Sur,33374,Mun,1908809000,cur:exact
+Datu Unsay,Maguindanao del Sur,17186,Mun,1908810000,cur:exact
+General Salipada K. Pendatun,Maguindanao del Sur,33710,Mun,1908811000,cur:exact
+Guindulungan,Maguindanao del Sur,28471,Mun,1908812000,cur:exact
+Mamasapano,Maguindanao del Sur,32831,Mun,1908813000,cur:exact
+Mangudadatu,Maguindanao del Sur,28511,Mun,1908814000,cur:exact
+Pagalungan,Maguindanao del Sur,49326,Mun,1908816000,cur:exact
+Paglat,Maguindanao del Sur,21317,Mun,1908817000,cur:exact
+Pandag,Maguindanao del Sur,29244,Mun,1908818000,cur:exact
+Rajah Buayan,Maguindanao del Sur,31329,Mun,1908819000,cur:exact
+Shariff Aguak,Maguindanao del Sur,37437,Mun,1908820000,cur:exact
+Shariff Saydona Mustapha,Maguindanao del Sur,29707,Mun,1908821000,cur:exact
+South Upi,Maguindanao del Sur,50018,Mun,1908822000,cur:exact
+Sultan sa Barongis,Maguindanao del Sur,27929,Mun,1908823000,cur:exact
+Talayan,Maguindanao del Sur,39182,Mun,1908824000,cur:exact
+Boac,Marinduque,54365,Mun,1704001000,cur:exact
+Buenavista,Marinduque,24136,Mun,1704002000,cur:exact
+Gasan,Marinduque,35315,Mun,1704003000,cur:exact
+Mogpog,Marinduque,32577,Mun,1704004000,cur:exact
+Santa Cruz,Marinduque,51594,Mun,1704005000,cur:exact
+Torrijos,Marinduque,28535,Mun,1704006000,cur:exact
+Aroroy,Masbate,89154,Mun,0504101000,cur:exact
+Baleno,Masbate,28787,Mun,0504102000,cur:exact
+Balud,Masbate,40236,Mun,0504103000,cur:exact
+Batuan,Masbate,15614,Mun,0504104000,cur:exact
+Cataingan,Masbate,51165,Mun,0504105000,cur:exact
+Cawayan,Masbate,68510,Mun,0504106000,cur:exact
+Claveria,Masbate,40733,Mun,0504107000,cur:exact
+Dimasalang,Masbate,25054,Mun,0504108000,cur:exact
+Esperanza,Masbate,18021,Mun,0504109000,cur:exact
+Mandaon,Masbate,44177,Mun,0504110000,cur:exact
+Masbate City,Masbate,104011,,0504111000,cur:exact
+Milagros,Masbate,57362,Mun,0504112000,cur:exact
+Mobo,Masbate,41199,Mun,0504113000,cur:exact
+Monreal,Masbate,25843,Mun,0504114000,cur:exact
+Palanas,Masbate,28133,Mun,0504115000,cur:exact
+Pio V. Corpus,Masbate,23641,Mun,0504116000,cur:exact
+Placer,Masbate,56658,Mun,0504117000,cur:exact
+San Fernando,Masbate,22006,Mun,0504118000,cur:exact
+San Jacinto,Masbate,29458,Mun,0504119000,cur:exact
+San Pascual,Masbate,44641,Mun,0504120000,cur:exact
+Uson,Masbate,56410,Mun,0504121000,cur:exact
+Caloocan,Metro Manila,1712945,,1380100000,cur:based
+Las Piñas,Metro Manila,615549,,1380200000,cur:based
+Makati,Metro Manila,309770,,1380300000,cur:based
+Malabon,Metro Manila,389929,,1380400000,cur:based
+Mandaluyong,Metro Manila,465902,,1380500000,cur:based
+Manila,Metro Manila,1902590,,1380600000,cur:based
+Marikina,Metro Manila,471323,,1380700000,cur:based
+Muntinlupa,Metro Manila,552225,,1380800000,cur:based
+Navotas,Metro Manila,252878,,1380900000,cur:based
+Parañaque,Metro Manila,703245,,1381000000,cur:based
+Pasay,Metro Manila,453186,,1381100000,cur:based
+Pasig,Metro Manila,853050,,1381200000,cur:based
+Pateros,Metro Manila,67319,Mun,1381701000,cur:exact
+Quezon City,Metro Manila,3084270,,1381300000,cur:exact
+San Juan,Metro Manila,134312,,1381400000,cur:based
+Taguig,Metro Manila,1308085,,1381500000,cur:based
+Valenzuela,Metro Manila,725173,,1381600000,cur:based
+Aloran,Misamis Occidental,28095,Mun,1004201000,cur:exact
+Baliangao,Misamis Occidental,18500,Mun,1004202000,cur:exact
+Bonifacio,Misamis Occidental,34942,Mun,1004203000,cur:exact
+Calamba,Misamis Occidental,23808,Mun,1004204000,cur:exact
+Clarin,Misamis Occidental,39867,Mun,1004205000,cur:exact
+Concepcion,Misamis Occidental,6608,Mun,1004206000,cur:exact
+Don Victoriano,Misamis Occidental,10214,Mun,1004217000,cur:exact
+Jimenez,Misamis Occidental,29265,Mun,1004207000,cur:exact
+Lopez Jaena,Misamis Occidental,25806,Mun,1004208000,cur:exact
+Oroquieta,Misamis Occidental,71373,,1004209000,cur:based
+Ozamiz,Misamis Occidental,143620,,1004210000,cur:based
+Panaon,Misamis Occidental,10891,Mun,1004211000,cur:exact
+Plaridel,Misamis Occidental,40321,Mun,1004212000,cur:exact
+Sapang Dalaga,Misamis Occidental,21006,Mun,1004213000,cur:exact
+Sinacaban,Misamis Occidental,20176,Mun,1004214000,cur:exact
+Tangub,Misamis Occidental,68419,,1004215000,cur:based
+Tudela,Misamis Occidental,29082,Mun,1004216000,cur:exact
+Alubijid,Misamis Oriental,35411,Mun,1004301000,cur:exact
+Balingasag,Misamis Oriental,76877,Mun,1004302000,cur:exact
+Balingoan,Misamis Oriental,11896,Mun,1004303000,cur:exact
+Binuangan,Misamis Oriental,8293,Mun,1004304000,cur:exact
+Cagayan de Oro,Misamis Oriental,741617,,1030500000,cur:based
+Claveria,Misamis Oriental,52718,Mun,1004306000,cur:exact
+El Salvador,Misamis Oriental,62126,,1004307000,cur:based
+Gingoog,Misamis Oriental,138895,,1004308000,cur:based
+Gitagum,Misamis Oriental,19269,Mun,1004309000,cur:exact
+Initao,Misamis Oriental,34445,Mun,1004310000,cur:exact
+Jasaan,Misamis Oriental,58098,Mun,1004311000,cur:exact
+Kinoguitan,Misamis Oriental,15763,Mun,1004312000,cur:exact
+Lagonglong,Misamis Oriental,25072,Mun,1004313000,cur:exact
+Laguindingan,Misamis Oriental,27688,Mun,1004314000,cur:exact
+Libertad,Misamis Oriental,13461,Mun,1004315000,cur:exact
+Lugait,Misamis Oriental,20946,Mun,1004316000,cur:exact
+Magsaysay,Misamis Oriental,37084,Mun,1004317000,cur:exact
+Manticao,Misamis Oriental,30968,Mun,1004318000,cur:exact
+Medina,Misamis Oriental,36692,Mun,1004319000,cur:exact
+Naawan,Misamis Oriental,23562,Mun,1004320000,cur:exact
+Opol,Misamis Oriental,66836,Mun,1004321000,cur:exact
+Salay,Misamis Oriental,31128,Mun,1004322000,cur:exact
+Sugbongcogon,Misamis Oriental,11156,Mun,1004323000,cur:exact
+Tagoloan,Misamis Oriental,80424,Mun,1004324000,cur:exact
+Talisayan,Misamis Oriental,26801,Mun,1004325000,cur:exact
+Villanueva,Misamis Oriental,42456,Mun,1004326000,cur:exact
+Barlig,Mountain Province,4363,Mun,1404401000,cur:exact
+Bauko,Mountain Province,31470,Mun,1404402000,cur:exact
+Besao,Mountain Province,6315,Mun,1404403000,cur:exact
+Bontoc,Mountain Province,23466,Mun,1404404000,cur:exact
+Natonin,Mountain Province,8906,Mun,1404405000,cur:exact
+Paracelis,Mountain Province,30143,Mun,1404406000,cur:exact
+Sabangan,Mountain Province,8556,Mun,1404407000,cur:exact
+Sadanga,Mountain Province,7781,Mun,1404408000,cur:exact
+Sagada,Mountain Province,10702,Mun,1404409000,cur:exact
+Tadian,Mountain Province,18073,Mun,1404410000,cur:exact
+Bacolod,Negros Occidental,624787,,1830200000,cur:based
+Bago,Negros Occidental,192993,,1804502000,cur:based
+Binalbagan,Negros Occidental,72594,Mun,1804503000,cur:exact
+Cadiz,Negros Occidental,161558,,1804504000,cur:based
+Calatrava,Negros Occidental,83813,Mun,1804505000,cur:exact
+Candoni,Negros Occidental,22083,Mun,1804506000,cur:exact
+Cauayan,Negros Occidental,110899,Mun,1804507000,cur:exact
+Don Salvador Benedicto,Negros Occidental,28231,Mun,1804532000,cur:exact
+Enrique B. Magalona,Negros Occidental,65730,Mun,1804508000,cur:exact
+Escalante,Negros Occidental,97050,,1804509000,cur:based
+Himamaylan,Negros Occidental,117286,,1804510000,cur:based
+Hinigaran,Negros Occidental,90403,Mun,1804511000,cur:exact
+Hinoba-an,Negros Occidental,64364,Mun,1804512000,cur:exact
+Ilog,Negros Occidental,63444,Mun,1804513000,cur:exact
+Isabela,Negros Occidental,65399,Mun,1804514000,cur:exact
+Kabankalan,Negros Occidental,210893,,1804515000,cur:based
+La Carlota,Negros Occidental,67740,,1804516000,cur:based
+La Castellana,Negros Occidental,82500,Mun,1804517000,cur:exact
+Manapla,Negros Occidental,55882,Mun,1804518000,cur:exact
+Moises Padilla,Negros Occidental,44864,Mun,1804519000,cur:exact
+Murcia,Negros Occidental,90123,Mun,1804520000,cur:exact
+Pontevedra,Negros Occidental,54941,Mun,1804521000,cur:exact
+Pulupandan,Negros Occidental,31942,Mun,1804522000,cur:exact
+Sagay,Negros Occidental,152543,,1804523000,cur:based
+San Carlos,Negros Occidental,133175,,1804524000,cur:based
+San Enrique,Negros Occidental,24424,Mun,1804525000,cur:exact
+Silay,Negros Occidental,136802,,1804526000,cur:based
+Sipalay,Negros Occidental,73847,,1804527000,cur:based
+Talisay,Negros Occidental,109204,,1804528000,cur:based
+Toboso,Negros Occidental,44973,Mun,1804529000,cur:exact
+Valladolid,Negros Occidental,40487,Mun,1804530000,cur:exact
+Victorias,Negros Occidental,90290,,1804531000,cur:based
+Amlan,Negros Oriental,26566,Mun,1804601000,cur:exact
+Ayungon,Negros Oriental,50688,Mun,1804602000,cur:exact
+Bacong,Negros Oriental,43889,Mun,1804603000,cur:exact
+Bais,Negros Oriental,88050,,1804604000,cur:based
+Basay,Negros Oriental,30018,Mun,1804605000,cur:exact
+Bayawan,Negros Oriental,126744,,1804606000,cur:based
+Bindoy,Negros Oriental,41543,Mun,1804607000,cur:exact
+Canlaon,Negros Oriental,62785,,1804608000,cur:based
+Dauin,Negros Oriental,30921,Mun,1804609000,cur:exact
+Dumaguete,Negros Oriental,142171,,1804610000,cur:based
+Guihulngan,Negros Oriental,106576,,1804611000,cur:based
+Jimalalud,Negros Oriental,32996,Mun,1804612000,cur:exact
+La Libertad,Negros Oriental,42721,Mun,1804613000,cur:exact
+Mabinay,Negros Oriental,85770,Mun,1804614000,cur:exact
+Manjuyod,Negros Oriental,46461,Mun,1804615000,cur:exact
+Pamplona,Negros Oriental,41209,Mun,1804616000,cur:exact
+San Jose,Negros Oriental,22870,Mun,1804617000,cur:exact
+Santa Catalina,Negros Oriental,80382,Mun,1804618000,cur:exact
+Siaton,Negros Oriental,84169,Mun,1804619000,cur:exact
+Sibulan,Negros Oriental,69092,Mun,1804620000,cur:exact
+Tanjay,Negros Oriental,84593,,1804621000,cur:based
+Tayasan,Negros Oriental,39005,Mun,1804622000,cur:exact
+Valencia,Negros Oriental,39986,Mun,1804623000,cur:exact
+Vallehermoso,Negros Oriental,42421,Mun,1804624000,cur:exact
+Zamboanguita,Negros Oriental,30412,Mun,1804625000,cur:exact
+Allen,Northern Samar,26527,Mun,0804801000,cur:exact
+Biri,Northern Samar,11005,Mun,0804802000,cur:exact
+Bobon,Northern Samar,27266,Mun,0804803000,cur:exact
+Capul,Northern Samar,12127,Mun,0804804000,cur:exact
+Catarman,Northern Samar,97738,Mun,0804805000,cur:exact
+Catubig,Northern Samar,32688,Mun,0804806000,cur:exact
+Gamay,Northern Samar,21546,Mun,0804807000,cur:exact
+Laoang,Northern Samar,60980,Mun,0804808000,cur:exact
+Lapinig,Northern Samar,11908,Mun,0804809000,cur:exact
+Las Navas,Northern Samar,37425,Mun,0804810000,cur:exact
+Lavezares,Northern Samar,29801,Mun,0804811000,cur:exact
+Lope de Vega,Northern Samar,15779,Mun,0804824000,cur:exact
+Mapanas,Northern Samar,14858,Mun,0804812000,cur:exact
+Mondragon,Northern Samar,43116,Mun,0804813000,cur:exact
+Palapag,Northern Samar,34954,Mun,0804814000,cur:exact
+Pambujan,Northern Samar,34174,Mun,0804815000,cur:exact
+Rosario,Northern Samar,11726,Mun,0804816000,cur:exact
+San Antonio,Northern Samar,8904,Mun,0804817000,cur:exact
+San Isidro,Northern Samar,26068,Mun,0804818000,cur:exact
+San Jose,Northern Samar,18301,Mun,0804819000,cur:exact
+San Roque,Northern Samar,29993,Mun,0804820000,cur:exact
+San Vicente,Northern Samar,7308,Mun,0804821000,cur:exact
+Silvino Lobos,Northern Samar,15512,Mun,0804822000,cur:exact
+Victoria,Northern Samar,16085,Mun,0804823000,cur:exact
+Aliaga,Nueva Ecija,72134,Mun,0304901000,cur:exact
+Bongabon,Nueva Ecija,69376,Mun,0304902000,cur:exact
+Cabanatuan,Nueva Ecija,343672,,0304903000,cur:based
+Cabiao,Nueva Ecija,89497,Mun,0304904000,cur:exact
+Carranglan,Nueva Ecija,43694,Mun,0304905000,cur:exact
+Cuyapo,Nueva Ecija,70919,Mun,0304906000,cur:exact
+Gabaldon,Nueva Ecija,40223,Mun,0304907000,cur:exact
+Gapan,Nueva Ecija,129610,,0304908000,cur:based
+General Mamerto Natividad,Nueva Ecija,43779,Mun,0304909000,cur:exact
+General Tinio,Nueva Ecija,58093,Mun,0304910000,cur:exact
+Guimba,Nueva Ecija,131468,Mun,0304911000,cur:exact
+Jaen,Nueva Ecija,83895,Mun,0304912000,cur:exact
+Laur,Nueva Ecija,40185,Mun,0304913000,cur:exact
+Licab,Nueva Ecija,29590,Mun,0304914000,cur:exact
+Llanera,Nueva Ecija,44620,Mun,0304915000,cur:exact
+Lupao,Nueva Ecija,47175,Mun,0304916000,cur:exact
+Muñoz,Nueva Ecija,85061,,0304917000,cur:exact
+Nampicuan,Nueva Ecija,15297,Mun,0304918000,cur:exact
+Palayan,Nueva Ecija,47883,,0304919000,cur:based
+Pantabangan,Nueva Ecija,32694,Mun,0304920000,cur:exact
+Peñaranda,Nueva Ecija,33043,Mun,0304921000,cur:exact
+Quezon,Nueva Ecija,42621,Mun,0304922000,cur:exact
+Rizal,Nueva Ecija,71749,Mun,0304923000,cur:exact
+San Antonio,Nueva Ecija,84958,Mun,0304924000,cur:exact
+San Isidro,Nueva Ecija,55108,Mun,0304925000,cur:exact
+San Jose,Nueva Ecija,156714,,0304926000,cur:based
+San Leonardo,Nueva Ecija,69180,Mun,0304927000,cur:exact
+Santa Rosa,Nueva Ecija,80258,Mun,0304928000,cur:exact
+Santo Domingo,Nueva Ecija,63750,Mun,0304929000,cur:exact
+Talavera,Nueva Ecija,137444,Mun,0304930000,cur:exact
+Talugtug,Nueva Ecija,26469,Mun,0304931000,cur:exact
+Zaragoza,Nueva Ecija,55657,Mun,0304932000,cur:exact
+Alfonso Castañeda,Nueva Vizcaya,8933,Mun,0205015000,cur:exact
+Ambaguio,Nueva Vizcaya,16401,Mun,0205001000,cur:exact
+Aritao,Nueva Vizcaya,45000,Mun,0205002000,cur:exact
+Bagabag,Nueva Vizcaya,39138,Mun,0205003000,cur:exact
+Bambang,Nueva Vizcaya,60146,Mun,0205004000,cur:exact
+Bayombong,Nueva Vizcaya,72890,Mun,0205005000,cur:exact
+Diadi,Nueva Vizcaya,20438,Mun,0205006000,cur:exact
+Dupax del Norte,Nueva Vizcaya,35509,Mun,0205007000,cur:exact
+Dupax del Sur,Nueva Vizcaya,22388,Mun,0205008000,cur:exact
+Kasibu,Nueva Vizcaya,46845,Mun,0205009000,cur:exact
+Kayapa,Nueva Vizcaya,27865,Mun,0205010000,cur:exact
+Quezon,Nueva Vizcaya,25306,Mun,0205011000,cur:exact
+Santa Fe,Nueva Vizcaya,18950,Mun,0205012000,cur:exact
+Solano,Nueva Vizcaya,69296,Mun,0205013000,cur:exact
+Villaverde,Nueva Vizcaya,21001,Mun,0205014000,cur:exact
+Abra de Ilog,Occidental Mindoro,31910,Mun,1705101000,cur:exact
+Calintaan,Occidental Mindoro,31088,Mun,1705102000,cur:exact
+Looc,Occidental Mindoro,9426,Mun,1705103000,cur:exact
+Lubang,Occidental Mindoro,18761,Mun,1705104000,cur:exact
+Magsaysay,Occidental Mindoro,40987,Mun,1705105000,cur:exact
+Mamburao,Occidental Mindoro,44554,Mun,1705106000,cur:exact
+Paluan,Occidental Mindoro,19461,Mun,1705107000,cur:exact
+Rizal,Occidental Mindoro,40319,Mun,1705108000,cur:exact
+Sablayan,Occidental Mindoro,91406,Mun,1705109000,cur:exact
+San Jose,Occidental Mindoro,143495,Mun,1705110000,cur:exact
+Santa Cruz,Occidental Mindoro,40010,Mun,1705111000,cur:exact
+Baco,Oriental Mindoro,40159,Mun,1705201000,cur:exact
+Bansud,Oriental Mindoro,44396,Mun,1705202000,cur:exact
+Bongabong,Oriental Mindoro,77540,Mun,1705203000,cur:exact
+Bulalacao,Oriental Mindoro,46439,Mun,1705204000,cur:exact
+Calapan,Oriental Mindoro,148558,,1705205000,cur:based
+Gloria,Oriental Mindoro,52296,Mun,1705206000,cur:exact
+Mansalay,Oriental Mindoro,60597,Mun,1705207000,cur:exact
+Naujan,Oriental Mindoro,109122,Mun,1705208000,cur:exact
+Pinamalayan,Oriental Mindoro,90420,Mun,1705209000,cur:exact
+Pola,Oriental Mindoro,35771,Mun,1705210000,cur:exact
+Puerto Galera,Oriental Mindoro,42301,Mun,1705211000,cur:exact
+Roxas,Oriental Mindoro,58428,Mun,1705212000,cur:exact
+San Teodoro,Oriental Mindoro,19650,Mun,1705213000,cur:exact
+Socorro,Oriental Mindoro,41612,Mun,1705214000,cur:exact
+Victoria,Oriental Mindoro,52215,Mun,1705215000,cur:exact
+Aborlan,Palawan,39972,Mun,1705301000,cur:exact
+Agutaya,Palawan,13351,Mun,1705302000,cur:exact
+Araceli,Palawan,14554,Mun,1705303000,cur:exact
+Balabac,Palawan,42662,Mun,1705304000,cur:exact
+Bataraza,Palawan,87384,Mun,1705305000,cur:exact
+Brooke's Point,Palawan,76715,Mun,1705306000,cur:exact
+Busuanga,Palawan,26974,Mun,1705307000,cur:exact
+Cagayancillo,Palawan,7164,Mun,1705308000,cur:exact
+Coron,Palawan,69439,Mun,1705309000,cur:exact
+Culion,Palawan,23985,Mun,1705322000,cur:exact
+Cuyo,Palawan,24702,Mun,1705310000,cur:exact
+Dumaran,Palawan,23795,Mun,1705311000,cur:exact
+El Nido,Palawan,51367,Mun,1705312000,cur:exact
+Kalayaan,Palawan,406,Mun,1705321000,cur:exact
+Linapacan,Palawan,16782,Mun,1705313000,cur:exact
+Magsaysay,Palawan,13273,Mun,1705314000,cur:exact
+Narra,Palawan,80572,Mun,1705315000,cur:exact
+Puerto Princesa,Palawan,316384,,1731500000,cur:based
+Quezon,Palawan,68532,Mun,1705317000,cur:exact
+Rizal,Palawan,59040,Mun,1705323000,cur:exact
+Roxas,Palawan,69729,Mun,1705318000,cur:exact
+San Vicente,Palawan,33768,Mun,1705319000,cur:exact
+Sofronio Española,Palawan,39371,Mun,1705324000,cur:exact
+Taytay,Palawan,85258,Mun,1705320000,cur:exact
+Angeles,Pampanga,483452,,0330100000,cur:based
+Apalit,Pampanga,121057,Mun,0305402000,cur:exact
+Arayat,Pampanga,150949,Mun,0305403000,cur:exact
+Bacolor,Pampanga,59361,Mun,0305404000,cur:exact
+Candaba,Pampanga,124019,Mun,0305405000,cur:exact
+Floridablanca,Pampanga,146095,Mun,0305406000,cur:exact
+Guagua,Pampanga,137948,Mun,0305407000,cur:exact
+Lubao,Pampanga,190355,Mun,0305408000,cur:exact
+Mabalacat,Pampanga,306594,,0305409000,cur:based
+Macabebe,Pampanga,82933,Mun,0305410000,cur:exact
+Magalang,Pampanga,133883,Mun,0305411000,cur:exact
+Masantol,Pampanga,57207,Mun,0305412000,cur:exact
+Mexico,Pampanga,187597,Mun,0305413000,cur:exact
+Minalin,Pampanga,50126,Mun,0305414000,cur:exact
+Porac,Pampanga,147551,Mun,0305415000,cur:exact
+San Fernando,Pampanga,377534,,0305416000,cur:based
+San Luis,Pampanga,64674,Mun,0305417000,cur:exact
+San Simon,Pampanga,65760,Mun,0305418000,cur:exact
+Santa Ana,Pampanga,63431,Mun,0305419000,cur:exact
+Santa Rita,Pampanga,42915,Mun,0305420000,cur:exact
+Santo Tomas,Pampanga,44376,Mun,0305421000,cur:exact
+Sasmuan,Pampanga,32081,Mun,0305422000,cur:exact
+Agno,Pangasinan,29270,Mun,0105501000,cur:exact
+Aguilar,Pangasinan,45363,Mun,0105502000,cur:exact
+Alaminos,Pangasinan,100430,,0105503000,cur:based
+Alcala,Pangasinan,49479,Mun,0105504000,cur:exact
+Anda,Pangasinan,42688,Mun,0105505000,cur:exact
+Asingan,Pangasinan,58349,Mun,0105506000,cur:exact
+Balungao,Pangasinan,30678,Mun,0105507000,cur:exact
+Bani,Pangasinan,52715,Mun,0105508000,cur:exact
+Basista,Pangasinan,37840,Mun,0105509000,cur:exact
+Bautista,Pangasinan,35728,Mun,0105510000,cur:exact
+Bayambang,Pangasinan,129506,Mun,0105511000,cur:exact
+Binalonan,Pangasinan,56560,Mun,0105512000,cur:exact
+Binmaley,Pangasinan,88006,Mun,0105513000,cur:exact
+Bolinao,Pangasinan,84658,Mun,0105514000,cur:exact
+Bugallon,Pangasinan,76027,Mun,0105515000,cur:exact
+Burgos,Pangasinan,23240,Mun,0105516000,cur:exact
+Calasiao,Pangasinan,100686,Mun,0105517000,cur:exact
+Dagupan,Pangasinan,174777,,0105518000,cur:based
+Dasol,Pangasinan,31842,Mun,0105519000,cur:exact
+Infanta,Pangasinan,26837,Mun,0105520000,cur:exact
+Labrador,Pangasinan,26995,Mun,0105521000,cur:exact
+Laoac,Pangasinan,34550,Mun,0105548000,cur:exact
+Lingayen,Pangasinan,108510,Mun,0105522000,cur:exact
+Mabini,Pangasinan,26589,Mun,0105523000,cur:exact
+Malasiqui,Pangasinan,144344,Mun,0105524000,cur:exact
+Manaoag,Pangasinan,76606,Mun,0105525000,cur:exact
+Mangaldan,Pangasinan,113302,Mun,0105526000,cur:exact
+Mangatarem,Pangasinan,79648,Mun,0105527000,cur:exact
+Mapandan,Pangasinan,38228,Mun,0105528000,cur:exact
+Natividad,Pangasinan,26721,Mun,0105529000,cur:exact
+Pozorrubio,Pangasinan,75143,Mun,0105530000,cur:exact
+Rosales,Pangasinan,67510,Mun,0105531000,cur:exact
+San Carlos,Pangasinan,208330,,0105532000,cur:based
+San Fabian,Pangasinan,87714,Mun,0105533000,cur:exact
+San Jacinto,Pangasinan,44713,Mun,0105534000,cur:exact
+San Manuel,Pangasinan,56876,Mun,0105535000,cur:exact
+San Nicolas,Pangasinan,40144,Mun,0105536000,cur:exact
+San Quintin,Pangasinan,34322,Mun,0105537000,cur:exact
+Santa Barbara,Pangasinan,92420,Mun,0105538000,cur:exact
+Santa Maria,Pangasinan,34452,Mun,0105539000,cur:exact
+Santo Tomas,Pangasinan,14894,Mun,0105540000,cur:exact
+Sison,Pangasinan,51439,Mun,0105541000,cur:exact
+Sual,Pangasinan,38625,Mun,0105542000,cur:exact
+Tayug,Pangasinan,45476,Mun,0105543000,cur:exact
+Umingan,Pangasinan,78940,Mun,0105544000,cur:exact
+Urbiztondo,Pangasinan,56349,Mun,0105545000,cur:exact
+Urdaneta,Pangasinan,145935,,0105546000,cur:based
+Villasis,Pangasinan,65086,Mun,0105547000,cur:exact
+Agdangan,Quezon,13316,Mun,0405601000,cur:exact
+Alabat,Quezon,15744,Mun,0405602000,cur:exact
+Atimonan,Quezon,65552,Mun,0405603000,cur:exact
+Buenavista,Quezon,31550,Mun,0405605000,cur:exact
+Burdeos,Quezon,22742,Mun,0405606000,cur:exact
+Calauag,Quezon,68999,Mun,0405607000,cur:exact
+Candelaria,Quezon,137933,Mun,0405608000,cur:exact
+Catanauan,Quezon,76250,Mun,0405610000,cur:exact
+Dolores,Quezon,32645,Mun,0405615000,cur:exact
+General Luna,Quezon,25110,Mun,0405616000,cur:exact
+General Nakar,Quezon,34982,Mun,0405617000,cur:exact
+Guinayangan,Quezon,45375,Mun,0405618000,cur:exact
+Gumaca,Quezon,72454,Mun,0405619000,cur:exact
+Infanta,Quezon,77676,Mun,0405620000,cur:exact
+Jomalig,Quezon,7884,Mun,0405621000,cur:exact
+Lopez,Quezon,96006,Mun,0405622000,cur:exact
+Lucban,Quezon,54134,Mun,0405623000,cur:exact
+Lucena,Quezon,280331,,0431200000,cur:based
+Macalelon,Quezon,25266,Mun,0405625000,cur:exact
+Mauban,Quezon,70135,Mun,0405627000,cur:exact
+Mulanay,Quezon,53976,Mun,0405628000,cur:exact
+Padre Burgos,Quezon,23392,Mun,0405629000,cur:exact
+Pagbilao,Quezon,82132,Mun,0405630000,cur:exact
+Panukulan,Quezon,17118,Mun,0405631000,cur:exact
+Patnanungan,Quezon,15554,Mun,0405632000,cur:exact
+Perez,Quezon,13052,Mun,0405633000,cur:exact
+Pitogo,Quezon,22499,Mun,0405634000,cur:exact
+Plaridel,Quezon,10866,Mun,0405635000,cur:exact
+Polillo,Quezon,31737,Mun,0405636000,cur:exact
+Quezon,Quezon,15869,Mun,0405637000,cur:exact
+Real,Quezon,39969,Mun,0405638000,cur:exact
+Sampaloc,Quezon,13331,Mun,0405639000,cur:exact
+San Andres,Quezon,38407,Mun,0405640000,cur:exact
+San Antonio,Quezon,36451,Mun,0405641000,cur:exact
+San Francisco,Quezon,63789,Mun,0405642000,cur:exact
+San Narciso,Quezon,53375,Mun,0405644000,cur:exact
+Sariaya,Quezon,172018,Mun,0405645000,cur:exact
+Tagkawayan,Quezon,54709,Mun,0405646000,cur:exact
+Tayabas,Quezon,115318,,0405647000,cur:based
+Tiaong,Quezon,107666,Mun,0405648000,cur:exact
+Unisan,Quezon,25357,Mun,0405649000,cur:exact
+Aglipay,Quirino,31596,Mun,0205701000,cur:exact
+Cabarroguis,Quirino,34720,Mun,0205702000,cur:exact
+Diffun,Quirino,58254,Mun,0205703000,cur:exact
+Maddela,Quirino,41867,Mun,0205704000,cur:exact
+Nagtipunan,Quirino,26541,Mun,0205706000,cur:exact
+Saguday,Quirino,17863,Mun,0205705000,cur:exact
+Angono,Rizal,134975,Mun,0405801000,cur:exact
+Antipolo,Rizal,913712,,0405802000,cur:based
+Baras,Rizal,91099,Mun,0405803000,cur:exact
+Binangonan,Rizal,321281,Mun,0405804000,cur:exact
+Cainta,Rizal,386321,Mun,0405805000,cur:exact
+Cardona,Rizal,51493,Mun,0405806000,cur:exact
+Jalajala,Rizal,34901,Mun,0405807000,cur:exact
+Morong,Rizal,72262,Mun,0405809000,cur:exact
+Pililla,Rizal,72503,Mun,0405810000,cur:exact
+Rodriguez,Rizal,451383,Mun,0405808000,cur:exact
+San Mateo,Rizal,276449,Mun,0405811000,cur:exact
+Tanay,Rizal,145597,Mun,0405812000,cur:exact
+Taytay,Rizal,397111,Mun,0405813000,cur:exact
+Teresa,Rizal,67454,Mun,0405814000,cur:exact
+Alcantara,Romblon,16417,Mun,1705901000,cur:exact
+Banton,Romblon,5848,Mun,1705902000,cur:exact
+Cajidiocan,Romblon,23488,Mun,1705903000,cur:exact
+Calatrava,Romblon,11254,Mun,1705904000,cur:exact
+Concepcion,Romblon,3427,Mun,1705905000,cur:exact
+Corcuera,Romblon,9021,Mun,1705906000,cur:exact
+Ferrol,Romblon,7826,Mun,1705916000,cur:exact
+Looc,Romblon,21964,Mun,1705907000,cur:exact
+Magdiwang,Romblon,15170,Mun,1705908000,cur:exact
+Odiongan,Romblon,48133,Mun,1705909000,cur:exact
+Romblon,Romblon,39004,Mun,1705910000,cur:exact
+San Agustin,Romblon,23698,Mun,1705911000,cur:exact
+San Andres,Romblon,16350,Mun,1705912000,cur:exact
+San Fernando,Romblon,23660,Mun,1705913000,cur:exact
+San Jose,Romblon,11626,Mun,1705914000,cur:exact
+Santa Fe,Romblon,17578,Mun,1705915000,cur:exact
+Santa Maria,Romblon,8360,Mun,1705917000,cur:exact
+Almagro,Samar,8571,Mun,0806001000,cur:exact
+Basey,Samar,57645,Mun,0806002000,cur:exact
+Calbayog,Samar,187848,,0806003000,cur:based
+Calbiga,Samar,23309,Mun,0806004000,cur:exact
+Catbalogan,Samar,107896,,0806005000,cur:based
+Daram,Samar,41932,Mun,0806006000,cur:exact
+Gandara,Samar,36826,Mun,0806007000,cur:exact
+Hinabangan,Samar,13791,Mun,0806008000,cur:exact
+Jiabong,Samar,19482,Mun,0806009000,cur:exact
+Marabut,Samar,18168,Mun,0806010000,cur:exact
+Matuguinao,Samar,7708,Mun,0806011000,cur:exact
+Motiong,Samar,15887,Mun,0806012000,cur:exact
+Pagsanghan,Samar,8145,Mun,0806026000,cur:exact
+Paranas,Samar,35281,Mun,0806022000,cur:exact
+Pinabacdao,Samar,18639,Mun,0806013000,cur:exact
+San Jorge,Samar,17863,Mun,0806025000,cur:exact
+San Jose de Buan,Samar,7939,Mun,0806014000,cur:exact
+San Sebastian,Samar,9110,Mun,0806015000,cur:exact
+Santa Margarita,Samar,27012,Mun,0806016000,cur:exact
+Santa Rita,Samar,42397,Mun,0806017000,cur:exact
+Santo Niño,Samar,13088,Mun,0806018000,cur:exact
+Tagapul-an,Samar,9139,Mun,0806024000,cur:exact
+Talalora,Samar,8530,Mun,0806019000,cur:exact
+Tarangnan,Samar,26013,Mun,0806020000,cur:exact
+Villareal,Samar,27909,Mun,0806021000,cur:exact
+Zumarraga,Samar,16051,Mun,0806023000,cur:exact
+Alabel,Sarangani,90120,Mun,1208001000,cur:exact
+Glan,Sarangani,117017,Mun,1208002000,cur:exact
+Kiamba,Sarangani,68745,Mun,1208003000,cur:exact
+Maasim,Sarangani,67907,Mun,1208004000,cur:exact
+Maitum,Sarangani,46120,Mun,1208005000,cur:exact
+Malapatan,Sarangani,82577,Mun,1208006000,cur:exact
+Malungon,Sarangani,108429,Mun,1208007000,cur:exact
+Enrique Villanueva,Siquijor,6965,Mun,1806101000,cur:exact
+Larena,Siquijor,14933,Mun,1806102000,cur:exact
+Lazi,Siquijor,23092,Mun,1806103000,cur:exact
+Maria,Siquijor,15146,Mun,1806104000,cur:exact
+San Juan,Siquijor,17291,Mun,1806105000,cur:exact
+Siquijor,Siquijor,30215,Mun,1806106000,cur:exact
+Barcelona,Sorsogon,21911,Mun,0506202000,cur:exact
+Bulan,Sorsogon,106919,Mun,0506203000,cur:exact
+Bulusan,Sorsogon,24152,Mun,0506204000,cur:exact
+Casiguran,Sorsogon,36464,Mun,0506205000,cur:exact
+Castilla,Sorsogon,61308,Mun,0506206000,cur:exact
+Donsol,Sorsogon,51781,Mun,0506207000,cur:exact
+Gubat,Sorsogon,61095,Mun,0506208000,cur:exact
+Irosin,Sorsogon,59540,Mun,0506209000,cur:exact
+Juban,Sorsogon,35978,Mun,0506210000,cur:exact
+Magallanes,Sorsogon,38072,Mun,0506211000,cur:exact
+Matnog,Sorsogon,42444,Mun,0506212000,cur:exact
+Pilar,Sorsogon,76908,Mun,0506213000,cur:exact
+Prieto Diaz,Sorsogon,23424,Mun,0506214000,cur:exact
+Santa Magdalena,Sorsogon,17400,Mun,0506215000,cur:exact
+Sorsogon City,Sorsogon,187670,,0506216000,cur:exact
+Banga,South Cotabato,91536,Mun,1206302000,cur:exact
+General Santos,South Cotabato,722059,,1230800000,cur:based
+Koronadal,South Cotabato,201844,,1206306000,cur:based
+Lake Sebu,South Cotabato,84252,Mun,1206319000,cur:exact
+Norala,South Cotabato,48499,Mun,1206311000,cur:exact
+Polomolok,South Cotabato,176671,Mun,1206312000,cur:exact
+Santo Niño,South Cotabato,41026,Mun,1206318000,cur:exact
+Surallah,South Cotabato,91412,Mun,1206313000,cur:exact
+T'Boli,South Cotabato,105296,Mun,1206316000,cur:exact
+Tampakan,South Cotabato,42304,Mun,1206314000,cur:exact
+Tantangan,South Cotabato,48570,Mun,1206315000,cur:exact
+Tupi,South Cotabato,78599,Mun,1206317000,cur:exact
+Anahawan,Southern Leyte,8766,Mun,0806401000,cur:exact
+Bontoc,Southern Leyte,32082,Mun,0806402000,cur:exact
+Hinunangan,Southern Leyte,30384,Mun,0806403000,cur:exact
+Hinundayan,Southern Leyte,13042,Mun,0806404000,cur:exact
+Libagon,Southern Leyte,16146,Mun,0806405000,cur:exact
+Liloan,Southern Leyte,23787,Mun,0806406000,cur:exact
+Limasawa,Southern Leyte,6480,Mun,0806419000,cur:exact
+Maasin,Southern Leyte,85486,,0806407000,cur:based
+Macrohon,Southern Leyte,27276,Mun,0806408000,cur:exact
+Malitbog,Southern Leyte,21691,Mun,0806409000,cur:exact
+Padre Burgos,Southern Leyte,11515,Mun,0806410000,cur:exact
+Pintuyan,Southern Leyte,10930,Mun,0806411000,cur:exact
+Saint Bernard,Southern Leyte,28131,Mun,0806412000,cur:exact
+San Francisco,Southern Leyte,12897,Mun,0806413000,cur:exact
+San Juan,Southern Leyte,15036,Mun,0806414000,cur:exact
+San Ricardo,Southern Leyte,10385,Mun,0806415000,cur:exact
+Silago,Southern Leyte,14677,Mun,0806416000,cur:exact
+Sogod,Southern Leyte,48815,Mun,0806417000,cur:exact
+Tomas Oppus,Southern Leyte,16846,Mun,0806418000,cur:exact
+Bagumbayan,Sultan Kudarat,69830,Mun,1206501000,cur:exact
+Columbio,Sultan Kudarat,33337,Mun,1206502000,cur:exact
+Esperanza,Sultan Kudarat,73822,Mun,1206503000,cur:exact
+Isulan,Sultan Kudarat,101455,Mun,1206504000,cur:exact
+Kalamansig,Sultan Kudarat,52257,Mun,1206505000,cur:exact
+Lambayong,Sultan Kudarat,81288,Mun,1206508000,cur:exact
+Lebak,Sultan Kudarat,93312,Mun,1206506000,cur:exact
+Lutayan,Sultan Kudarat,65425,Mun,1206507000,cur:exact
+Palimbang,Sultan Kudarat,83633,Mun,1206509000,cur:exact
+President Quirino,Sultan Kudarat,44344,Mun,1206510000,cur:exact
+Senator Ninoy Aquino,Sultan Kudarat,48003,Mun,1206512000,cur:exact
+Tacurong,Sultan Kudarat,116945,,1206511000,cur:based
+Banguingui,Sulu,39202,Mun,1906615000,cur:exact
+Hadji Panglima Tahil,Sulu,8441,Mun,1906606000,cur:exact
+Indanan,Sulu,105384,Mun,1906601000,cur:exact
+Jolo,Sulu,152067,Mun,1906602000,cur:exact
+Kalingalan Caluang,Sulu,42845,Mun,1906603000,cur:exact
+Lugus,Sulu,35412,Mun,1906617000,cur:exact
+Luuk,Sulu,44741,Mun,1906604000,cur:exact
+Maimbung,Sulu,85681,Mun,1906605000,cur:exact
+Omar,Sulu,30847,Mun,1906619000,cur:exact
+Panamao,Sulu,53903,Mun,1906607000,cur:exact
+Pandami,Sulu,35369,Mun,1906618000,cur:exact
+Panglima Estino,Sulu,37157,Mun,1906616000,cur:exact
+Pangutaran,Sulu,41575,Mun,1906608000,cur:exact
+Parang,Sulu,83092,Mun,1906609000,cur:exact
+Pata,Sulu,27974,Mun,1906610000,cur:exact
+Patikul,Sulu,92600,Mun,1906611000,cur:exact
+Siasi,Sulu,100076,Mun,1906612000,cur:exact
+Talipao,Sulu,107901,Mun,1906613000,cur:exact
+Tapul,Sulu,21830,Mun,1906614000,cur:exact
+Alegria,Surigao del Norte,17846,Mun,1606701000,cur:exact
+Bacuag,Surigao del Norte,17076,Mun,1606702000,cur:exact
+Burgos,Surigao del Norte,4399,Mun,1606704000,cur:exact
+Claver,Surigao del Norte,39882,Mun,1606706000,cur:exact
+Dapa,Surigao del Norte,31392,Mun,1606707000,cur:exact
+Del Carmen,Surigao del Norte,20786,Mun,1606708000,cur:exact
+General Luna,Surigao del Norte,25208,Mun,1606710000,cur:exact
+Gigaquit,Surigao del Norte,22949,Mun,1606711000,cur:exact
+Mainit,Surigao del Norte,29205,Mun,1606714000,cur:exact
+Malimono,Surigao del Norte,19442,Mun,1606715000,cur:exact
+Pilar,Surigao del Norte,11135,Mun,1606716000,cur:exact
+Placer,Surigao del Norte,30442,Mun,1606717000,cur:exact
+San Benito,Surigao del Norte,5880,Mun,1606718000,cur:exact
+San Francisco,Surigao del Norte,16004,Mun,1606719000,cur:exact
+San Isidro,Surigao del Norte,8813,Mun,1606720000,cur:exact
+Santa Monica,Surigao del Norte,9757,Mun,1606721000,cur:exact
+Sison,Surigao del Norte,14826,Mun,1606722000,cur:exact
+Socorro,Surigao del Norte,28436,Mun,1606723000,cur:exact
+Surigao City,Surigao del Norte,177333,,1606724000,cur:exact
+Tagana-an,Surigao del Norte,18158,Mun,1606725000,cur:exact
+Tubod,Surigao del Norte,16675,Mun,1606727000,cur:exact
+Barobo,Surigao del Sur,53729,Mun,1606801000,cur:exact
+Bayabas,Surigao del Sur,9016,Mun,1606802000,cur:exact
+Bislig,Surigao del Sur,99872,,1606803000,cur:based
+Cagwait,Surigao del Sur,22305,Mun,1606804000,cur:exact
+Cantilan,Surigao del Sur,34233,Mun,1606805000,cur:exact
+Carmen,Surigao del Sur,11859,Mun,1606806000,cur:exact
+Carrascal,Surigao del Sur,25672,Mun,1606807000,cur:exact
+Cortes,Surigao del Sur,18023,Mun,1606808000,cur:exact
+Hinatuan,Surigao del Sur,44475,Mun,1606809000,cur:exact
+Lanuza,Surigao del Sur,13750,Mun,1606810000,cur:exact
+Lianga,Surigao del Sur,34213,Mun,1606811000,cur:exact
+Lingig,Surigao del Sur,35203,Mun,1606812000,cur:exact
+Madrid,Surigao del Sur,16872,Mun,1606813000,cur:exact
+Marihatag,Surigao del Sur,19730,Mun,1606814000,cur:exact
+San Agustin,Surigao del Sur,23612,Mun,1606815000,cur:exact
+San Miguel,Surigao del Sur,41942,Mun,1606816000,cur:exact
+Tagbina,Surigao del Sur,41157,Mun,1606817000,cur:exact
+Tago,Surigao del Sur,40097,Mun,1606818000,cur:exact
+Tandag,Surigao del Sur,63098,,1606819000,cur:based
+Anao,Tarlac,12865,Mun,0306901000,cur:exact
+Bamban,Tarlac,81012,Mun,0306902000,cur:exact
+Camiling,Tarlac,91400,Mun,0306903000,cur:exact
+Capas,Tarlac,162724,Mun,0306904000,cur:exact
+Concepcion,Tarlac,178549,Mun,0306905000,cur:exact
+Gerona,Tarlac,97937,Mun,0306906000,cur:exact
+La Paz,Tarlac,71978,Mun,0306907000,cur:exact
+Mayantoc,Tarlac,34091,Mun,0306908000,cur:exact
+Moncada,Tarlac,66925,Mun,0306909000,cur:exact
+Paniqui,Tarlac,106190,Mun,0306910000,cur:exact
+Pura,Tarlac,27017,Mun,0306911000,cur:exact
+Ramos,Tarlac,23808,Mun,0306912000,cur:exact
+San Clemente,Tarlac,13781,Mun,0306913000,cur:exact
+San Jose,Tarlac,43185,Mun,0306918000,cur:exact
+San Manuel,Tarlac,29693,Mun,0306914000,cur:exact
+Santa Ignacia,Tarlac,53620,Mun,0306915000,cur:exact
+Tarlac City,Tarlac,401892,,0306916000,cur:exact
+Victoria,Tarlac,71495,Mun,0306917000,cur:exact
+Bongao,Tawi-Tawi,131887,Mun,1907002000,cur:exact
+Languyan,Tawi-Tawi,41587,Mun,1907009000,cur:exact
+Mapun,Tawi-Tawi,29218,Mun,1907003000,cur:exact
+Panglima Sugala,Tawi-Tawi,52657,Mun,1907001000,cur:exact
+Sapa-Sapa,Tawi-Tawi,37129,Mun,1907010000,cur:exact
+Sibutu,Tawi-Tawi,38070,Mun,1907011000,cur:exact
+Simunul,Tawi-Tawi,35616,Mun,1907004000,cur:exact
+Sitangkai,Tawi-Tawi,42172,Mun,1907005000,cur:exact
+South Ubian,Tawi-Tawi,31942,Mun,1907006000,cur:exact
+Tandubas,Tawi-Tawi,34702,Mun,1907007000,cur:exact
+Turtle Islands,Tawi-Tawi,7665,Mun,1907008000,cur:exact
+Botolan,Zambales,70340,Mun,0307101000,cur:exact
+Cabangan,Zambales,29334,Mun,0307102000,cur:exact
+Candelaria,Zambales,32182,Mun,0307103000,cur:exact
+Castillejos,Zambales,70105,Mun,0307104000,cur:exact
+Iba,Zambales,59580,Mun,0307105000,cur:exact
+Masinloc,Zambales,56579,Mun,0307106000,cur:exact
+Olongapo,Zambales,264903,,0331400000,cur:based
+Palauig,Zambales,43250,Mun,0307108000,cur:exact
+San Antonio,Zambales,38617,Mun,0307109000,cur:exact
+San Felipe,Zambales,26081,Mun,0307110000,cur:exact
+San Marcelino,Zambales,39542,Mun,0307111000,cur:exact
+San Narciso,Zambales,32180,Mun,0307112000,cur:exact
+Santa Cruz,Zambales,66647,Mun,0307113000,cur:exact
+Subic,Zambales,116788,Mun,0307114000,cur:exact
+Baliguian,Zamboanga del Norte,25585,Mun,0907224000,cur:exact
+Dapitan,Zamboanga del Norte,87699,,0907201000,cur:based
+Dipolog,Zamboanga del Norte,136528,,0907202000,cur:based
+Godod,Zamboanga del Norte,18040,Mun,0907225000,cur:exact
+Gutalac,Zamboanga del Norte,37512,Mun,0907223000,cur:exact
+Jose Dalman,Zamboanga del Norte,27951,Mun,0907222000,cur:exact
+Kalawit,Zamboanga del Norte,23381,Mun,0907227000,cur:exact
+Katipunan,Zamboanga del Norte,43427,Mun,0907203000,cur:exact
+La Libertad,Zamboanga del Norte,7874,Mun,0907204000,cur:exact
+Labason,Zamboanga del Norte,44615,Mun,0907205000,cur:exact
+Leon B. Postigo,Zamboanga del Norte,29535,Mun,0907226000,cur:exact
+Liloy,Zamboanga del Norte,41881,Mun,0907206000,cur:exact
+Manukan,Zamboanga del Norte,35669,Mun,0907207000,cur:exact
+Mutia,Zamboanga del Norte,12197,Mun,0907208000,cur:exact
+Piñan,Zamboanga del Norte,19184,Mun,0907209000,cur:exact
+Polanco,Zamboanga del Norte,40485,Mun,0907210000,cur:exact
+Rizal,Zamboanga del Norte,15347,Mun,0907212000,cur:exact
+Roxas,Zamboanga del Norte,38649,Mun,0907211000,cur:exact
+Salug,Zamboanga del Norte,33060,Mun,0907213000,cur:exact
+Sergio Osmeña,Zamboanga del Norte,31187,Mun,0907214000,cur:exact
+Siayan,Zamboanga del Norte,40937,Mun,0907215000,cur:exact
+Sibuco,Zamboanga del Norte,37883,Mun,0907216000,cur:exact
+Sibutad,Zamboanga del Norte,18199,Mun,0907217000,cur:exact
+Sindangan,Zamboanga del Norte,104514,Mun,0907218000,cur:exact
+Siocon,Zamboanga del Norte,51239,Mun,0907219000,cur:exact
+Sirawai,Zamboanga del Norte,39836,Mun,0907220000,cur:exact
+Tampilisan,Zamboanga del Norte,24653,Mun,0907221000,cur:exact
+Aurora,Zamboanga del Sur,52746,Mun,0907302000,cur:exact
+Bayog,Zamboanga del Sur,32687,Mun,0907303000,cur:exact
+Dimataling,Zamboanga del Sur,33156,Mun,0907305000,cur:exact
+Dinas,Zamboanga del Sur,35409,Mun,0907306000,cur:exact
+Dumalinao,Zamboanga del Sur,34188,Mun,0907307000,cur:exact
+Dumingag,Zamboanga del Sur,48495,Mun,0907308000,cur:exact
+Guipos,Zamboanga del Sur,22173,Mun,0907343000,cur:exact
+Josefina,Zamboanga del Sur,11190,Mun,0907337000,cur:exact
+Kumalarang,Zamboanga del Sur,30815,Mun,0907311000,cur:exact
+Labangan,Zamboanga del Sur,45343,Mun,0907312000,cur:exact
+Lakewood,Zamboanga del Sur,23599,Mun,0907333000,cur:exact
+Lapuyan,Zamboanga del Sur,28686,Mun,0907313000,cur:exact
+Mahayag,Zamboanga del Sur,48695,Mun,0907315000,cur:exact
+Margosatubig,Zamboanga del Sur,36025,Mun,0907317000,cur:exact
+Midsalip,Zamboanga del Sur,35643,Mun,0907318000,cur:exact
+Molave,Zamboanga del Sur,52540,Mun,0907319000,cur:exact
+Pagadian,Zamboanga del Sur,206483,,0907322000,cur:based
+Pitogo,Zamboanga del Sur,28375,Mun,0907338000,cur:exact
+Ramon Magsaysay,Zamboanga del Sur,28419,Mun,0907323000,cur:exact
+San Miguel,Zamboanga del Sur,20037,Mun,0907324000,cur:exact
+San Pablo,Zamboanga del Sur,26166,Mun,0907325000,cur:exact
+Sominot,Zamboanga del Sur,17247,Mun,0907340000,cur:exact
+Tabina,Zamboanga del Sur,24591,Mun,0907327000,cur:exact
+Tambulig,Zamboanga del Sur,37400,Mun,0907328000,cur:exact
+Tigbao,Zamboanga del Sur,19716,Mun,0907344000,cur:exact
+Tukuran,Zamboanga del Sur,42683,Mun,0907330000,cur:exact
+Vincenzo A. Sagun,Zamboanga del Sur,22619,Mun,0907341000,cur:exact
+Zamboanga City,Zamboanga del Sur,1018849,,0931700000,cur:exact
+Alicia,Zamboanga Sibugay,39484,Mun,0908301000,cur:exact
+Buug,Zamboanga Sibugay,38730,Mun,0908302000,cur:exact
+Diplahan,Zamboanga Sibugay,32423,Mun,0908303000,cur:exact
+Imelda,Zamboanga Sibugay,29652,Mun,0908304000,cur:exact
+Ipil,Zamboanga Sibugay,96363,Mun,0908305000,cur:exact
+Kabasalan,Zamboanga Sibugay,48366,Mun,0908306000,cur:exact
+Mabuhay,Zamboanga Sibugay,24296,Mun,0908307000,cur:exact
+Malangas,Zamboanga Sibugay,33194,Mun,0908308000,cur:exact
+Naga,Zamboanga Sibugay,42270,Mun,0908309000,cur:exact
+Olutanga,Zamboanga Sibugay,34124,Mun,0908310000,cur:exact
+Payao,Zamboanga Sibugay,33156,Mun,0908311000,cur:exact
+Roseller Lim,Zamboanga Sibugay,44735,Mun,0908312000,cur:exact
+Siay,Zamboanga Sibugay,43233,Mun,0908313000,cur:exact
+Talusan,Zamboanga Sibugay,17925,Mun,0908314000,cur:exact
+Titay,Zamboanga Sibugay,55534,Mun,0908315000,cur:exact
+Tungawan,Philippine cities,48013,Mun,0908316000,name_unique_national

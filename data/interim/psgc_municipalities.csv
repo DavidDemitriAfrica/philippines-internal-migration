@@ -1,0 +1,1643 @@
+psgc10,psgc9,name,level,city_class,income_class,old_names,pop2020_psgc,region_code,prov_code,region,province,name_norm,province_norm
+1380100000,137501000,City of Caloocan,City,HUC,1st,,1661584,13,13801,National Capital Region (NCR),National Capital Region (NCR),caloocan city,national capital region (ncr)
+1380200000,137601000,City of Las Piñas,City,HUC,1st,,606293,13,13802,National Capital Region (NCR),National Capital Region (NCR),las pinas city,national capital region (ncr)
+1380300000,137602000,City of Makati,City,HUC,1st,,629616,13,13803,National Capital Region (NCR),National Capital Region (NCR),makati city,national capital region (ncr)
+1380400000,137502000,City of Malabon,City,HUC,1st,,380522,13,13804,National Capital Region (NCR),National Capital Region (NCR),malabon city,national capital region (ncr)
+1380500000,137401000,City of Mandaluyong,City,HUC,1st,,425758,13,13805,National Capital Region (NCR),National Capital Region (NCR),mandaluyong city,national capital region (ncr)
+1380600000,133900000,City of Manila,City,HUC,Special,,1846513,13,13806,National Capital Region (NCR),National Capital Region (NCR),manila city,national capital region (ncr)
+1380700000,137402000,City of Marikina,City,HUC,1st,,456059,13,13807,National Capital Region (NCR),National Capital Region (NCR),marikina city,national capital region (ncr)
+1380800000,137603000,City of Muntinlupa,City,HUC,1st,,543445,13,13808,National Capital Region (NCR),National Capital Region (NCR),muntinlupa city,national capital region (ncr)
+1380900000,137503000,City of Navotas,City,HUC,2nd,,247543,13,13809,National Capital Region (NCR),National Capital Region (NCR),navotas city,national capital region (ncr)
+1381000000,137604000,City of Parañaque,City,HUC,1st,,689992,13,13810,National Capital Region (NCR),National Capital Region (NCR),paranaque city,national capital region (ncr)
+1381100000,137605000,Pasay City,City,HUC,1st,,440656,13,13811,National Capital Region (NCR),National Capital Region (NCR),pasay city,national capital region (ncr)
+1381200000,137403000,City of Pasig,City,HUC,1st,,803159,13,13812,National Capital Region (NCR),National Capital Region (NCR),pasig city,national capital region (ncr)
+1381300000,137404000,Quezon City,City,HUC,Special,,2960048,13,13813,National Capital Region (NCR),National Capital Region (NCR),quezon city,national capital region (ncr)
+1381400000,137405000,City of San Juan,City,HUC,1st,,126347,13,13814,National Capital Region (NCR),National Capital Region (NCR),san juan city,national capital region (ncr)
+1381500000,137607000,City of Taguig,City,HUC,1st,,886722,13,13815,National Capital Region (NCR),National Capital Region (NCR),taguig city,national capital region (ncr)
+1381600000,137504000,City of Valenzuela,City,HUC,1st,,714978,13,13816,National Capital Region (NCR),National Capital Region (NCR),valenzuela city,national capital region (ncr)
+1381701000,137606000,Pateros,Mun,,1st,,65227,13,13817,National Capital Region (NCR),National Capital Region (NCR),pateros,national capital region (ncr)
+1400101000,140101000,Bangued ,Mun,,1st,,50382,14,14001,Cordillera Administrative Region (CAR),Abra,bangued,abra
+1400102000,140102000,Boliney,Mun,,5th,,4551,14,14001,Cordillera Administrative Region (CAR),Abra,boliney,abra
+1400103000,140103000,Bucay,Mun,,5th,,17953,14,14001,Cordillera Administrative Region (CAR),Abra,bucay,abra
+1400104000,140104000,Bucloc,Mun,,6th,,2395,14,14001,Cordillera Administrative Region (CAR),Abra,bucloc,abra
+1400105000,140105000,Daguioman,Mun,,5th,,2019,14,14001,Cordillera Administrative Region (CAR),Abra,daguioman,abra
+1400106000,140106000,Danglas,Mun,,5th,,4074,14,14001,Cordillera Administrative Region (CAR),Abra,danglas,abra
+1400107000,140107000,Dolores,Mun,,5th,,11512,14,14001,Cordillera Administrative Region (CAR),Abra,dolores,abra
+1400108000,140108000,La Paz,Mun,,5th,,16493,14,14001,Cordillera Administrative Region (CAR),Abra,la paz,abra
+1400109000,140109000,Lacub,Mun,,5th,,3612,14,14001,Cordillera Administrative Region (CAR),Abra,lacub,abra
+1400110000,140110000,Lagangilang,Mun,,5th,,14914,14,14001,Cordillera Administrative Region (CAR),Abra,lagangilang,abra
+1400111000,140111000,Lagayan,Mun,,5th,,4488,14,14001,Cordillera Administrative Region (CAR),Abra,lagayan,abra
+1400112000,140112000,Langiden,Mun,,5th,,3576,14,14001,Cordillera Administrative Region (CAR),Abra,langiden,abra
+1400113000,140113000,Licuan-Baay,Mun,,5th,Licuan,4566,14,14001,Cordillera Administrative Region (CAR),Abra,licuan baay,abra
+1400114000,140114000,Luba,Mun,,5th,,6518,14,14001,Cordillera Administrative Region (CAR),Abra,luba,abra
+1400115000,140115000,Malibcong,Mun,,5th,,4027,14,14001,Cordillera Administrative Region (CAR),Abra,malibcong,abra
+1400116000,140116000,Manabo,Mun,,5th,,11611,14,14001,Cordillera Administrative Region (CAR),Abra,manabo,abra
+1400117000,140117000,Peñarrubia,Mun,,6th,,6951,14,14001,Cordillera Administrative Region (CAR),Abra,penarrubia,abra
+1400118000,140118000,Pidigan,Mun,,5th,,12475,14,14001,Cordillera Administrative Region (CAR),Abra,pidigan,abra
+1400119000,140119000,Pilar,Mun,,5th,,10146,14,14001,Cordillera Administrative Region (CAR),Abra,pilar,abra
+1400120000,140120000,Sallapadan,Mun,,5th,,6389,14,14001,Cordillera Administrative Region (CAR),Abra,sallapadan,abra
+1400121000,140121000,San Isidro,Mun,,5th,,4745,14,14001,Cordillera Administrative Region (CAR),Abra,san isidro,abra
+1400122000,140122000,San Juan,Mun,,5th,,10688,14,14001,Cordillera Administrative Region (CAR),Abra,san juan,abra
+1400123000,140123000,San Quintin,Mun,,5th,,5705,14,14001,Cordillera Administrative Region (CAR),Abra,san quintin,abra
+1400124000,140124000,Tayum,Mun,,5th,,14869,14,14001,Cordillera Administrative Region (CAR),Abra,tayum,abra
+1400125000,140125000,Tineg,Mun,,2nd,,4977,14,14001,Cordillera Administrative Region (CAR),Abra,tineg,abra
+1400126000,140126000,Tubo,Mun,,4th,,5674,14,14001,Cordillera Administrative Region (CAR),Abra,tubo,abra
+1400127000,140127000,Villaviciosa,Mun,,5th,,5675,14,14001,Cordillera Administrative Region (CAR),Abra,villaviciosa,abra
+1401101000,141101000,Atok,Mun,,4th,,19218,14,14011,Cordillera Administrative Region (CAR),Benguet,atok,benguet
+1401103000,141103000,Bakun,Mun,,3rd,,14535,14,14011,Cordillera Administrative Region (CAR),Benguet,bakun,benguet
+1401104000,141104000,Bokod,Mun,,4th,,14435,14,14011,Cordillera Administrative Region (CAR),Benguet,bokod,benguet
+1401105000,141105000,Buguias,Mun,,3rd,,44877,14,14011,Cordillera Administrative Region (CAR),Benguet,buguias,benguet
+1401106000,141106000,Itogon,Mun,,1st,,61498,14,14011,Cordillera Administrative Region (CAR),Benguet,itogon,benguet
+1401107000,141107000,Kabayan,Mun,,4th,,15806,14,14011,Cordillera Administrative Region (CAR),Benguet,kabayan,benguet
+1401108000,141108000,Kapangan,Mun,,4th,,19297,14,14011,Cordillera Administrative Region (CAR),Benguet,kapangan,benguet
+1401109000,141109000,Kibungan,Mun,,4th,,17051,14,14011,Cordillera Administrative Region (CAR),Benguet,kibungan,benguet
+1401110000,141110000,La Trinidad ,Mun,,1st,,137404,14,14011,Cordillera Administrative Region (CAR),Benguet,la trinidad,benguet
+1401111000,141111000,Mankayan,Mun,,1st,,37233,14,14011,Cordillera Administrative Region (CAR),Benguet,mankayan,benguet
+1401112000,141112000,Sablan,Mun,,5th,,11588,14,14011,Cordillera Administrative Region (CAR),Benguet,sablan,benguet
+1401113000,141113000,Tuba,Mun,,1st,,48312,14,14011,Cordillera Administrative Region (CAR),Benguet,tuba,benguet
+1401114000,141114000,Tublay,Mun,,5th,,19429,14,14011,Cordillera Administrative Region (CAR),Benguet,tublay,benguet
+1402701000,142701000,Banaue,Mun,,4th,,20652,14,14027,Cordillera Administrative Region (CAR),Ifugao,banaue,ifugao
+1402702000,142702000,Hungduan,Mun,,4th,,8866,14,14027,Cordillera Administrative Region (CAR),Ifugao,hungduan,ifugao
+1402703000,142703000,Kiangan,Mun,,4th,,17691,14,14027,Cordillera Administrative Region (CAR),Ifugao,kiangan,ifugao
+1402704000,142704000,Lagawe ,Mun,,4th,,18876,14,14027,Cordillera Administrative Region (CAR),Ifugao,lagawe,ifugao
+1402705000,142705000,Lamut,Mun,,4th,,26235,14,14027,Cordillera Administrative Region (CAR),Ifugao,lamut,ifugao
+1402706000,142706000,Mayoyao,Mun,,4th,,15621,14,14027,Cordillera Administrative Region (CAR),Ifugao,mayoyao,ifugao
+1402707000,142707000,Alfonso Lista,Mun,,3rd,Potia,34061,14,14027,Cordillera Administrative Region (CAR),Ifugao,alfonso lista,ifugao
+1402708000,142708000,Aguinaldo,Mun,,2nd,,21128,14,14027,Cordillera Administrative Region (CAR),Ifugao,aguinaldo,ifugao
+1402709000,142709000,Hingyon,Mun,,5th,,9930,14,14027,Cordillera Administrative Region (CAR),Ifugao,hingyon,ifugao
+1402710000,142710000,Tinoc,Mun,,4th,,18475,14,14027,Cordillera Administrative Region (CAR),Ifugao,tinoc,ifugao
+1402711000,142711000,Asipulo,Mun,,5th,,15963,14,14027,Cordillera Administrative Region (CAR),Ifugao,asipulo,ifugao
+1403201000,143201000,Balbalan,Mun,,3rd,,12914,14,14032,Cordillera Administrative Region (CAR),Kalinga,balbalan,kalinga
+1403206000,143206000,Lubuagan,Mun,,4th,,9323,14,14032,Cordillera Administrative Region (CAR),Kalinga,lubuagan,kalinga
+1403208000,143208000,Pasil,Mun,,5th,,10577,14,14032,Cordillera Administrative Region (CAR),Kalinga,pasil,kalinga
+1403209000,143209000,Pinukpuk,Mun,,1st,,34275,14,14032,Cordillera Administrative Region (CAR),Kalinga,pinukpuk,kalinga
+1403211000,143211000,Rizal,Mun,,4th,Liwan,19554,14,14032,Cordillera Administrative Region (CAR),Kalinga,rizal,kalinga
+1403213000,143213000,City of Tabuk ,City,CC,5th,,121033,14,14032,Cordillera Administrative Region (CAR),Kalinga,tabuk city,kalinga
+1403214000,143214000,Tanudan,Mun,,4th,,8746,14,14032,Cordillera Administrative Region (CAR),Kalinga,tanudan,kalinga
+1403215000,143215000,Tinglayan,Mun,,4th,,13148,14,14032,Cordillera Administrative Region (CAR),Kalinga,tinglayan,kalinga
+1404401000,144401000,Barlig,Mun,,5th,,4796,14,14044,Cordillera Administrative Region (CAR),Mountain Province,barlig,mountain province
+1404402000,144402000,Bauko,Mun,,4th,,32021,14,14044,Cordillera Administrative Region (CAR),Mountain Province,bauko,mountain province
+1404403000,144403000,Besao,Mun,,5th,,6873,14,14044,Cordillera Administrative Region (CAR),Mountain Province,besao,mountain province
+1404404000,144404000,Bontoc ,Mun,,2nd,,24104,14,14044,Cordillera Administrative Region (CAR),Mountain Province,bontoc,mountain province
+1404405000,144405000,Natonin,Mun,,4th,,10339,14,14044,Cordillera Administrative Region (CAR),Mountain Province,natonin,mountain province
+1404406000,144406000,Paracelis,Mun,,2nd,,31168,14,14044,Cordillera Administrative Region (CAR),Mountain Province,paracelis,mountain province
+1404407000,144407000,Sabangan,Mun,,5th,,9621,14,14044,Cordillera Administrative Region (CAR),Mountain Province,sabangan,mountain province
+1404408000,144408000,Sadanga,Mun,,5th,,8427,14,14044,Cordillera Administrative Region (CAR),Mountain Province,sadanga,mountain province
+1404409000,144409000,Sagada,Mun,,5th,,11510,14,14044,Cordillera Administrative Region (CAR),Mountain Province,sagada,mountain province
+1404410000,144410000,Tadian,Mun,,4th,,19341,14,14044,Cordillera Administrative Region (CAR),Mountain Province,tadian,mountain province
+1408101000,148101000,Calanasan,Mun,,1st,Bayag,12550,14,14081,Cordillera Administrative Region (CAR),Apayao,calanasan,apayao
+1408102000,148102000,Conner,Mun,,2nd,,27552,14,14081,Cordillera Administrative Region (CAR),Apayao,conner,apayao
+1408103000,148103000,Flora,Mun,,3rd,,17944,14,14081,Cordillera Administrative Region (CAR),Apayao,flora,apayao
+1408104000,148104000,Kabugao ,Mun,,1st,,16215,14,14081,Cordillera Administrative Region (CAR),Apayao,kabugao,apayao
+1408105000,148105000,Luna,Mun,,2nd,,21297,14,14081,Cordillera Administrative Region (CAR),Apayao,luna,apayao
+1408106000,148106000,Pudtol,Mun,,4th,,15491,14,14081,Cordillera Administrative Region (CAR),Apayao,pudtol,apayao
+1408107000,148107000,Santa Marcela,Mun,,4th,,13317,14,14081,Cordillera Administrative Region (CAR),Apayao,santa marcela,apayao
+1430300000,141102000,City of Baguio,City,HUC,1st,,366358,14,14303,Cordillera Administrative Region (CAR),Cordillera Administrative Region (CAR),baguio city,cordillera administrative region (car)
+0102801000,012801000,Adams,Mun,,5th,,2189,01,01028,Region I (Ilocos Region),Ilocos Norte,adams,ilocos norte
+0102802000,012802000,Bacarra,Mun,,3rd,,33496,01,01028,Region I (Ilocos Region),Ilocos Norte,bacarra,ilocos norte
+0102803000,012803000,Badoc,Mun,,3rd,,32530,01,01028,Region I (Ilocos Region),Ilocos Norte,badoc,ilocos norte
+0102804000,012804000,Bangui,Mun,,4th,,15019,01,01028,Region I (Ilocos Region),Ilocos Norte,bangui,ilocos norte
+0102805000,012805000,City of Batac,City,CC,5th,,55484,01,01028,Region I (Ilocos Region),Ilocos Norte,batac city,ilocos norte
+0102806000,012806000,Burgos,Mun,,5th,,10759,01,01028,Region I (Ilocos Region),Ilocos Norte,burgos,ilocos norte
+0102807000,012807000,Carasi,Mun,,5th,,1607,01,01028,Region I (Ilocos Region),Ilocos Norte,carasi,ilocos norte
+0102808000,012808000,Currimao,Mun,,4th,,12215,01,01028,Region I (Ilocos Region),Ilocos Norte,currimao,ilocos norte
+0102809000,012809000,Dingras,Mun,,2nd,,40127,01,01028,Region I (Ilocos Region),Ilocos Norte,dingras,ilocos norte
+0102810000,012810000,Dumalneg,Mun,,5th,,3087,01,01028,Region I (Ilocos Region),Ilocos Norte,dumalneg,ilocos norte
+0102811000,012811000,Banna,Mun,,4th,Espiritu,19297,01,01028,Region I (Ilocos Region),Ilocos Norte,banna,ilocos norte
+0102812000,012812000,City of Laoag ,City,CC,3rd,,111651,01,01028,Region I (Ilocos Region),Ilocos Norte,laoag city,ilocos norte
+0102813000,012813000,Marcos,Mun,,4th,,18010,01,01028,Region I (Ilocos Region),Ilocos Norte,marcos,ilocos norte
+0102814000,012814000,Nueva Era,Mun,,3rd,,11968,01,01028,Region I (Ilocos Region),Ilocos Norte,nueva era,ilocos norte
+0102815000,012815000,Pagudpud,Mun,,4th,,25098,01,01028,Region I (Ilocos Region),Ilocos Norte,pagudpud,ilocos norte
+0102816000,012816000,Paoay,Mun,,4th,,25001,01,01028,Region I (Ilocos Region),Ilocos Norte,paoay,ilocos norte
+0102817000,012817000,Pasuquin,Mun,,3rd,,29678,01,01028,Region I (Ilocos Region),Ilocos Norte,pasuquin,ilocos norte
+0102818000,012818000,Piddig,Mun,,3rd,,22475,01,01028,Region I (Ilocos Region),Ilocos Norte,piddig,ilocos norte
+0102819000,012819000,Pinili,Mun,,3rd,,17626,01,01028,Region I (Ilocos Region),Ilocos Norte,pinili,ilocos norte
+0102820000,012820000,San Nicolas,Mun,,2nd,,38895,01,01028,Region I (Ilocos Region),Ilocos Norte,san nicolas,ilocos norte
+0102821000,012821000,Sarrat,Mun,,4th,,25186,01,01028,Region I (Ilocos Region),Ilocos Norte,sarrat,ilocos norte
+0102822000,012822000,Solsona,Mun,,3rd,,24851,01,01028,Region I (Ilocos Region),Ilocos Norte,solsona,ilocos norte
+0102823000,012823000,Vintar,Mun,,1st,,33339,01,01028,Region I (Ilocos Region),Ilocos Norte,vintar,ilocos norte
+0102901000,012901000,Alilem,Mun,,4th,,7361,01,01029,Region I (Ilocos Region),Ilocos Sur,alilem,ilocos sur
+0102902000,012902000,Banayoyo,Mun,,4th,,7931,01,01029,Region I (Ilocos Region),Ilocos Sur,banayoyo,ilocos sur
+0102903000,012903000,Bantay,Mun,,3rd,,37118,01,01029,Region I (Ilocos Region),Ilocos Sur,bantay,ilocos sur
+0102904000,012904000,Burgos,Mun,,4th,,12793,01,01029,Region I (Ilocos Region),Ilocos Sur,burgos,ilocos sur
+0102905000,012905000,Cabugao,Mun,,1st,,38884,01,01029,Region I (Ilocos Region),Ilocos Sur,cabugao,ilocos sur
+0102906000,012906000,City of Candon,City,CC,4th,,61432,01,01029,Region I (Ilocos Region),Ilocos Sur,candon city,ilocos sur
+0102907000,012907000,Caoayan,Mun,,4th,,19574,01,01029,Region I (Ilocos Region),Ilocos Sur,caoayan,ilocos sur
+0102908000,012908000,Cervantes,Mun,,4th,,19449,01,01029,Region I (Ilocos Region),Ilocos Sur,cervantes,ilocos sur
+0102909000,012909000,Galimuyod,Mun,,4th,,10244,01,01029,Region I (Ilocos Region),Ilocos Sur,galimuyod,ilocos sur
+0102910000,012910000,Gregorio del Pilar,Mun,,5th,Concepcion,4472,01,01029,Region I (Ilocos Region),Ilocos Sur,gregorio del pilar,ilocos sur
+0102911000,012911000,Lidlidda,Mun,,5th,,4705,01,01029,Region I (Ilocos Region),Ilocos Sur,lidlidda,ilocos sur
+0102912000,012912000,Magsingal,Mun,,3rd,,31308,01,01029,Region I (Ilocos Region),Ilocos Sur,magsingal,ilocos sur
+0102913000,012913000,Nagbukel,Mun,,5th,,5465,01,01029,Region I (Ilocos Region),Ilocos Sur,nagbukel,ilocos sur
+0102914000,012914000,Narvacan,Mun,,2nd,,46234,01,01029,Region I (Ilocos Region),Ilocos Sur,narvacan,ilocos sur
+0102915000,012915000,Quirino,Mun,,4th,Angkaki,9306,01,01029,Region I (Ilocos Region),Ilocos Sur,quirino,ilocos sur
+0102916000,012916000,Salcedo,Mun,,4th,Baugen,11110,01,01029,Region I (Ilocos Region),Ilocos Sur,salcedo,ilocos sur
+0102917000,012917000,San Emilio,Mun,,4th,,7206,01,01029,Region I (Ilocos Region),Ilocos Sur,san emilio,ilocos sur
+0102918000,012918000,San Esteban,Mun,,5th,,8381,01,01029,Region I (Ilocos Region),Ilocos Sur,san esteban,ilocos sur
+0102919000,012919000,San Ildefonso,Mun,,5th,,8190,01,01029,Region I (Ilocos Region),Ilocos Sur,san ildefonso,ilocos sur
+0102920000,012920000,San Juan,Mun,,3rd,Lapog,26674,01,01029,Region I (Ilocos Region),Ilocos Sur,san juan,ilocos sur
+0102921000,012921000,San Vicente,Mun,,5th,,13118,01,01029,Region I (Ilocos Region),Ilocos Sur,san vicente,ilocos sur
+0102922000,012922000,Santa,Mun,,4th,,14992,01,01029,Region I (Ilocos Region),Ilocos Sur,santa,ilocos sur
+0102923000,012923000,Santa Catalina,Mun,,5th,,14493,01,01029,Region I (Ilocos Region),Ilocos Sur,santa catalina,ilocos sur
+0102924000,012924000,Santa Cruz,Mun,,1st,,41366,01,01029,Region I (Ilocos Region),Ilocos Sur,santa cruz,ilocos sur
+0102925000,012925000,Santa Lucia,Mun,,3rd,,25966,01,01029,Region I (Ilocos Region),Ilocos Sur,santa lucia,ilocos sur
+0102926000,012926000,Santa Maria,Mun,,3rd,,30006,01,01029,Region I (Ilocos Region),Ilocos Sur,santa maria,ilocos sur
+0102927000,012927000,Santiago,Mun,,4th,,19471,01,01029,Region I (Ilocos Region),Ilocos Sur,santiago,ilocos sur
+0102928000,012928000,Santo Domingo,Mun,,3rd,,29041,01,01029,Region I (Ilocos Region),Ilocos Sur,santo domingo,ilocos sur
+0102929000,012929000,Sigay,Mun,,5th,,2552,01,01029,Region I (Ilocos Region),Ilocos Sur,sigay,ilocos sur
+0102930000,012930000,Sinait,Mun,,3rd,,25998,01,01029,Region I (Ilocos Region),Ilocos Sur,sinait,ilocos sur
+0102931000,012931000,Sugpon,Mun,,5th,,4930,01,01029,Region I (Ilocos Region),Ilocos Sur,sugpon,ilocos sur
+0102932000,012932000,Suyo,Mun,,4th,,10766,01,01029,Region I (Ilocos Region),Ilocos Sur,suyo,ilocos sur
+0102933000,012933000,Tagudin,Mun,,2nd,,41538,01,01029,Region I (Ilocos Region),Ilocos Sur,tagudin,ilocos sur
+0102934000,012934000,City of Vigan ,City,CC,4th,,53935,01,01029,Region I (Ilocos Region),Ilocos Sur,vigan city,ilocos sur
+0103301000,013301000,Agoo,Mun,,1st,,66028,01,01033,Region I (Ilocos Region),La Union,agoo,la union
+0103302000,013302000,Aringay,Mun,,2nd,,50380,01,01033,Region I (Ilocos Region),La Union,aringay,la union
+0103303000,013303000,Bacnotan,Mun,,1st,,44388,01,01033,Region I (Ilocos Region),La Union,bacnotan,la union
+0103304000,013304000,Bagulin,Mun,,5th,,14428,01,01033,Region I (Ilocos Region),La Union,bagulin,la union
+0103305000,013305000,Balaoan,Mun,,1st,,40339,01,01033,Region I (Ilocos Region),La Union,balaoan,la union
+0103306000,013306000,Bangar,Mun,,3rd,,38041,01,01033,Region I (Ilocos Region),La Union,bangar,la union
+0103307000,013307000,Bauang,Mun,,1st,,78449,01,01033,Region I (Ilocos Region),La Union,bauang,la union
+0103308000,013308000,Burgos,Mun,,5th,,9006,01,01033,Region I (Ilocos Region),La Union,burgos,la union
+0103309000,013309000,Caba,Mun,,4th,,23119,01,01033,Region I (Ilocos Region),La Union,caba,la union
+0103310000,013310000,Luna,Mun,,3rd,,37318,01,01033,Region I (Ilocos Region),La Union,luna,la union
+0103311000,013311000,Naguilian,Mun,,1st,,52189,01,01033,Region I (Ilocos Region),La Union,naguilian,la union
+0103312000,013312000,Pugo,Mun,,5th,,19337,01,01033,Region I (Ilocos Region),La Union,pugo,la union
+0103313000,013313000,Rosario,Mun,,1st,,60278,01,01033,Region I (Ilocos Region),La Union,rosario,la union
+0103314000,013314000,City of San Fernando ,City,CC,3rd,,125640,01,01033,Region I (Ilocos Region),La Union,san fernando city,la union
+0103315000,013315000,San Gabriel,Mun,,4th,,18943,01,01033,Region I (Ilocos Region),La Union,san gabriel,la union
+0103316000,013316000,San Juan,Mun,,2nd,,40507,01,01033,Region I (Ilocos Region),La Union,san juan,la union
+0103317000,013317000,Santo Tomas,Mun,,4th,,40846,01,01033,Region I (Ilocos Region),La Union,santo tomas,la union
+0103318000,013318000,Santol,Mun,,4th,,14166,01,01033,Region I (Ilocos Region),La Union,santol,la union
+0103319000,013319000,Sudipen,Mun,,4th,,17187,01,01033,Region I (Ilocos Region),La Union,sudipen,la union
+0103320000,013320000,Tubao,Mun,,4th,,31763,01,01033,Region I (Ilocos Region),La Union,tubao,la union
+0105501000,015501000,Agno,Mun,,3rd,,29947,01,01055,Region I (Ilocos Region),Pangasinan,agno,pangasinan
+0105502000,015502000,Aguilar,Mun,,3rd,,45100,01,01055,Region I (Ilocos Region),Pangasinan,aguilar,pangasinan
+0105503000,015503000,City of Alaminos,City,CC,4th,,99397,01,01055,Region I (Ilocos Region),Pangasinan,alaminos city,pangasinan
+0105504000,015504000,Alcala,Mun,,3rd,,48908,01,01055,Region I (Ilocos Region),Pangasinan,alcala,pangasinan
+0105505000,015505000,Anda,Mun,,3rd,,41548,01,01055,Region I (Ilocos Region),Pangasinan,anda,pangasinan
+0105506000,015506000,Asingan,Mun,,2nd,,57811,01,01055,Region I (Ilocos Region),Pangasinan,asingan,pangasinan
+0105507000,015507000,Balungao,Mun,,4th,,30004,01,01055,Region I (Ilocos Region),Pangasinan,balungao,pangasinan
+0105508000,015508000,Bani,Mun,,2nd,,52603,01,01055,Region I (Ilocos Region),Pangasinan,bani,pangasinan
+0105509000,015509000,Basista,Mun,,4th,,37679,01,01055,Region I (Ilocos Region),Pangasinan,basista,pangasinan
+0105510000,015510000,Bautista,Mun,,4th,,35398,01,01055,Region I (Ilocos Region),Pangasinan,bautista,pangasinan
+0105511000,015511000,Bayambang,Mun,,1st,,129011,01,01055,Region I (Ilocos Region),Pangasinan,bayambang,pangasinan
+0105512000,015512000,Binalonan,Mun,,1st,,56382,01,01055,Region I (Ilocos Region),Pangasinan,binalonan,pangasinan
+0105513000,015513000,Binmaley,Mun,,1st,,86881,01,01055,Region I (Ilocos Region),Pangasinan,binmaley,pangasinan
+0105514000,015514000,Bolinao,Mun,,1st,,83979,01,01055,Region I (Ilocos Region),Pangasinan,bolinao,pangasinan
+0105515000,015515000,Bugallon,Mun,,2nd,,74962,01,01055,Region I (Ilocos Region),Pangasinan,bugallon,pangasinan
+0105516000,015516000,Burgos,Mun,,4th,,23749,01,01055,Region I (Ilocos Region),Pangasinan,burgos,pangasinan
+0105517000,015517000,Calasiao,Mun,,1st,,100471,01,01055,Region I (Ilocos Region),Pangasinan,calasiao,pangasinan
+0105518000,015518000,City of Dagupan,City,ICC,2nd,,174302,01,01055,Region I (Ilocos Region),Pangasinan,dagupan city,pangasinan
+0105519000,015519000,Dasol,Mun,,3rd,,31355,01,01055,Region I (Ilocos Region),Pangasinan,dasol,pangasinan
+0105520000,015520000,Infanta,Mun,,3rd,,26242,01,01055,Region I (Ilocos Region),Pangasinan,infanta,pangasinan
+0105521000,015521000,Labrador,Mun,,4th,,26811,01,01055,Region I (Ilocos Region),Pangasinan,labrador,pangasinan
+0105522000,015522000,Lingayen ,Mun,,1st,,107728,01,01055,Region I (Ilocos Region),Pangasinan,lingayen,pangasinan
+0105523000,015523000,Mabini,Mun,,3rd,,26454,01,01055,Region I (Ilocos Region),Pangasinan,mabini,pangasinan
+0105524000,015524000,Malasiqui,Mun,,1st,,143094,01,01055,Region I (Ilocos Region),Pangasinan,malasiqui,pangasinan
+0105525000,015525000,Manaoag,Mun,,1st,,76045,01,01055,Region I (Ilocos Region),Pangasinan,manaoag,pangasinan
+0105526000,015526000,Mangaldan,Mun,,1st,,113185,01,01055,Region I (Ilocos Region),Pangasinan,mangaldan,pangasinan
+0105527000,015527000,Mangatarem,Mun,,1st,,79323,01,01055,Region I (Ilocos Region),Pangasinan,mangatarem,pangasinan
+0105528000,015528000,Mapandan,Mun,,3rd,,38058,01,01055,Region I (Ilocos Region),Pangasinan,mapandan,pangasinan
+0105529000,015529000,Natividad,Mun,,4th,,25771,01,01055,Region I (Ilocos Region),Pangasinan,natividad,pangasinan
+0105530000,015530000,Pozorrubio,Mun,,1st,,74729,01,01055,Region I (Ilocos Region),Pangasinan,pozorrubio,pangasinan
+0105531000,015531000,Rosales,Mun,,1st,,66711,01,01055,Region I (Ilocos Region),Pangasinan,rosales,pangasinan
+0105532000,015532000,City of San Carlos,City,CC,3rd,,205424,01,01055,Region I (Ilocos Region),Pangasinan,san carlos city,pangasinan
+0105533000,015533000,San Fabian,Mun,,1st,,87428,01,01055,Region I (Ilocos Region),Pangasinan,san fabian,pangasinan
+0105534000,015534000,San Jacinto,Mun,,3rd,,44351,01,01055,Region I (Ilocos Region),Pangasinan,san jacinto,pangasinan
+0105535000,015535000,San Manuel,Mun,,1st,,54271,01,01055,Region I (Ilocos Region),Pangasinan,san manuel,pangasinan
+0105536000,015536000,San Nicolas,Mun,,1st,,39778,01,01055,Region I (Ilocos Region),Pangasinan,san nicolas,pangasinan
+0105537000,015537000,San Quintin,Mun,,3rd,,33980,01,01055,Region I (Ilocos Region),Pangasinan,san quintin,pangasinan
+0105538000,015538000,Santa Barbara,Mun,,1st,,92187,01,01055,Region I (Ilocos Region),Pangasinan,santa barbara,pangasinan
+0105539000,015539000,Santa Maria,Mun,,4th,,34220,01,01055,Region I (Ilocos Region),Pangasinan,santa maria,pangasinan
+0105540000,015540000,Santo Tomas,Mun,,5th,,14878,01,01055,Region I (Ilocos Region),Pangasinan,santo tomas,pangasinan
+0105541000,015541000,Sison,Mun,,3rd,,52320,01,01055,Region I (Ilocos Region),Pangasinan,sison,pangasinan
+0105542000,015542000,Sual,Mun,,1st,,39091,01,01055,Region I (Ilocos Region),Pangasinan,sual,pangasinan
+0105543000,015543000,Tayug,Mun,,3rd,,45241,01,01055,Region I (Ilocos Region),Pangasinan,tayug,pangasinan
+0105544000,015544000,Umingan,Mun,,1st,,77074,01,01055,Region I (Ilocos Region),Pangasinan,umingan,pangasinan
+0105545000,015545000,Urbiztondo,Mun,,3rd,,55557,01,01055,Region I (Ilocos Region),Pangasinan,urbiztondo,pangasinan
+0105546000,015546000,City of Urdaneta,City,CC,2nd,,144577,01,01055,Region I (Ilocos Region),Pangasinan,urdaneta city,pangasinan
+0105547000,015547000,Villasis,Mun,,1st,,65047,01,01055,Region I (Ilocos Region),Pangasinan,villasis,pangasinan
+0105548000,015548000,Laoac,Mun,,4th,,34128,01,01055,Region I (Ilocos Region),Pangasinan,laoac,pangasinan
+0200901000,020901000,Basco ,Mun,,5th,,9517,02,02009,Region II (Cagayan Valley),Batanes,basco,batanes
+0200902000,020902000,Itbayat,Mun,,5th,,3128,02,02009,Region II (Cagayan Valley),Batanes,itbayat,batanes
+0200903000,020903000,Ivana,Mun,,6th,,1407,02,02009,Region II (Cagayan Valley),Batanes,ivana,batanes
+0200904000,020904000,Mahatao,Mun,,6th,,1703,02,02009,Region II (Cagayan Valley),Batanes,mahatao,batanes
+0200905000,020905000,Sabtang,Mun,,6th,,1696,02,02009,Region II (Cagayan Valley),Batanes,sabtang,batanes
+0200906000,020906000,Uyugan,Mun,,6th,,1380,02,02009,Region II (Cagayan Valley),Batanes,uyugan,batanes
+0201501000,021501000,Abulug,Mun,,3rd,,34579,02,02015,Region II (Cagayan Valley),Cagayan,abulug,cagayan
+0201502000,021502000,Alcala,Mun,,3rd,,41295,02,02015,Region II (Cagayan Valley),Cagayan,alcala,cagayan
+0201503000,021503000,Allacapan,Mun,,3rd,,35234,02,02015,Region II (Cagayan Valley),Cagayan,allacapan,cagayan
+0201504000,021504000,Amulung,Mun,,2nd,,50336,02,02015,Region II (Cagayan Valley),Cagayan,amulung,cagayan
+0201505000,021505000,Aparri,Mun,,1st,,68839,02,02015,Region II (Cagayan Valley),Cagayan,aparri,cagayan
+0201506000,021506000,Baggao,Mun,,1st,,87753,02,02015,Region II (Cagayan Valley),Cagayan,baggao,cagayan
+0201507000,021507000,Ballesteros,Mun,,4th,,34488,02,02015,Region II (Cagayan Valley),Cagayan,ballesteros,cagayan
+0201508000,021508000,Buguey,Mun,,3rd,,32148,02,02015,Region II (Cagayan Valley),Cagayan,buguey,cagayan
+0201509000,021509000,Calayan,Mun,,3rd,,17410,02,02015,Region II (Cagayan Valley),Cagayan,calayan,cagayan
+0201510000,021510000,Camalaniugan,Mun,,4th,,25236,02,02015,Region II (Cagayan Valley),Cagayan,camalaniugan,cagayan
+0201511000,021511000,Claveria,Mun,,3rd,,31900,02,02015,Region II (Cagayan Valley),Cagayan,claveria,cagayan
+0201512000,021512000,Enrile,Mun,,3rd,,36705,02,02015,Region II (Cagayan Valley),Cagayan,enrile,cagayan
+0201513000,021513000,Gattaran,Mun,,1st,,58874,02,02015,Region II (Cagayan Valley),Cagayan,gattaran,cagayan
+0201514000,021514000,Gonzaga,Mun,,1st,,41680,02,02015,Region II (Cagayan Valley),Cagayan,gonzaga,cagayan
+0201515000,021515000,Iguig,Mun,,4th,,30060,02,02015,Region II (Cagayan Valley),Cagayan,iguig,cagayan
+0201516000,021516000,Lal-Lo,Mun,,1st,,48733,02,02015,Region II (Cagayan Valley),Cagayan,lal lo,cagayan
+0201517000,021517000,Lasam,Mun,,3rd,,41225,02,02015,Region II (Cagayan Valley),Cagayan,lasam,cagayan
+0201518000,021518000,Pamplona,Mun,,4th,,24781,02,02015,Region II (Cagayan Valley),Cagayan,pamplona,cagayan
+0201519000,021519000,Peñablanca,Mun,,1st,,50300,02,02015,Region II (Cagayan Valley),Cagayan,penablanca,cagayan
+0201520000,021520000,Piat,Mun,,4th,,24805,02,02015,Region II (Cagayan Valley),Cagayan,piat,cagayan
+0201521000,021521000,Rizal,Mun,,5th,,19077,02,02015,Region II (Cagayan Valley),Cagayan,rizal,cagayan
+0201522000,021522000,Sanchez-Mira,Mun,,3rd,,26164,02,02015,Region II (Cagayan Valley),Cagayan,sanchez mira,cagayan
+0201523000,021523000,Santa Ana,Mun,,2nd,,35688,02,02015,Region II (Cagayan Valley),Cagayan,santa ana,cagayan
+0201524000,021524000,Santa Praxedes,Mun,,5th,,4434,02,02015,Region II (Cagayan Valley),Cagayan,santa praxedes,cagayan
+0201525000,021525000,Santa Teresita,Mun,,4th,,19573,02,02015,Region II (Cagayan Valley),Cagayan,santa teresita,cagayan
+0201526000,021526000,Santo Niño,Mun,,2nd,Faire,28537,02,02015,Region II (Cagayan Valley),Cagayan,santo nino,cagayan
+0201527000,021527000,Solana,Mun,,1st,,88445,02,02015,Region II (Cagayan Valley),Cagayan,solana,cagayan
+0201528000,021528000,Tuao,Mun,,1st,,63970,02,02015,Region II (Cagayan Valley),Cagayan,tuao,cagayan
+0201529000,021529000,Tuguegarao City ,City,CC,3rd,,166334,02,02015,Region II (Cagayan Valley),Cagayan,tuguegarao city,cagayan
+0203101000,023101000,Alicia,Mun,,1st,,73874,02,02031,Region II (Cagayan Valley),Isabela,alicia,isabela
+0203102000,023102000,Angadanan,Mun,,3rd,,44977,02,02031,Region II (Cagayan Valley),Isabela,angadanan,isabela
+0203103000,023103000,Aurora,Mun,,3rd,,36621,02,02031,Region II (Cagayan Valley),Isabela,aurora,isabela
+0203104000,023104000,Benito Soliven,Mun,,4th,,29752,02,02031,Region II (Cagayan Valley),Isabela,benito soliven,isabela
+0203105000,023105000,Burgos,Mun,,4th,,26040,02,02031,Region II (Cagayan Valley),Isabela,burgos,isabela
+0203106000,023106000,Cabagan,Mun,,1st,,53897,02,02031,Region II (Cagayan Valley),Isabela,cabagan,isabela
+0203107000,023107000,Cabatuan,Mun,,3rd,,39990,02,02031,Region II (Cagayan Valley),Isabela,cabatuan,isabela
+0203108000,023108000,City of Cauayan,City,CC,3rd,,143403,02,02031,Region II (Cagayan Valley),Isabela,cauayan city,isabela
+0203109000,023109000,Cordon,Mun,,3rd,,46477,02,02031,Region II (Cagayan Valley),Isabela,cordon,isabela
+0203110000,023110000,Dinapigue,Mun,,1st,,5821,02,02031,Region II (Cagayan Valley),Isabela,dinapigue,isabela
+0203111000,023111000,Divilacan,Mun,,2nd,,5827,02,02031,Region II (Cagayan Valley),Isabela,divilacan,isabela
+0203112000,023112000,Echague,Mun,,1st,,88410,02,02031,Region II (Cagayan Valley),Isabela,echague,isabela
+0203113000,023113000,Gamu,Mun,,4th,,30655,02,02031,Region II (Cagayan Valley),Isabela,gamu,isabela
+0203114000,023114000,City of Ilagan ,City,CC,1st (as Mun),,158218,02,02031,Region II (Cagayan Valley),Isabela,ilagan city,isabela
+0203115000,023115000,Jones,Mun,,1st,,45628,02,02031,Region II (Cagayan Valley),Isabela,jones,isabela
+0203116000,023116000,Luna,Mun,,5th,,20697,02,02031,Region II (Cagayan Valley),Isabela,luna,isabela
+0203117000,023117000,Maconacon,Mun,,3rd,,3977,02,02031,Region II (Cagayan Valley),Isabela,maconacon,isabela
+0203118000,023118000,Delfin Albano,Mun,,4th,Magsaysay,29928,02,02031,Region II (Cagayan Valley),Isabela,delfin albano,isabela
+0203119000,023119000,Mallig,Mun,,4th,,32208,02,02031,Region II (Cagayan Valley),Isabela,mallig,isabela
+0203120000,023120000,Naguilian,Mun,,4th,,33788,02,02031,Region II (Cagayan Valley),Isabela,naguilian,isabela
+0203121000,023121000,Palanan,Mun,,1st,,17684,02,02031,Region II (Cagayan Valley),Isabela,palanan,isabela
+0203122000,023122000,Quezon,Mun,,4th,,27037,02,02031,Region II (Cagayan Valley),Isabela,quezon,isabela
+0203123000,023123000,Quirino,Mun,,4th,,25023,02,02031,Region II (Cagayan Valley),Isabela,quirino,isabela
+0203124000,023124000,Ramon,Mun,,2nd,,56523,02,02031,Region II (Cagayan Valley),Isabela,ramon,isabela
+0203125000,023125000,Reina Mercedes,Mun,,4th,,27900,02,02031,Region II (Cagayan Valley),Isabela,reina mercedes,isabela
+0203126000,023126000,Roxas,Mun,,1st,,65839,02,02031,Region II (Cagayan Valley),Isabela,roxas,isabela
+0203127000,023127000,San Agustin,Mun,,3rd,,22096,02,02031,Region II (Cagayan Valley),Isabela,san agustin,isabela
+0203128000,023128000,San Guillermo,Mun,,4th,,20915,02,02031,Region II (Cagayan Valley),Isabela,san guillermo,isabela
+0203129000,023129000,San Isidro,Mun,,5th,,27044,02,02031,Region II (Cagayan Valley),Isabela,san isidro,isabela
+0203130000,023130000,San Manuel,Mun,,4th,,34085,02,02031,Region II (Cagayan Valley),Isabela,san manuel,isabela
+0203131000,023131000,San Mariano,Mun,,1st,,60124,02,02031,Region II (Cagayan Valley),Isabela,san mariano,isabela
+0203132000,023132000,San Mateo,Mun,,1st,,66663,02,02031,Region II (Cagayan Valley),Isabela,san mateo,isabela
+0203133000,023133000,San Pablo,Mun,,2nd,,26320,02,02031,Region II (Cagayan Valley),Isabela,san pablo,isabela
+0203134000,023134000,Santa Maria,Mun,,4th,,25758,02,02031,Region II (Cagayan Valley),Isabela,santa maria,isabela
+0203135000,023135000,City of Santiago,City,ICC,1st,,148580,02,02031,Region II (Cagayan Valley),Isabela,santiago city,isabela
+0203136000,023136000,Santo Tomas,Mun,,4th,,24528,02,02031,Region II (Cagayan Valley),Isabela,santo tomas,isabela
+0203137000,023137000,Tumauini,Mun,,1st,,70743,02,02031,Region II (Cagayan Valley),Isabela,tumauini,isabela
+0205001000,025001000,Ambaguio,Mun,,5th,,15472,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,ambaguio,nueva vizcaya
+0205002000,025002000,Aritao,Mun,,2nd,,42197,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,aritao,nueva vizcaya
+0205003000,025003000,Bagabag,Mun,,2nd,,37985,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,bagabag,nueva vizcaya
+0205004000,025004000,Bambang,Mun,,1st,,55789,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,bambang,nueva vizcaya
+0205005000,025005000,Bayombong ,Mun,,1st,,67714,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,bayombong,nueva vizcaya
+0205006000,025006000,Diadi,Mun,,4th,,19236,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,diadi,nueva vizcaya
+0205007000,025007000,Dupax del Norte,Mun,,3rd,,33295,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,dupax del norte,nueva vizcaya
+0205008000,025008000,Dupax del Sur,Mun,,2nd,,21224,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,dupax del sur,nueva vizcaya
+0205009000,025009000,Kasibu,Mun,,3rd,,41776,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,kasibu,nueva vizcaya
+0205010000,025010000,Kayapa,Mun,,3rd,,26469,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,kayapa,nueva vizcaya
+0205011000,025011000,Quezon,Mun,,4th,,24055,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,quezon,nueva vizcaya
+0205012000,025012000,Santa Fe,Mun,,3rd,,18276,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,santa fe,nueva vizcaya
+0205013000,025013000,Solano,Mun,,1st,,65287,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,solano,nueva vizcaya
+0205014000,025014000,Villaverde,Mun,,5th,,20118,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,villaverde,nueva vizcaya
+0205015000,025015000,Alfonso Castaneda,Mun,,1st,,8539,02,02050,Region II (Cagayan Valley),Nueva Vizcaya,alfonso castaneda,nueva vizcaya
+0205701000,025701000,Aglipay,Mun,,3rd,,30714,02,02057,Region II (Cagayan Valley),Quirino,aglipay,quirino
+0205702000,025702000,Cabarroguis ,Mun,,3rd,,33533,02,02057,Region II (Cagayan Valley),Quirino,cabarroguis,quirino
+0205703000,025703000,Diffun,Mun,,2nd,,56102,02,02057,Region II (Cagayan Valley),Quirino,diffun,quirino
+0205704000,025704000,Maddela,Mun,,1st,,40943,02,02057,Region II (Cagayan Valley),Quirino,maddela,quirino
+0205705000,025705000,Saguday,Mun,,5th,,17137,02,02057,Region II (Cagayan Valley),Quirino,saguday,quirino
+0205706000,025706000,Nagtipunan,Mun,,1st,,25399,02,02057,Region II (Cagayan Valley),Quirino,nagtipunan,quirino
+0300801000,030801000,Abucay,Mun,,3rd,,42984,03,03008,Region III (Central Luzon),Bataan,abucay,bataan
+0300802000,030802000,Bagac,Mun,,3rd,,31365,03,03008,Region III (Central Luzon),Bataan,bagac,bataan
+0300803000,030803000,City of Balanga ,City,CC,4th,,104173,03,03008,Region III (Central Luzon),Bataan,balanga city,bataan
+0300804000,030804000,Dinalupihan,Mun,,1st,,118209,03,03008,Region III (Central Luzon),Bataan,dinalupihan,bataan
+0300805000,030805000,Hermosa,Mun,,1st,,77443,03,03008,Region III (Central Luzon),Bataan,hermosa,bataan
+0300806000,030806000,Limay,Mun,,1st,,78272,03,03008,Region III (Central Luzon),Bataan,limay,bataan
+0300807000,030807000,Mariveles,Mun,,1st,,149879,03,03008,Region III (Central Luzon),Bataan,mariveles,bataan
+0300808000,030808000,Morong,Mun,,3rd,,35394,03,03008,Region III (Central Luzon),Bataan,morong,bataan
+0300809000,030809000,Orani,Mun,,3rd,,70342,03,03008,Region III (Central Luzon),Bataan,orani,bataan
+0300810000,030810000,Orion,Mun,,2nd,,60771,03,03008,Region III (Central Luzon),Bataan,orion,bataan
+0300811000,030811000,Pilar,Mun,,3rd,,46239,03,03008,Region III (Central Luzon),Bataan,pilar,bataan
+0300812000,030812000,Samal,Mun,,4th,,38302,03,03008,Region III (Central Luzon),Bataan,samal,bataan
+0301401000,031401000,Angat,Mun,,1st,,65617,03,03014,Region III (Central Luzon),Bulacan,angat,bulacan
+0301402000,031402000,Balagtas,Mun,,1st,Bigaa,77018,03,03014,Region III (Central Luzon),Bulacan,balagtas,bulacan
+0301403000,031403000,City of Baliwag,City,CC,1st (as Mun),,168470,03,03014,Region III (Central Luzon),Bulacan,baliwag city,bulacan
+0301404000,031404000,Bocaue,Mun,,1st,,141412,03,03014,Region III (Central Luzon),Bulacan,bocaue,bulacan
+0301405000,031405000,Bulacan,Mun,,1st,,81232,03,03014,Region III (Central Luzon),Bulacan,bulacan,bulacan
+0301406000,031406000,Bustos,Mun,,2nd,,77199,03,03014,Region III (Central Luzon),Bulacan,bustos,bulacan
+0301407000,031407000,Calumpit,Mun,,1st,,118471,03,03014,Region III (Central Luzon),Bulacan,calumpit,bulacan
+0301408000,031408000,Guiguinto,Mun,,1st,,113415,03,03014,Region III (Central Luzon),Bulacan,guiguinto,bulacan
+0301409000,031409000,Hagonoy,Mun,,1st,,133448,03,03014,Region III (Central Luzon),Bulacan,hagonoy,bulacan
+0301410000,031410000,City of Malolos ,City,CC,3rd,,261189,03,03014,Region III (Central Luzon),Bulacan,malolos city,bulacan
+0301411000,031411000,Marilao,Mun,,1st,,254453,03,03014,Region III (Central Luzon),Bulacan,marilao,bulacan
+0301412000,031412000,City of Meycauayan,City,CC,3rd,,225673,03,03014,Region III (Central Luzon),Bulacan,meycauayan city,bulacan
+0301413000,031413000,Norzagaray,Mun,,1st,,136064,03,03014,Region III (Central Luzon),Bulacan,norzagaray,bulacan
+0301414000,031414000,Obando,Mun,,2nd,,59978,03,03014,Region III (Central Luzon),Bulacan,obando,bulacan
+0301415000,031415000,Pandi,Mun,,2nd,,155115,03,03014,Region III (Central Luzon),Bulacan,pandi,bulacan
+0301416000,031416000,Paombong,Mun,,3rd,,55696,03,03014,Region III (Central Luzon),Bulacan,paombong,bulacan
+0301417000,031417000,Plaridel,Mun,,1st,,114432,03,03014,Region III (Central Luzon),Bulacan,plaridel,bulacan
+0301418000,031418000,Pulilan,Mun,,1st,,108836,03,03014,Region III (Central Luzon),Bulacan,pulilan,bulacan
+0301419000,031419000,San Ildefonso,Mun,,1st,,115713,03,03014,Region III (Central Luzon),Bulacan,san ildefonso,bulacan
+0301420000,031420000,City of San Jose Del Monte,City,CC,1st,,651813,03,03014,Region III (Central Luzon),Bulacan,san jose del monte city,bulacan
+0301421000,031421000,San Miguel,Mun,,1st,,172073,03,03014,Region III (Central Luzon),Bulacan,san miguel,bulacan
+0301422000,031422000,San Rafael,Mun,,1st,,103097,03,03014,Region III (Central Luzon),Bulacan,san rafael,bulacan
+0301423000,031423000,Santa Maria,Mun,,1st,,289820,03,03014,Region III (Central Luzon),Bulacan,santa maria,bulacan
+0301424000,031424000,Doña Remedios Trinidad,Mun,,1st,,28656,03,03014,Region III (Central Luzon),Bulacan,dona remedios trinidad,bulacan
+0304901000,034901000,Aliaga,Mun,,2nd,,70363,03,03049,Region III (Central Luzon),Nueva Ecija,aliaga,nueva ecija
+0304902000,034902000,Bongabon,Mun,,2nd,,66839,03,03049,Region III (Central Luzon),Nueva Ecija,bongabon,nueva ecija
+0304903000,034903000,City of Cabanatuan,City,CC,1st,,327325,03,03049,Region III (Central Luzon),Nueva Ecija,cabanatuan city,nueva ecija
+0304904000,034904000,Cabiao,Mun,,1st,,85862,03,03049,Region III (Central Luzon),Nueva Ecija,cabiao,nueva ecija
+0304905000,034905000,Carranglan,Mun,,1st,,42420,03,03049,Region III (Central Luzon),Nueva Ecija,carranglan,nueva ecija
+0304906000,034906000,Cuyapo,Mun,,1st,,68066,03,03049,Region III (Central Luzon),Nueva Ecija,cuyapo,nueva ecija
+0304907000,034907000,Gabaldon,Mun,,4th,Bitulok & Sabani,38958,03,03049,Region III (Central Luzon),Nueva Ecija,gabaldon,nueva ecija
+0304908000,034908000,City of Gapan,City,CC,4th,,122968,03,03049,Region III (Central Luzon),Nueva Ecija,gapan city,nueva ecija
+0304909000,034909000,General Mamerto Natividad,Mun,,3rd,,44311,03,03049,Region III (Central Luzon),Nueva Ecija,general mamerto natividad,nueva ecija
+0304910000,034910000,General Tinio,Mun,,1st,Papaya,55925,03,03049,Region III (Central Luzon),Nueva Ecija,general tinio,nueva ecija
+0304911000,034911000,Guimba,Mun,,1st,,127653,03,03049,Region III (Central Luzon),Nueva Ecija,guimba,nueva ecija
+0304912000,034912000,Jaen,Mun,,2nd,,79189,03,03049,Region III (Central Luzon),Nueva Ecija,jaen,nueva ecija
+0304913000,034913000,Laur,Mun,,3rd,,38263,03,03049,Region III (Central Luzon),Nueva Ecija,laur,nueva ecija
+0304914000,034914000,Licab,Mun,,4th,,29269,03,03049,Region III (Central Luzon),Nueva Ecija,licab,nueva ecija
+0304915000,034915000,Llanera,Mun,,4th,,42281,03,03049,Region III (Central Luzon),Nueva Ecija,llanera,nueva ecija
+0304916000,034916000,Lupao,Mun,,3rd,,45917,03,03049,Region III (Central Luzon),Nueva Ecija,lupao,nueva ecija
+0304917000,034917000,Science City of Muñoz,City,CC,4th,,84308,03,03049,Region III (Central Luzon),Nueva Ecija,science city of munoz,nueva ecija
+0304918000,034918000,Nampicuan,Mun,,5th,,14471,03,03049,Region III (Central Luzon),Nueva Ecija,nampicuan,nueva ecija
+0304919000,034919000,City of Palayan ,City,CC,5th,,45383,03,03049,Region III (Central Luzon),Nueva Ecija,palayan city,nueva ecija
+0304920000,034920000,Pantabangan,Mun,,1st,,31763,03,03049,Region III (Central Luzon),Nueva Ecija,pantabangan,nueva ecija
+0304921000,034921000,Peñaranda,Mun,,4th,,32269,03,03049,Region III (Central Luzon),Nueva Ecija,penaranda,nueva ecija
+0304922000,034922000,Quezon,Mun,,4th,,41845,03,03049,Region III (Central Luzon),Nueva Ecija,quezon,nueva ecija
+0304923000,034923000,Rizal,Mun,,2nd,,70196,03,03049,Region III (Central Luzon),Nueva Ecija,rizal,nueva ecija
+0304924000,034924000,San Antonio,Mun,,1st,,83060,03,03049,Region III (Central Luzon),Nueva Ecija,san antonio,nueva ecija
+0304925000,034925000,San Isidro,Mun,,2nd,,54372,03,03049,Region III (Central Luzon),Nueva Ecija,san isidro,nueva ecija
+0304926000,034926000,San Jose City,City,CC,3rd,,150917,03,03049,Region III (Central Luzon),Nueva Ecija,san jose city,nueva ecija
+0304927000,034927000,San Leonardo,Mun,,1st,,68536,03,03049,Region III (Central Luzon),Nueva Ecija,san leonardo,nueva ecija
+0304928000,034928000,Santa Rosa,Mun,,1st,,75649,03,03049,Region III (Central Luzon),Nueva Ecija,santa rosa,nueva ecija
+0304929000,034929000,Santo Domingo,Mun,,3rd,,61092,03,03049,Region III (Central Luzon),Nueva Ecija,santo domingo,nueva ecija
+0304930000,034930000,Talavera,Mun,,1st,,132338,03,03049,Region III (Central Luzon),Nueva Ecija,talavera,nueva ecija
+0304931000,034931000,Talugtug,Mun,,4th,,25236,03,03049,Region III (Central Luzon),Nueva Ecija,talugtug,nueva ecija
+0304932000,034932000,Zaragoza,Mun,,3rd,,53090,03,03049,Region III (Central Luzon),Nueva Ecija,zaragoza,nueva ecija
+0305402000,035402000,Apalit,Mun,,1st,,117160,03,03054,Region III (Central Luzon),Pampanga,apalit,pampanga
+0305403000,035403000,Arayat,Mun,,1st,,144875,03,03054,Region III (Central Luzon),Pampanga,arayat,pampanga
+0305404000,035404000,Bacolor,Mun,,3rd,,48066,03,03054,Region III (Central Luzon),Pampanga,bacolor,pampanga
+0305405000,035405000,Candaba,Mun,,1st,,119497,03,03054,Region III (Central Luzon),Pampanga,candaba,pampanga
+0305406000,035406000,Floridablanca,Mun,,1st,,135542,03,03054,Region III (Central Luzon),Pampanga,floridablanca,pampanga
+0305407000,035407000,Guagua,Mun,,1st,,128893,03,03054,Region III (Central Luzon),Pampanga,guagua,pampanga
+0305408000,035408000,Lubao,Mun,,1st,,173502,03,03054,Region III (Central Luzon),Pampanga,lubao,pampanga
+0305409000,035409000,Mabalacat City,City,CC,3rd,,293244,03,03054,Region III (Central Luzon),Pampanga,mabalacat city,pampanga
+0305410000,035410000,Macabebe,Mun,,1st,,78151,03,03054,Region III (Central Luzon),Pampanga,macabebe,pampanga
+0305411000,035411000,Magalang,Mun,,1st,,124188,03,03054,Region III (Central Luzon),Pampanga,magalang,pampanga
+0305412000,035412000,Masantol,Mun,,2nd,,57990,03,03054,Region III (Central Luzon),Pampanga,masantol,pampanga
+0305413000,035413000,Mexico,Mun,,1st,,173403,03,03054,Region III (Central Luzon),Pampanga,mexico,pampanga
+0305414000,035414000,Minalin,Mun,,4th,,48380,03,03054,Region III (Central Luzon),Pampanga,minalin,pampanga
+0305415000,035415000,Porac,Mun,,1st,,140751,03,03054,Region III (Central Luzon),Pampanga,porac,pampanga
+0305416000,035416000,City of San Fernando ,City,CC,1st,,354666,03,03054,Region III (Central Luzon),Pampanga,san fernando city,pampanga
+0305417000,035417000,San Luis,Mun,,3rd,,58551,03,03054,Region III (Central Luzon),Pampanga,san luis,pampanga
+0305418000,035418000,San Simon,Mun,,3rd*,,59182,03,03054,Region III (Central Luzon),Pampanga,san simon,pampanga
+0305419000,035419000,Santa Ana,Mun,,3rd,,61537,03,03054,Region III (Central Luzon),Pampanga,santa ana,pampanga
+0305420000,035420000,Santa Rita,Mun,,4th,,48209,03,03054,Region III (Central Luzon),Pampanga,santa rita,pampanga
+0305421000,035421000,Sto. Tomas,Mun,,4th,,42846,03,03054,Region III (Central Luzon),Pampanga,santo tomas,pampanga
+0305422000,035422000,Sasmuan,Mun,,4th,Sexmoan,29076,03,03054,Region III (Central Luzon),Pampanga,sasmuan,pampanga
+0306901000,036901000,Anao,Mun,,5th,,12208,03,03069,Region III (Central Luzon),Tarlac,anao,tarlac
+0306902000,036902000,Bamban,Mun,,2nd,,78260,03,03069,Region III (Central Luzon),Tarlac,bamban,tarlac
+0306903000,036903000,Camiling,Mun,,1st,,87319,03,03069,Region III (Central Luzon),Tarlac,camiling,tarlac
+0306904000,036904000,Capas,Mun,,1st,,156056,03,03069,Region III (Central Luzon),Tarlac,capas,tarlac
+0306905000,036905000,Concepcion,Mun,,1st,,169953,03,03069,Region III (Central Luzon),Tarlac,concepcion,tarlac
+0306906000,036906000,Gerona,Mun,,1st,,94485,03,03069,Region III (Central Luzon),Tarlac,gerona,tarlac
+0306907000,036907000,La Paz,Mun,,2nd,,68952,03,03069,Region III (Central Luzon),Tarlac,la paz,tarlac
+0306908000,036908000,Mayantoc,Mun,,3rd,,32597,03,03069,Region III (Central Luzon),Tarlac,mayantoc,tarlac
+0306909000,036909000,Moncada,Mun,,1st,,62819,03,03069,Region III (Central Luzon),Tarlac,moncada,tarlac
+0306910000,036910000,Paniqui,Mun,,1st,,103003,03,03069,Region III (Central Luzon),Tarlac,paniqui,tarlac
+0306911000,036911000,Pura,Mun,,4th,,25781,03,03069,Region III (Central Luzon),Tarlac,pura,tarlac
+0306912000,036912000,Ramos,Mun,,5th,,22879,03,03069,Region III (Central Luzon),Tarlac,ramos,tarlac
+0306913000,036913000,San Clemente,Mun,,5th,,13181,03,03069,Region III (Central Luzon),Tarlac,san clemente,tarlac
+0306914000,036914000,San Manuel,Mun,,4th,,28387,03,03069,Region III (Central Luzon),Tarlac,san manuel,tarlac
+0306915000,036915000,Santa Ignacia,Mun,,2nd,,51626,03,03069,Region III (Central Luzon),Tarlac,santa ignacia,tarlac
+0306916000,036916000,City of Tarlac ,City,CC,1st,,385398,03,03069,Region III (Central Luzon),Tarlac,tarlac city,tarlac
+0306917000,036917000,Victoria,Mun,,2nd,,69370,03,03069,Region III (Central Luzon),Tarlac,victoria,tarlac
+0306918000,036918000,San Jose,Mun,,3rd,,41182,03,03069,Region III (Central Luzon),Tarlac,san jose,tarlac
+0307101000,037101000,Botolan,Mun,,1st,,66739,03,03071,Region III (Central Luzon),Zambales,botolan,zambales
+0307102000,037102000,Cabangan,Mun,,4th,,28118,03,03071,Region III (Central Luzon),Zambales,cabangan,zambales
+0307103000,037103000,Candelaria,Mun,,3rd,,30263,03,03071,Region III (Central Luzon),Zambales,candelaria,zambales
+0307104000,037104000,Castillejos,Mun,,3rd,,67889,03,03071,Region III (Central Luzon),Zambales,castillejos,zambales
+0307105000,037105000,Iba ,Mun,,2nd,,55581,03,03071,Region III (Central Luzon),Zambales,iba,zambales
+0307106000,037106000,Masinloc,Mun,,1st,,54529,03,03071,Region III (Central Luzon),Zambales,masinloc,zambales
+0307108000,037108000,Palauig,Mun,,3rd,,39784,03,03071,Region III (Central Luzon),Zambales,palauig,zambales
+0307109000,037109000,San Antonio,Mun,,2nd,,37450,03,03071,Region III (Central Luzon),Zambales,san antonio,zambales
+0307110000,037110000,San Felipe,Mun,,4th,,25033,03,03071,Region III (Central Luzon),Zambales,san felipe,zambales
+0307111000,037111000,San Marcelino,Mun,,1st,,37719,03,03071,Region III (Central Luzon),Zambales,san marcelino,zambales
+0307112000,037112000,San Narciso,Mun,,4th,,30759,03,03071,Region III (Central Luzon),Zambales,san narciso,zambales
+0307113000,037113000,Santa Cruz,Mun,,1st,,63839,03,03071,Region III (Central Luzon),Zambales,santa cruz,zambales
+0307114000,037114000,Subic,Mun,,1st,,111912,03,03071,Region III (Central Luzon),Zambales,subic,zambales
+0307701000,037701000,Baler ,Mun,,3rd,,43785,03,03077,Region III (Central Luzon),Aurora,baler,aurora
+0307702000,037702000,Casiguran,Mun,,2nd,,26564,03,03077,Region III (Central Luzon),Aurora,casiguran,aurora
+0307703000,037703000,Dilasag,Mun,,3rd,,17102,03,03077,Region III (Central Luzon),Aurora,dilasag,aurora
+0307704000,037704000,Dinalungan,Mun,,4th,,12508,03,03077,Region III (Central Luzon),Aurora,dinalungan,aurora
+0307705000,037705000,Dingalan,Mun,,3rd,,27878,03,03077,Region III (Central Luzon),Aurora,dingalan,aurora
+0307706000,037706000,Dipaculao,Mun,,3rd,,33131,03,03077,Region III (Central Luzon),Aurora,dipaculao,aurora
+0307707000,037707000,Maria Aurora,Mun,,2nd,,44958,03,03077,Region III (Central Luzon),Aurora,maria aurora,aurora
+0307708000,037708000,San Luis,Mun,,2nd,,29824,03,03077,Region III (Central Luzon),Aurora,san luis,aurora
+0330100000,035401000,City of Angeles,City,HUC,1st,,462928,03,03301,Region III (Central Luzon),Region III (Central Luzon),angeles city,region iii (central luzon)
+0331400000,037107000,City of Olongapo,City,HUC,1st,,260317,03,03314,Region III (Central Luzon),Region III (Central Luzon),olongapo city,region iii (central luzon)
+0401001000,041001000,Agoncillo,Mun,,4th,,39101,04,04010,Region IV-A (CALABARZON),Batangas,agoncillo,batangas
+0401002000,041002000,Alitagtag,Mun,,4th,,26819,04,04010,Region IV-A (CALABARZON),Batangas,alitagtag,batangas
+0401003000,041003000,Balayan,Mun,,1st,,95913,04,04010,Region IV-A (CALABARZON),Batangas,balayan,batangas
+0401004000,041004000,Balete,Mun,,5th,,24055,04,04010,Region IV-A (CALABARZON),Batangas,balete,batangas
+0401005000,041005000,Batangas City ,City,CC,1st,,351437,04,04010,Region IV-A (CALABARZON),Batangas,batangas city,batangas
+0401006000,041006000,Bauan,Mun,,1st,,90819,04,04010,Region IV-A (CALABARZON),Batangas,bauan,batangas
+0401007000,041007000,City of Calaca,City,CC,1st (as Mun),,87361,04,04010,Region IV-A (CALABARZON),Batangas,calaca city,batangas
+0401008000,041008000,Calatagan,Mun,,2nd,,58719,04,04010,Region IV-A (CALABARZON),Batangas,calatagan,batangas
+0401009000,041009000,Cuenca,Mun,,4th,,36235,04,04010,Region IV-A (CALABARZON),Batangas,cuenca,batangas
+0401010000,041010000,Ibaan,Mun,,2nd,,58507,04,04010,Region IV-A (CALABARZON),Batangas,ibaan,batangas
+0401011000,041011000,Laurel,Mun,,3rd,,43210,04,04010,Region IV-A (CALABARZON),Batangas,laurel,batangas
+0401012000,041012000,Lemery,Mun,,1st,,93186,04,04010,Region IV-A (CALABARZON),Batangas,lemery,batangas
+0401013000,041013000,Lian,Mun,,3rd,,56280,04,04010,Region IV-A (CALABARZON),Batangas,lian,batangas
+0401014000,041014000,City of Lipa,City,CC,1st,,372931,04,04010,Region IV-A (CALABARZON),Batangas,lipa city,batangas
+0401015000,041015000,Lobo,Mun,,3rd,,40736,04,04010,Region IV-A (CALABARZON),Batangas,lobo,batangas
+0401016000,041016000,Mabini,Mun,,1st,,50858,04,04010,Region IV-A (CALABARZON),Batangas,mabini,batangas
+0401017000,041017000,Malvar,Mun,,2nd,,64379,04,04010,Region IV-A (CALABARZON),Batangas,malvar,batangas
+0401018000,041018000,Mataasnakahoy,Mun,,4th,,30621,04,04010,Region IV-A (CALABARZON),Batangas,mataasnakahoy,batangas
+0401019000,041019000,Nasugbu,Mun,,1st,,136524,04,04010,Region IV-A (CALABARZON),Batangas,nasugbu,batangas
+0401020000,041020000,Padre Garcia,Mun,,2nd,,51853,04,04010,Region IV-A (CALABARZON),Batangas,padre garcia,batangas
+0401021000,041021000,Rosario,Mun,,1st,,128352,04,04010,Region IV-A (CALABARZON),Batangas,rosario,batangas
+0401022000,041022000,San Jose,Mun,,1st,,79868,04,04010,Region IV-A (CALABARZON),Batangas,san jose,batangas
+0401023000,041023000,San Juan,Mun,,1st,,114068,04,04010,Region IV-A (CALABARZON),Batangas,san juan,batangas
+0401024000,041024000,San Luis,Mun,,4th,,36172,04,04010,Region IV-A (CALABARZON),Batangas,san luis,batangas
+0401025000,041025000,San Nicolas,Mun,,5th,,23908,04,04010,Region IV-A (CALABARZON),Batangas,san nicolas,batangas
+0401026000,041026000,San Pascual,Mun,,1st,,69009,04,04010,Region IV-A (CALABARZON),Batangas,san pascual,batangas
+0401027000,041027000,Santa Teresita,Mun,,5th,,21559,04,04010,Region IV-A (CALABARZON),Batangas,santa teresita,batangas
+0401028000,041028000,City of Sto. Tomas,City,CC,1st (as Mun),,218500,04,04010,Region IV-A (CALABARZON),Batangas,santo tomas city,batangas
+0401029000,041029000,Taal,Mun,,3rd,,61460,04,04010,Region IV-A (CALABARZON),Batangas,taal,batangas
+0401030000,041030000,Talisay,Mun,,3rd,,46238,04,04010,Region IV-A (CALABARZON),Batangas,talisay,batangas
+0401031000,041031000,City of Tanauan,City,CC,2nd,,193936,04,04010,Region IV-A (CALABARZON),Batangas,tanauan city,batangas
+0401032000,041032000,Taysan,Mun,,2nd,,40146,04,04010,Region IV-A (CALABARZON),Batangas,taysan,batangas
+0401033000,041033000,Tingloy,Mun,,5th,,19215,04,04010,Region IV-A (CALABARZON),Batangas,tingloy,batangas
+0401034000,041034000,Tuy,Mun,,3rd,,46519,04,04010,Region IV-A (CALABARZON),Batangas,tuy,batangas
+0402101000,042101000,Alfonso,Mun,,1st,,59306,04,04021,Region IV-A (CALABARZON),Cavite,alfonso,cavite
+0402102000,042102000,Amadeo,Mun,,4th,,41901,04,04021,Region IV-A (CALABARZON),Cavite,amadeo,cavite
+0402103000,042103000,City of Bacoor,City,CC,1st (as Mun),,664625,04,04021,Region IV-A (CALABARZON),Cavite,bacoor city,cavite
+0402104000,042104000,City of Carmona,City,CC,1st (as Mun),,106256,04,04021,Region IV-A (CALABARZON),Cavite,carmona city,cavite
+0402105000,042105000,City of Cavite,City,CC,4th,,100674,04,04021,Region IV-A (CALABARZON),Cavite,cavite city,cavite
+0402106000,042106000,City of Dasmariñas,City,CC,1st (as Mun),,703141,04,04021,Region IV-A (CALABARZON),Cavite,dasmarinas city,cavite
+0402107000,042107000,General Emilio Aguinaldo,Mun,,5th,,23973,04,04021,Region IV-A (CALABARZON),Cavite,general emilio aguinaldo,cavite
+0402108000,042108000,City of General Trias,City,CC,1st (as Mun),,450583,04,04021,Region IV-A (CALABARZON),Cavite,general trias city,cavite
+0402109000,042109000,City of Imus,City,CC,3rd,,496794,04,04021,Region IV-A (CALABARZON),Cavite,imus city,cavite
+0402110000,042110000,Indang,Mun,,1st,,68699,04,04021,Region IV-A (CALABARZON),Cavite,indang,cavite
+0402111000,042111000,Kawit,Mun,,1st,,107535,04,04021,Region IV-A (CALABARZON),Cavite,kawit,cavite
+0402112000,042112000,Magallanes,Mun,,4th,,23851,04,04021,Region IV-A (CALABARZON),Cavite,magallanes,cavite
+0402113000,042113000,Maragondon,Mun,,3rd,,40687,04,04021,Region IV-A (CALABARZON),Cavite,maragondon,cavite
+0402114000,042114000,Mendez,Mun,,4th,Mendez-Nuñez,34879,04,04021,Region IV-A (CALABARZON),Cavite,mendez,cavite
+0402115000,042115000,Naic,Mun,,1st,,160987,04,04021,Region IV-A (CALABARZON),Cavite,naic,cavite
+0402116000,042116000,Noveleta,Mun,,3rd,,49452,04,04021,Region IV-A (CALABARZON),Cavite,noveleta,cavite
+0402117000,042117000,Rosario,Mun,,1st,,110807,04,04021,Region IV-A (CALABARZON),Cavite,rosario,cavite
+0402118000,042118000,Silang,Mun,,1st,,295644,04,04021,Region IV-A (CALABARZON),Cavite,silang,cavite
+0402119000,042119000,City of Tagaytay,City,CC,2nd,,85330,04,04021,Region IV-A (CALABARZON),Cavite,tagaytay city,cavite
+0402120000,042120000,Tanza,Mun,,1st,,312116,04,04021,Region IV-A (CALABARZON),Cavite,tanza,cavite
+0402121000,042121000,Ternate,Mun,,4th,,24653,04,04021,Region IV-A (CALABARZON),Cavite,ternate,cavite
+0402122000,042122000,City of Trece Martires ,City,CC,4th,,210503,04,04021,Region IV-A (CALABARZON),Cavite,trece martires city,cavite
+0402123000,042123000,Gen. Mariano Alvarez,Mun,,1st,,172433,04,04021,Region IV-A (CALABARZON),Cavite,general mariano alvarez,cavite
+0403401000,043401000,Alaminos,Mun,,3rd,,51619,04,04034,Region IV-A (CALABARZON),Laguna,alaminos,laguna
+0403402000,043402000,Bay,Mun,,2nd,,67182,04,04034,Region IV-A (CALABARZON),Laguna,bay,laguna
+0403403000,043403000,City of Biñan,City,CC,1st (as Mun),,407437,04,04034,Region IV-A (CALABARZON),Laguna,binan city,laguna
+0403404000,043404000,City of Cabuyao,City,CC,1st (as Mun),,355330,04,04034,Region IV-A (CALABARZON),Laguna,cabuyao city,laguna
+0403405000,043405000,City of Calamba,City,CC,1st,,539671,04,04034,Region IV-A (CALABARZON),Laguna,calamba city,laguna
+0403406000,043406000,Calauan,Mun,,2nd,,87693,04,04034,Region IV-A (CALABARZON),Laguna,calauan,laguna
+0403407000,043407000,Cavinti,Mun,,3rd,,23980,04,04034,Region IV-A (CALABARZON),Laguna,cavinti,laguna
+0403408000,043408000,Famy,Mun,,5th,,16791,04,04034,Region IV-A (CALABARZON),Laguna,famy,laguna
+0403409000,043409000,Kalayaan,Mun,,3rd,,24755,04,04034,Region IV-A (CALABARZON),Laguna,kalayaan,laguna
+0403410000,043410000,Liliw,Mun,,4th,,39491,04,04034,Region IV-A (CALABARZON),Laguna,liliw,laguna
+0403411000,043411000,Los Baños,Mun,,1st,,115353,04,04034,Region IV-A (CALABARZON),Laguna,los banos,laguna
+0403412000,043412000,Luisiana,Mun,,4th,,20859,04,04034,Region IV-A (CALABARZON),Laguna,luisiana,laguna
+0403413000,043413000,Lumban,Mun,,3rd,,32330,04,04034,Region IV-A (CALABARZON),Laguna,lumban,laguna
+0403414000,043414000,Mabitac,Mun,,5th,,21275,04,04034,Region IV-A (CALABARZON),Laguna,mabitac,laguna
+0403415000,043415000,Magdalena,Mun,,4th,,27816,04,04034,Region IV-A (CALABARZON),Laguna,magdalena,laguna
+0403416000,043416000,Majayjay,Mun,,4th,,27893,04,04034,Region IV-A (CALABARZON),Laguna,majayjay,laguna
+0403417000,043417000,Nagcarlan,Mun,,2nd,,64866,04,04034,Region IV-A (CALABARZON),Laguna,nagcarlan,laguna
+0403418000,043418000,Paete,Mun,,4th,,24945,04,04034,Region IV-A (CALABARZON),Laguna,paete,laguna
+0403419000,043419000,Pagsanjan,Mun,,3rd,,44327,04,04034,Region IV-A (CALABARZON),Laguna,pagsanjan,laguna
+0403420000,043420000,Pakil,Mun,,5th,,23495,04,04034,Region IV-A (CALABARZON),Laguna,pakil,laguna
+0403421000,043421000,Pangil,Mun,,4th,,25026,04,04034,Region IV-A (CALABARZON),Laguna,pangil,laguna
+0403422000,043422000,Pila,Mun,,3rd,,54613,04,04034,Region IV-A (CALABARZON),Laguna,pila,laguna
+0403423000,043423000,Rizal,Mun,,5th,,18332,04,04034,Region IV-A (CALABARZON),Laguna,rizal,laguna
+0403424000,043424000,City of San Pablo,City,CC,1st,,285348,04,04034,Region IV-A (CALABARZON),Laguna,san pablo city,laguna
+0403425000,043425000,City of San Pedro,City,CC,3rd,,326001,04,04034,Region IV-A (CALABARZON),Laguna,san pedro city,laguna
+0403426000,043426000,Santa Cruz ,Mun,,1st,,123574,04,04034,Region IV-A (CALABARZON),Laguna,santa cruz,laguna
+0403427000,043427000,Santa Maria,Mun,,4th,,34511,04,04034,Region IV-A (CALABARZON),Laguna,santa maria,laguna
+0403428000,043428000,City of Santa Rosa,City,CC,1st,,414812,04,04034,Region IV-A (CALABARZON),Laguna,santa rosa city,laguna
+0403429000,043429000,Siniloan,Mun,,2nd,,39460,04,04034,Region IV-A (CALABARZON),Laguna,siniloan,laguna
+0403430000,043430000,Victoria,Mun,,4th,,43408,04,04034,Region IV-A (CALABARZON),Laguna,victoria,laguna
+0405601000,045601000,Agdangan,Mun,,5th,,12764,04,04056,Region IV-A (CALABARZON),Quezon,agdangan,quezon
+0405602000,045602000,Alabat,Mun,,5th,,15936,04,04056,Region IV-A (CALABARZON),Quezon,alabat,quezon
+0405603000,045603000,Atimonan,Mun,,1st,,64260,04,04056,Region IV-A (CALABARZON),Quezon,atimonan,quezon
+0405605000,045605000,Buenavista,Mun,,4th,,31160,04,04056,Region IV-A (CALABARZON),Quezon,buenavista,quezon
+0405606000,045606000,Burdeos,Mun,,4th,,24644,04,04056,Region IV-A (CALABARZON),Quezon,burdeos,quezon
+0405607000,045607000,Calauag,Mun,,1st,,71809,04,04056,Region IV-A (CALABARZON),Quezon,calauag,quezon
+0405608000,045608000,Candelaria,Mun,,1st,,137881,04,04056,Region IV-A (CALABARZON),Quezon,candelaria,quezon
+0405610000,045610000,Catanauan,Mun,,1st,,72752,04,04056,Region IV-A (CALABARZON),Quezon,catanauan,quezon
+0405615000,045615000,Dolores,Mun,,4th,,32514,04,04056,Region IV-A (CALABARZON),Quezon,dolores,quezon
+0405616000,045616000,General Luna,Mun,,4th,,24804,04,04056,Region IV-A (CALABARZON),Quezon,general luna,quezon
+0405617000,045617000,General Nakar,Mun,,1st,,34225,04,04056,Region IV-A (CALABARZON),Quezon,general nakar,quezon
+0405618000,045618000,Guinayangan,Mun,,3rd,,44045,04,04056,Region IV-A (CALABARZON),Quezon,guinayangan,quezon
+0405619000,045619000,Gumaca,Mun,,1st,,71942,04,04056,Region IV-A (CALABARZON),Quezon,gumaca,quezon
+0405620000,045620000,Infanta,Mun,,1st,,76186,04,04056,Region IV-A (CALABARZON),Quezon,infanta,quezon
+0405621000,045621000,Jomalig,Mun,,5th,,7667,04,04056,Region IV-A (CALABARZON),Quezon,jomalig,quezon
+0405622000,045622000,Lopez,Mun,,1st,,94657,04,04056,Region IV-A (CALABARZON),Quezon,lopez,quezon
+0405623000,045623000,Lucban,Mun,,2nd,,53091,04,04056,Region IV-A (CALABARZON),Quezon,lucban,quezon
+0405625000,045625000,Macalelon,Mun,,4th,,27312,04,04056,Region IV-A (CALABARZON),Quezon,macalelon,quezon
+0405627000,045627000,Mauban,Mun,,1st,,71081,04,04056,Region IV-A (CALABARZON),Quezon,mauban,quezon
+0405628000,045628000,Mulanay,Mun,,1st,,55576,04,04056,Region IV-A (CALABARZON),Quezon,mulanay,quezon
+0405629000,045629000,Padre Burgos,Mun,,4th,,23488,04,04056,Region IV-A (CALABARZON),Quezon,padre burgos,quezon
+0405630000,045630000,Pagbilao,Mun,,1st,,78700,04,04056,Region IV-A (CALABARZON),Quezon,pagbilao,quezon
+0405631000,045631000,Panukulan,Mun,,4th,,16376,04,04056,Region IV-A (CALABARZON),Quezon,panukulan,quezon
+0405632000,045632000,Patnanungan,Mun,,5th,,15052,04,04056,Region IV-A (CALABARZON),Quezon,patnanungan,quezon
+0405633000,045633000,Perez,Mun,,5th,,12767,04,04056,Region IV-A (CALABARZON),Quezon,perez,quezon
+0405634000,045634000,Pitogo,Mun,,4th,,22798,04,04056,Region IV-A (CALABARZON),Quezon,pitogo,quezon
+0405635000,045635000,Plaridel,Mun,,5th,,10129,04,04056,Region IV-A (CALABARZON),Quezon,plaridel,quezon
+0405636000,045636000,Polillo,Mun,,3rd,,31908,04,04056,Region IV-A (CALABARZON),Quezon,polillo,quezon
+0405637000,045637000,Quezon,Mun,,5th,,15886,04,04056,Region IV-A (CALABARZON),Quezon,quezon,quezon
+0405638000,045638000,Real,Mun,,1st,,38678,04,04056,Region IV-A (CALABARZON),Quezon,real,quezon
+0405639000,045639000,Sampaloc,Mun,,5th,,13629,04,04056,Region IV-A (CALABARZON),Quezon,sampaloc,quezon
+0405640000,045640000,San Andres,Mun,,4th,,37454,04,04056,Region IV-A (CALABARZON),Quezon,san andres,quezon
+0405641000,045641000,San Antonio,Mun,,4th,,35891,04,04056,Region IV-A (CALABARZON),Quezon,san antonio,quezon
+0405642000,045642000,San Francisco,Mun,,2nd,Aurora,62097,04,04056,Region IV-A (CALABARZON),Quezon,san francisco,quezon
+0405644000,045644000,San Narciso,Mun,,3rd,,51058,04,04056,Region IV-A (CALABARZON),Quezon,san narciso,quezon
+0405645000,045645000,Sariaya,Mun,,1st,,161868,04,04056,Region IV-A (CALABARZON),Quezon,sariaya,quezon
+0405646000,045646000,Tagkawayan,Mun,,1st,,54003,04,04056,Region IV-A (CALABARZON),Quezon,tagkawayan,quezon
+0405647000,045647000,City of Tayabas,City,CC,6th,,112658,04,04056,Region IV-A (CALABARZON),Quezon,tayabas city,quezon
+0405648000,045648000,Tiaong,Mun,,1st,,106265,04,04056,Region IV-A (CALABARZON),Quezon,tiaong,quezon
+0405649000,045649000,Unisan,Mun,,4th,,25448,04,04056,Region IV-A (CALABARZON),Quezon,unisan,quezon
+0405801000,045801000,Angono,Mun,,1st,,130494,04,04058,Region IV-A (CALABARZON),Rizal,angono,rizal
+0405802000,045802000,City of Antipolo ,City,CC,1st,,887399,04,04058,Region IV-A (CALABARZON),Rizal,antipolo city,rizal
+0405803000,045803000,Baras,Mun,,4th,,87637,04,04058,Region IV-A (CALABARZON),Rizal,baras,rizal
+0405804000,045804000,Binangonan,Mun,,1st,,313631,04,04058,Region IV-A (CALABARZON),Rizal,binangonan,rizal
+0405805000,045805000,Cainta,Mun,,1st,,376933,04,04058,Region IV-A (CALABARZON),Rizal,cainta,rizal
+0405806000,045806000,Cardona,Mun,,3rd,,50143,04,04058,Region IV-A (CALABARZON),Rizal,cardona,rizal
+0405807000,045807000,Jala-Jala,Mun,,4th,,34017,04,04058,Region IV-A (CALABARZON),Rizal,jala jala,rizal
+0405808000,045808000,Rodriguez,Mun,,1st,Montalban,443954,04,04058,Region IV-A (CALABARZON),Rizal,rodriguez,rizal
+0405809000,045809000,Morong,Mun,,2nd,,71151,04,04058,Region IV-A (CALABARZON),Rizal,morong,rizal
+0405810000,045810000,Pililla,Mun,,1st,,71535,04,04058,Region IV-A (CALABARZON),Rizal,pililla,rizal
+0405811000,045811000,San Mateo,Mun,,1st,,273306,04,04058,Region IV-A (CALABARZON),Rizal,san mateo,rizal
+0405812000,045812000,Tanay,Mun,,1st,,139420,04,04058,Region IV-A (CALABARZON),Rizal,tanay,rizal
+0405813000,045813000,Taytay,Mun,,1st,,386451,04,04058,Region IV-A (CALABARZON),Rizal,taytay,rizal
+0405814000,045814000,Teresa,Mun,,2nd,,64072,04,04058,Region IV-A (CALABARZON),Rizal,teresa,rizal
+0431200000,045624000,City of Lucena ,City,HUC,2nd,,278924,04,04312,Region IV-A (CALABARZON),Region IV-A (CALABARZON),lucena city,region iv a (calabarzon)
+1704001000,174001000,Boac ,Mun,,1st,,57283,17,17040,MIMAROPA Region,Marinduque,boac,marinduque
+1704002000,174002000,Buenavista,Mun,,4th,,26043,17,17040,MIMAROPA Region,Marinduque,buenavista,marinduque
+1704003000,174003000,Gasan,Mun,,3rd,,36197,17,17040,MIMAROPA Region,Marinduque,gasan,marinduque
+1704004000,174004000,Mogpog,Mun,,3rd,,34516,17,17040,MIMAROPA Region,Marinduque,mogpog,marinduque
+1704005000,174005000,Santa Cruz,Mun,,1st,,54692,17,17040,MIMAROPA Region,Marinduque,santa cruz,marinduque
+1704006000,174006000,Torrijos,Mun,,3rd,,30476,17,17040,MIMAROPA Region,Marinduque,torrijos,marinduque
+1705101000,175101000,Abra De Ilog,Mun,,2nd,,35176,17,17051,MIMAROPA Region,Occidental Mindoro,abra de ilog,occidental mindoro
+1705102000,175102000,Calintaan,Mun,,3rd,,30190,17,17051,MIMAROPA Region,Occidental Mindoro,calintaan,occidental mindoro
+1705103000,175103000,Looc,Mun,,5th,,7802,17,17051,MIMAROPA Region,Occidental Mindoro,looc,occidental mindoro
+1705104000,175104000,Lubang,Mun,,4th,,17437,17,17051,MIMAROPA Region,Occidental Mindoro,lubang,occidental mindoro
+1705105000,175105000,Magsaysay,Mun,,3rd,,39767,17,17051,MIMAROPA Region,Occidental Mindoro,magsaysay,occidental mindoro
+1705106000,175106000,Mamburao ,Mun,,2nd,,47705,17,17051,MIMAROPA Region,Occidental Mindoro,mamburao,occidental mindoro
+1705107000,175107000,Paluan,Mun,,3rd,,18566,17,17051,MIMAROPA Region,Occidental Mindoro,paluan,occidental mindoro
+1705108000,175108000,Rizal,Mun,,3rd,,40429,17,17051,MIMAROPA Region,Occidental Mindoro,rizal,occidental mindoro
+1705109000,175109000,Sablayan,Mun,,1st,,92598,17,17051,MIMAROPA Region,Occidental Mindoro,sablayan,occidental mindoro
+1705110000,175110000,San Jose,Mun,,1st,,153267,17,17051,MIMAROPA Region,Occidental Mindoro,san jose,occidental mindoro
+1705111000,175111000,Santa Cruz,Mun,,1st,,42417,17,17051,MIMAROPA Region,Occidental Mindoro,santa cruz,occidental mindoro
+1705201000,175201000,Baco,Mun,,3rd,,39817,17,17052,MIMAROPA Region,Oriental Mindoro,baco,oriental mindoro
+1705202000,175202000,Bansud,Mun,,2nd,,42671,17,17052,MIMAROPA Region,Oriental Mindoro,bansud,oriental mindoro
+1705203000,175203000,Bongabong,Mun,,1st,,76973,17,17052,MIMAROPA Region,Oriental Mindoro,bongabong,oriental mindoro
+1705204000,175204000,Bulalacao,Mun,,3rd,San Pedro,44366,17,17052,MIMAROPA Region,Oriental Mindoro,bulalacao,oriental mindoro
+1705205000,175205000,City of Calapan ,City,CC,3rd,,145786,17,17052,MIMAROPA Region,Oriental Mindoro,calapan city,oriental mindoro
+1705206000,175206000,Gloria,Mun,,3rd,,50496,17,17052,MIMAROPA Region,Oriental Mindoro,gloria,oriental mindoro
+1705207000,175207000,Mansalay,Mun,,2nd,,59114,17,17052,MIMAROPA Region,Oriental Mindoro,mansalay,oriental mindoro
+1705208000,175208000,Naujan,Mun,,1st,,109587,17,17052,MIMAROPA Region,Oriental Mindoro,naujan,oriental mindoro
+1705209000,175209000,Pinamalayan,Mun,,1st,,90383,17,17052,MIMAROPA Region,Oriental Mindoro,pinamalayan,oriental mindoro
+1705210000,175210000,Pola,Mun,,3rd,,35455,17,17052,MIMAROPA Region,Oriental Mindoro,pola,oriental mindoro
+1705211000,175211000,Puerto Galera,Mun,,1st,,41961,17,17052,MIMAROPA Region,Oriental Mindoro,puerto galera,oriental mindoro
+1705212000,175212000,Roxas,Mun,,2nd,,58849,17,17052,MIMAROPA Region,Oriental Mindoro,roxas,oriental mindoro
+1705213000,175213000,San Teodoro,Mun,,4th,,19121,17,17052,MIMAROPA Region,Oriental Mindoro,san teodoro,oriental mindoro
+1705214000,175214000,Socorro,Mun,,3rd,,41585,17,17052,MIMAROPA Region,Oriental Mindoro,socorro,oriental mindoro
+1705215000,175215000,Victoria,Mun,,2nd,,52175,17,17052,MIMAROPA Region,Oriental Mindoro,victoria,oriental mindoro
+1705301000,175301000,Aborlan,Mun,,1st,,38736,17,17053,MIMAROPA Region,Palawan,aborlan,palawan
+1705302000,175302000,Agutaya,Mun,,5th,,12867,17,17053,MIMAROPA Region,Palawan,agutaya,palawan
+1705303000,175303000,Araceli,Mun,,4th,,14434,17,17053,MIMAROPA Region,Palawan,araceli,palawan
+1705304000,175304000,Balabac,Mun,,2nd,,42527,17,17053,MIMAROPA Region,Palawan,balabac,palawan
+1705305000,175305000,Bataraza,Mun,,1st,,85439,17,17053,MIMAROPA Region,Palawan,bataraza,palawan
+1705306000,175306000,Brooke's Point,Mun,,1st,,73994,17,17053,MIMAROPA Region,Palawan,brooke s point,palawan
+1705307000,175307000,Busuanga,Mun,,3rd,,25617,17,17053,MIMAROPA Region,Palawan,busuanga,palawan
+1705308000,175308000,Cagayancillo,Mun,,6th,,6884,17,17053,MIMAROPA Region,Palawan,cagayancillo,palawan
+1705309000,175309000,Coron,Mun,,1st,,65855,17,17053,MIMAROPA Region,Palawan,coron,palawan
+1705310000,175310000,Cuyo,Mun,,4th,,23489,17,17053,MIMAROPA Region,Palawan,cuyo,palawan
+1705311000,175311000,Dumaran,Mun,,3rd,,23528,17,17053,MIMAROPA Region,Palawan,dumaran,palawan
+1705312000,175312000,El Nido,Mun,,1st,Bacuit,50494,17,17053,MIMAROPA Region,Palawan,el nido,palawan
+1705313000,175313000,Linapacan,Mun,,5th,,16424,17,17053,MIMAROPA Region,Palawan,linapacan,palawan
+1705314000,175314000,Magsaysay,Mun,,5th,,12603,17,17053,MIMAROPA Region,Palawan,magsaysay,palawan
+1705315000,175315000,Narra,Mun,,1st,,77948,17,17053,MIMAROPA Region,Palawan,narra,palawan
+1705317000,175317000,Quezon,Mun,,1st,,65283,17,17053,MIMAROPA Region,Palawan,quezon,palawan
+1705318000,175318000,Roxas,Mun,,1st,,69624,17,17053,MIMAROPA Region,Palawan,roxas,palawan
+1705319000,175319000,San Vicente,Mun,,1st,,33507,17,17053,MIMAROPA Region,Palawan,san vicente,palawan
+1705320000,175320000,Taytay,Mun,,1st,,83357,17,17053,MIMAROPA Region,Palawan,taytay,palawan
+1705321000,175321000,Kalayaan,Mun,,5th,,193,17,17053,MIMAROPA Region,Palawan,kalayaan,palawan
+1705322000,175322000,Culion,Mun,,3rd,,23213,17,17053,MIMAROPA Region,Palawan,culion,palawan
+1705323000,175323000,Dr. Jose P. Rizal,Mun,,1st,Marcos,56162,17,17053,MIMAROPA Region,Palawan,dr jose p rizal,palawan
+1705324000,175324000,Sofronio Española,Mun,,2nd,,37416,17,17053,MIMAROPA Region,Palawan,sofronio espanola,palawan
+1705901000,175901000,Alcantara,Mun,,5th,,17171,17,17059,MIMAROPA Region,Romblon,alcantara,romblon
+1705902000,175902000,Banton,Mun,,5th,,5737,17,17059,MIMAROPA Region,Romblon,banton,romblon
+1705903000,175903000,Cajidiocan,Mun,,4th,,23259,17,17059,MIMAROPA Region,Romblon,cajidiocan,romblon
+1705904000,175904000,Calatrava,Mun,,5th,,11342,17,17059,MIMAROPA Region,Romblon,calatrava,romblon
+1705905000,175905000,Concepcion,Mun,,6th,,3561,17,17059,MIMAROPA Region,Romblon,concepcion,romblon
+1705906000,175906000,Corcuera,Mun,,5th,,10112,17,17059,MIMAROPA Region,Romblon,corcuera,romblon
+1705907000,175907000,Looc,Mun,,4th,,21799,17,17059,MIMAROPA Region,Romblon,looc,romblon
+1705908000,175908000,Magdiwang,Mun,,5th,,15385,17,17059,MIMAROPA Region,Romblon,magdiwang,romblon
+1705909000,175909000,Odiongan,Mun,,2nd,,49284,17,17059,MIMAROPA Region,Romblon,odiongan,romblon
+1705910000,175910000,Romblon ,Mun,,3rd,,40554,17,17059,MIMAROPA Region,Romblon,romblon,romblon
+1705911000,175911000,San Agustin,Mun,,4th,,24115,17,17059,MIMAROPA Region,Romblon,san agustin,romblon
+1705912000,175912000,San Andres,Mun,,5th,,15940,17,17059,MIMAROPA Region,Romblon,san andres,romblon
+1705913000,175913000,San Fernando,Mun,,4th,,24171,17,17059,MIMAROPA Region,Romblon,san fernando,romblon
+1705914000,175914000,San Jose,Mun,,5th,,11759,17,17059,MIMAROPA Region,Romblon,san jose,romblon
+1705915000,175915000,Santa Fe,Mun,,5th,,17802,17,17059,MIMAROPA Region,Romblon,santa fe,romblon
+1705916000,175916000,Ferrol,Mun,,6th,,8005,17,17059,MIMAROPA Region,Romblon,ferrol,romblon
+1705917000,175917000,Santa Maria,Mun,,5th,Imelda,8989,17,17059,MIMAROPA Region,Romblon,santa maria,romblon
+1731500000,175316000,City of Puerto Princesa ,City,HUC,1st,,307079,17,17315,MIMAROPA Region,MIMAROPA Region,puerto princesa city,mimaropa region
+0500501000,050501000,Bacacay,Mun,,2nd,,72485,05,05005,Region V (Bicol Region),Albay,bacacay,albay
+0500502000,050502000,Camalig,Mun,,1st,,72042,05,05005,Region V (Bicol Region),Albay,camalig,albay
+0500503000,050503000,Daraga,Mun,,1st,Locsin,133893,05,05005,Region V (Bicol Region),Albay,daraga,albay
+0500504000,050504000,Guinobatan,Mun,,1st,,85786,05,05005,Region V (Bicol Region),Albay,guinobatan,albay
+0500505000,050505000,Jovellar,Mun,,4th,,17795,05,05005,Region V (Bicol Region),Albay,jovellar,albay
+0500506000,050506000,City of Legazpi ,City,CC,2nd,,209533,05,05005,Region V (Bicol Region),Albay,legazpi city,albay
+0500507000,050507000,Libon,Mun,,1st,,75073,05,05005,Region V (Bicol Region),Albay,libon,albay
+0500508000,050508000,City of Ligao,City,CC,4th,,118096,05,05005,Region V (Bicol Region),Albay,ligao city,albay
+0500509000,050509000,Malilipot,Mun,,4th,,40857,05,05005,Region V (Bicol Region),Albay,malilipot,albay
+0500510000,050510000,Malinao,Mun,,3rd,,47395,05,05005,Region V (Bicol Region),Albay,malinao,albay
+0500511000,050511000,Manito,Mun,,4th,,26162,05,05005,Region V (Bicol Region),Albay,manito,albay
+0500512000,050512000,Oas,Mun,,1st,,66084,05,05005,Region V (Bicol Region),Albay,oas,albay
+0500513000,050513000,Pio Duran,Mun,,3rd,,49070,05,05005,Region V (Bicol Region),Albay,pio duran,albay
+0500514000,050514000,Polangui,Mun,,1st,,89176,05,05005,Region V (Bicol Region),Albay,polangui,albay
+0500515000,050515000,Rapu-Rapu,Mun,,3rd,,36151,05,05005,Region V (Bicol Region),Albay,rapu rapu,albay
+0500516000,050516000,Santo Domingo,Mun,,4th,Libog,37765,05,05005,Region V (Bicol Region),Albay,santo domingo,albay
+0500517000,050517000,City of Tabaco,City,CC,4th,,140961,05,05005,Region V (Bicol Region),Albay,tabaco city,albay
+0500518000,050518000,Tiwi,Mun,,1st,,56444,05,05005,Region V (Bicol Region),Albay,tiwi,albay
+0501601000,051601000,Basud,Mun,,3rd,,45133,05,05016,Region V (Bicol Region),Camarines Norte,basud,camarines norte
+0501602000,051602000,Capalonga,Mun,,3rd,,36223,05,05016,Region V (Bicol Region),Camarines Norte,capalonga,camarines norte
+0501603000,051603000,Daet ,Mun,,1st,,111700,05,05016,Region V (Bicol Region),Camarines Norte,daet,camarines norte
+0501604000,051604000,San Lorenzo Ruiz,Mun,,5th,Imelda,15757,05,05016,Region V (Bicol Region),Camarines Norte,san lorenzo ruiz,camarines norte
+0501605000,051605000,Jose Panganiban,Mun,,2nd,,63662,05,05016,Region V (Bicol Region),Camarines Norte,jose panganiban,camarines norte
+0501606000,051606000,Labo,Mun,,1st,,109245,05,05016,Region V (Bicol Region),Camarines Norte,labo,camarines norte
+0501607000,051607000,Mercedes,Mun,,2nd,,55334,05,05016,Region V (Bicol Region),Camarines Norte,mercedes,camarines norte
+0501608000,051608000,Paracale,Mun,,3rd,,60198,05,05016,Region V (Bicol Region),Camarines Norte,paracale,camarines norte
+0501609000,051609000,San Vicente,Mun,,5th,,12579,05,05016,Region V (Bicol Region),Camarines Norte,san vicente,camarines norte
+0501610000,051610000,Santa Elena,Mun,,3rd,,43582,05,05016,Region V (Bicol Region),Camarines Norte,santa elena,camarines norte
+0501611000,051611000,Talisay,Mun,,4th,,27244,05,05016,Region V (Bicol Region),Camarines Norte,talisay,camarines norte
+0501612000,051612000,Vinzons,Mun,,3rd,,49042,05,05016,Region V (Bicol Region),Camarines Norte,vinzons,camarines norte
+0501701000,051701000,Baao,Mun,,3rd,,61493,05,05017,Region V (Bicol Region),Camarines Sur,baao,camarines sur
+0501702000,051702000,Balatan,Mun,,4th,,30669,05,05017,Region V (Bicol Region),Camarines Sur,balatan,camarines sur
+0501703000,051703000,Bato,Mun,,3rd,,52155,05,05017,Region V (Bicol Region),Camarines Sur,bato,camarines sur
+0501704000,051704000,Bombon,Mun,,5th,,17995,05,05017,Region V (Bicol Region),Camarines Sur,bombon,camarines sur
+0501705000,051705000,Buhi,Mun,,1st,,81306,05,05017,Region V (Bicol Region),Camarines Sur,buhi,camarines sur
+0501706000,051706000,Bula,Mun,,2nd,,73143,05,05017,Region V (Bicol Region),Camarines Sur,bula,camarines sur
+0501707000,051707000,Cabusao,Mun,,5th,,19257,05,05017,Region V (Bicol Region),Camarines Sur,cabusao,camarines sur
+0501708000,051708000,Calabanga,Mun,,1st,,88906,05,05017,Region V (Bicol Region),Camarines Sur,calabanga,camarines sur
+0501709000,051709000,Camaligan,Mun,,5th,,25036,05,05017,Region V (Bicol Region),Camarines Sur,camaligan,camarines sur
+0501710000,051710000,Canaman,Mun,,4th,,36205,05,05017,Region V (Bicol Region),Camarines Sur,canaman,camarines sur
+0501711000,051711000,Caramoan,Mun,,2nd,,51728,05,05017,Region V (Bicol Region),Camarines Sur,caramoan,camarines sur
+0501712000,051712000,Del Gallego,Mun,,4th,,26403,05,05017,Region V (Bicol Region),Camarines Sur,del gallego,camarines sur
+0501713000,051713000,Gainza,Mun,,5th,,11584,05,05017,Region V (Bicol Region),Camarines Sur,gainza,camarines sur
+0501714000,051714000,Garchitorena,Mun,,4th,,29436,05,05017,Region V (Bicol Region),Camarines Sur,garchitorena,camarines sur
+0501715000,051715000,Goa,Mun,,2nd,,71368,05,05017,Region V (Bicol Region),Camarines Sur,goa,camarines sur
+0501716000,051716000,City of Iriga,City,CC,4th,,114457,05,05017,Region V (Bicol Region),Camarines Sur,iriga city,camarines sur
+0501717000,051717000,Lagonoy,Mun,,2nd,,56714,05,05017,Region V (Bicol Region),Camarines Sur,lagonoy,camarines sur
+0501718000,051718000,Libmanan,Mun,,1st,,112994,05,05017,Region V (Bicol Region),Camarines Sur,libmanan,camarines sur
+0501719000,051719000,Lupi,Mun,,3rd,,33897,05,05017,Region V (Bicol Region),Camarines Sur,lupi,camarines sur
+0501720000,051720000,Magarao,Mun,,4th,,26742,05,05017,Region V (Bicol Region),Camarines Sur,magarao,camarines sur
+0501721000,051721000,Milaor,Mun,,4th,,33963,05,05017,Region V (Bicol Region),Camarines Sur,milaor,camarines sur
+0501722000,051722000,Minalabac,Mun,,3rd,,53981,05,05017,Region V (Bicol Region),Camarines Sur,minalabac,camarines sur
+0501723000,051723000,Nabua,Mun,,1st,,86490,05,05017,Region V (Bicol Region),Camarines Sur,nabua,camarines sur
+0501724000,051724000,City of Naga,City,ICC,2nd,,209170,05,05017,Region V (Bicol Region),Camarines Sur,naga city,camarines sur
+0501725000,051725000,Ocampo,Mun,,3rd,,51073,05,05017,Region V (Bicol Region),Camarines Sur,ocampo,camarines sur
+0501726000,051726000,Pamplona,Mun,,4th,,39333,05,05017,Region V (Bicol Region),Camarines Sur,pamplona,camarines sur
+0501727000,051727000,Pasacao,Mun,,3rd,,53461,05,05017,Region V (Bicol Region),Camarines Sur,pasacao,camarines sur
+0501728000,051728000,Pili ,Mun,,1st,,99196,05,05017,Region V (Bicol Region),Camarines Sur,pili,camarines sur
+0501729000,051729000,Presentacion,Mun,,4th,Parubcan,22591,05,05017,Region V (Bicol Region),Camarines Sur,presentacion,camarines sur
+0501730000,051730000,Ragay,Mun,,1st,,59770,05,05017,Region V (Bicol Region),Camarines Sur,ragay,camarines sur
+0501731000,051731000,Sagñay,Mun,,4th,,36841,05,05017,Region V (Bicol Region),Camarines Sur,sagnay,camarines sur
+0501732000,051732000,San Fernando,Mun,,4th,,38626,05,05017,Region V (Bicol Region),Camarines Sur,san fernando,camarines sur
+0501733000,051733000,San Jose,Mun,,4th,,43973,05,05017,Region V (Bicol Region),Camarines Sur,san jose,camarines sur
+0501734000,051734000,Sipocot,Mun,,1st,,68169,05,05017,Region V (Bicol Region),Camarines Sur,sipocot,camarines sur
+0501735000,051735000,Siruma,Mun,,4th,,19419,05,05017,Region V (Bicol Region),Camarines Sur,siruma,camarines sur
+0501736000,051736000,Tigaon,Mun,,3rd,,60524,05,05017,Region V (Bicol Region),Camarines Sur,tigaon,camarines sur
+0501737000,051737000,Tinambac,Mun,,1st,,70176,05,05017,Region V (Bicol Region),Camarines Sur,tinambac,camarines sur
+0502001000,052001000,Bagamanoc,Mun,,5th,,11086,05,05020,Region V (Bicol Region),Catanduanes,bagamanoc,catanduanes
+0502002000,052002000,Baras,Mun,,5th,,13484,05,05020,Region V (Bicol Region),Catanduanes,baras,catanduanes
+0502003000,052003000,Bato,Mun,,5th,,21748,05,05020,Region V (Bicol Region),Catanduanes,bato,catanduanes
+0502004000,052004000,Caramoran,Mun,,3rd,,32114,05,05020,Region V (Bicol Region),Catanduanes,caramoran,catanduanes
+0502005000,052005000,Gigmoto,Mun,,5th,,8712,05,05020,Region V (Bicol Region),Catanduanes,gigmoto,catanduanes
+0502006000,052006000,Pandan,Mun,,4th,,21473,05,05020,Region V (Bicol Region),Catanduanes,pandan,catanduanes
+0502007000,052007000,Panganiban,Mun,,5th,Payo,9713,05,05020,Region V (Bicol Region),Catanduanes,panganiban,catanduanes
+0502008000,052008000,San Andres,Mun,,3rd,Calolbon,38480,05,05020,Region V (Bicol Region),Catanduanes,san andres,catanduanes
+0502009000,052009000,San Miguel,Mun,,5th,,15680,05,05020,Region V (Bicol Region),Catanduanes,san miguel,catanduanes
+0502010000,052010000,Viga,Mun,,4th,,22869,05,05020,Region V (Bicol Region),Catanduanes,viga,catanduanes
+0502011000,052011000,Virac ,Mun,,1st,,76520,05,05020,Region V (Bicol Region),Catanduanes,virac,catanduanes
+0504101000,054101000,Aroroy,Mun,,1st,,88351,05,05041,Region V (Bicol Region),Masbate,aroroy,masbate
+0504102000,054102000,Baleno,Mun,,4th,,28855,05,05041,Region V (Bicol Region),Masbate,baleno,masbate
+0504103000,054103000,Balud,Mun,,4th*,,40155,05,05041,Region V (Bicol Region),Masbate,balud,masbate
+0504104000,054104000,Batuan,Mun,,5th,,14610,05,05041,Region V (Bicol Region),Masbate,batuan,masbate
+0504105000,054105000,Cataingan,Mun,,2nd,,50623,05,05041,Region V (Bicol Region),Masbate,cataingan,masbate
+0504106000,054106000,Cawayan,Mun,,2nd,,69265,05,05041,Region V (Bicol Region),Masbate,cawayan,masbate
+0504107000,054107000,Claveria,Mun,,3rd,,42142,05,05041,Region V (Bicol Region),Masbate,claveria,masbate
+0504108000,054108000,Dimasalang,Mun,,4th,,24909,05,05041,Region V (Bicol Region),Masbate,dimasalang,masbate
+0504109000,054109000,Esperanza,Mun,,5th,,17534,05,05041,Region V (Bicol Region),Masbate,esperanza,masbate
+0504110000,054110000,Mandaon,Mun,,3rd,,44122,05,05041,Region V (Bicol Region),Masbate,mandaon,masbate
+0504111000,054111000,City of Masbate ,City,CC,4th,,104522,05,05041,Region V (Bicol Region),Masbate,masbate city,masbate
+0504112000,054112000,Milagros,Mun,,1st,,57538,05,05041,Region V (Bicol Region),Masbate,milagros,masbate
+0504113000,054113000,Mobo,Mun,,4th,,40823,05,05041,Region V (Bicol Region),Masbate,mobo,masbate
+0504114000,054114000,Monreal,Mun,,4th,,25164,05,05041,Region V (Bicol Region),Masbate,monreal,masbate
+0504115000,054115000,Palanas,Mun,,4th,,27322,05,05041,Region V (Bicol Region),Masbate,palanas,masbate
+0504116000,054116000,Pio V. Corpus,Mun,,4th,Limbuhan,23744,05,05041,Region V (Bicol Region),Masbate,pio v corpus,masbate
+0504117000,054117000,Placer,Mun,,2nd,,56340,05,05041,Region V (Bicol Region),Masbate,placer,masbate
+0504118000,054118000,San Fernando,Mun,,5th*,,21600,05,05041,Region V (Bicol Region),Masbate,san fernando,masbate
+0504119000,054119000,San Jacinto,Mun,,4th,,29686,05,05041,Region V (Bicol Region),Masbate,san jacinto,masbate
+0504120000,054120000,San Pascual,Mun,,3rd,,44449,05,05041,Region V (Bicol Region),Masbate,san pascual,masbate
+0504121000,054121000,Uson,Mun,,3rd,,57166,05,05041,Region V (Bicol Region),Masbate,uson,masbate
+0506202000,056202000,Barcelona,Mun,,5th,,20987,05,05062,Region V (Bicol Region),Sorsogon,barcelona,sorsogon
+0506203000,056203000,Bulan,Mun,,1st,,105190,05,05062,Region V (Bicol Region),Sorsogon,bulan,sorsogon
+0506204000,056204000,Bulusan,Mun,,4th,,23932,05,05062,Region V (Bicol Region),Sorsogon,bulusan,sorsogon
+0506205000,056205000,Casiguran,Mun,,4th,,35602,05,05062,Region V (Bicol Region),Sorsogon,casiguran,sorsogon
+0506206000,056206000,Castilla,Mun,,3rd,,60635,05,05062,Region V (Bicol Region),Sorsogon,castilla,sorsogon
+0506207000,056207000,Donsol,Mun,,3rd,,50281,05,05062,Region V (Bicol Region),Sorsogon,donsol,sorsogon
+0506208000,056208000,Gubat,Mun,,2nd,,60294,05,05062,Region V (Bicol Region),Sorsogon,gubat,sorsogon
+0506209000,056209000,Irosin,Mun,,2nd,,59267,05,05062,Region V (Bicol Region),Sorsogon,irosin,sorsogon
+0506210000,056210000,Juban,Mun,,4th,,35297,05,05062,Region V (Bicol Region),Sorsogon,juban,sorsogon
+0506211000,056211000,Magallanes,Mun,,3rd,,37411,05,05062,Region V (Bicol Region),Sorsogon,magallanes,sorsogon
+0506212000,056212000,Matnog,Mun,,3rd,,41989,05,05062,Region V (Bicol Region),Sorsogon,matnog,sorsogon
+0506213000,056213000,Pilar,Mun,,1st,,75793,05,05062,Region V (Bicol Region),Sorsogon,pilar,sorsogon
+0506214000,056214000,Prieto Diaz,Mun,,5th,,22644,05,05062,Region V (Bicol Region),Sorsogon,prieto diaz,sorsogon
+0506215000,056215000,Santa Magdalena,Mun,,5th,,17096,05,05062,Region V (Bicol Region),Sorsogon,santa magdalena,sorsogon
+0506216000,056216000,City of Sorsogon ,City,CC,3rd,,182237,05,05062,Region V (Bicol Region),Sorsogon,sorsogon city,sorsogon
+0600401000,060401000,Altavas,Mun,,4th,,25639,06,06004,Region VI (Western Visayas),Aklan,altavas,aklan
+0600402000,060402000,Balete,Mun,,4th,,30090,06,06004,Region VI (Western Visayas),Aklan,balete,aklan
+0600403000,060403000,Banga,Mun,,3rd,,40318,06,06004,Region VI (Western Visayas),Aklan,banga,aklan
+0600404000,060404000,Batan,Mun,,4th,,33484,06,06004,Region VI (Western Visayas),Aklan,batan,aklan
+0600405000,060405000,Buruanga,Mun,,5th,,19357,06,06004,Region VI (Western Visayas),Aklan,buruanga,aklan
+0600406000,060406000,Ibajay,Mun,,3rd,,52364,06,06004,Region VI (Western Visayas),Aklan,ibajay,aklan
+0600407000,060407000,Kalibo ,Mun,,1st,,89127,06,06004,Region VI (Western Visayas),Aklan,kalibo,aklan
+0600408000,060408000,Lezo,Mun,,5th,,15639,06,06004,Region VI (Western Visayas),Aklan,lezo,aklan
+0600409000,060409000,Libacao,Mun,,3rd,,28272,06,06004,Region VI (Western Visayas),Aklan,libacao,aklan
+0600410000,060410000,Madalag,Mun,,4th,,18890,06,06004,Region VI (Western Visayas),Aklan,madalag,aklan
+0600411000,060411000,Makato,Mun,,4th,,29717,06,06004,Region VI (Western Visayas),Aklan,makato,aklan
+0600412000,060412000,Malay,Mun,,1st,,60077,06,06004,Region VI (Western Visayas),Aklan,malay,aklan
+0600413000,060413000,Malinao,Mun,,4th,,24517,06,06004,Region VI (Western Visayas),Aklan,malinao,aklan
+0600414000,060414000,Nabas,Mun,,4th,,40632,06,06004,Region VI (Western Visayas),Aklan,nabas,aklan
+0600415000,060415000,New Washington,Mun,,3rd,,47955,06,06004,Region VI (Western Visayas),Aklan,new washington,aklan
+0600416000,060416000,Numancia,Mun,,4th,,35693,06,06004,Region VI (Western Visayas),Aklan,numancia,aklan
+0600417000,060417000,Tangalan,Mun,,5th,,23704,06,06004,Region VI (Western Visayas),Aklan,tangalan,aklan
+0600601000,060601000,Anini-Y,Mun,,4th,,22018,06,06006,Region VI (Western Visayas),Antique,anini y,antique
+0600602000,060602000,Barbaza,Mun,,4th,,23359,06,06006,Region VI (Western Visayas),Antique,barbaza,antique
+0600603000,060603000,Belison,Mun,,5th,,14129,06,06006,Region VI (Western Visayas),Antique,belison,antique
+0600604000,060604000,Bugasong,Mun,,3rd,,34676,06,06006,Region VI (Western Visayas),Antique,bugasong,antique
+0600605000,060605000,Caluya,Mun,,1st,,38908,06,06006,Region VI (Western Visayas),Antique,caluya,antique
+0600606000,060606000,Culasi,Mun,,3rd,,44494,06,06006,Region VI (Western Visayas),Antique,culasi,antique
+0600607000,060607000,Tobias Fornier,Mun,,4th,Dao,33816,06,06006,Region VI (Western Visayas),Antique,tobias fornier,antique
+0600608000,060608000,Hamtic,Mun,,3rd,,52685,06,06006,Region VI (Western Visayas),Antique,hamtic,antique
+0600609000,060609000,Laua-An,Mun,,4th,,26580,06,06006,Region VI (Western Visayas),Antique,laua an,antique
+0600610000,060610000,Libertad,Mun,,5th,,17507,06,06006,Region VI (Western Visayas),Antique,libertad,antique
+0600611000,060611000,Pandan,Mun,,4th,,35965,06,06006,Region VI (Western Visayas),Antique,pandan,antique
+0600612000,060612000,Patnongon,Mun,,3rd,,38329,06,06006,Region VI (Western Visayas),Antique,patnongon,antique
+0600613000,060613000,San Jose ,Mun,,1st,,65140,06,06006,Region VI (Western Visayas),Antique,san jose,antique
+0600614000,060614000,San Remigio,Mun,,3rd,,34045,06,06006,Region VI (Western Visayas),Antique,san remigio,antique
+0600615000,060615000,Sebaste,Mun,,4th,,18816,06,06006,Region VI (Western Visayas),Antique,sebaste,antique
+0600616000,060616000,Sibalom,Mun,,2nd,,63833,06,06006,Region VI (Western Visayas),Antique,sibalom,antique
+0600617000,060617000,Tibiao,Mun,,4th,,28703,06,06006,Region VI (Western Visayas),Antique,tibiao,antique
+0600618000,060618000,Valderrama,Mun,,4th,,19971,06,06006,Region VI (Western Visayas),Antique,valderrama,antique
+0601901000,061901000,Cuartero,Mun,,4th,,27993,06,06019,Region VI (Western Visayas),Capiz,cuartero,capiz
+0601902000,061902000,Dao,Mun,,4th,,33842,06,06019,Region VI (Western Visayas),Capiz,dao,capiz
+0601903000,061903000,Dumalag,Mun,,4th,,30098,06,06019,Region VI (Western Visayas),Capiz,dumalag,capiz
+0601904000,061904000,Dumarao,Mun,,2nd,,49506,06,06019,Region VI (Western Visayas),Capiz,dumarao,capiz
+0601905000,061905000,Ivisan,Mun,,4th,,31278,06,06019,Region VI (Western Visayas),Capiz,ivisan,capiz
+0601906000,061906000,Jamindan,Mun,,2nd,,38670,06,06019,Region VI (Western Visayas),Capiz,jamindan,capiz
+0601907000,061907000,Ma-Ayon,Mun,,3rd,,41226,06,06019,Region VI (Western Visayas),Capiz,ma ayon,capiz
+0601908000,061908000,Mambusao,Mun,,3rd,,40690,06,06019,Region VI (Western Visayas),Capiz,mambusao,capiz
+0601909000,061909000,Panay,Mun,,3rd,,48890,06,06019,Region VI (Western Visayas),Capiz,panay,capiz
+0601910000,061910000,Panitan,Mun,,3rd,,42565,06,06019,Region VI (Western Visayas),Capiz,panitan,capiz
+0601911000,061911000,Pilar,Mun,,3rd,,47100,06,06019,Region VI (Western Visayas),Capiz,pilar,capiz
+0601912000,061912000,Pontevedra,Mun,,3rd,,49725,06,06019,Region VI (Western Visayas),Capiz,pontevedra,capiz
+0601913000,061913000,President Roxas,Mun,,4th,,31269,06,06019,Region VI (Western Visayas),Capiz,president roxas,capiz
+0601914000,061914000,City of Roxas ,City,CC,3rd,,179292,06,06019,Region VI (Western Visayas),Capiz,roxas city,capiz
+0601915000,061915000,Sapi-An,Mun,,4th,,26697,06,06019,Region VI (Western Visayas),Capiz,sapi an,capiz
+0601916000,061916000,Sigma,Mun,,4th,,31688,06,06019,Region VI (Western Visayas),Capiz,sigma,capiz
+0601917000,061917000,Tapaz,Mun,,1st,,54423,06,06019,Region VI (Western Visayas),Capiz,tapaz,capiz
+0603001000,063001000,Ajuy,Mun,,2nd,,53462,06,06030,Region VI (Western Visayas),Iloilo,ajuy,iloilo
+0603002000,063002000,Alimodian,Mun,,3rd,,39722,06,06030,Region VI (Western Visayas),Iloilo,alimodian,iloilo
+0603003000,063003000,Anilao,Mun,,4th,,30520,06,06030,Region VI (Western Visayas),Iloilo,anilao,iloilo
+0603004000,063004000,Badiangan,Mun,,4th,,27056,06,06030,Region VI (Western Visayas),Iloilo,badiangan,iloilo
+0603005000,063005000,Balasan,Mun,,4th,,35064,06,06030,Region VI (Western Visayas),Iloilo,balasan,iloilo
+0603006000,063006000,Banate,Mun,,4th,,33376,06,06030,Region VI (Western Visayas),Iloilo,banate,iloilo
+0603007000,063007000,Barotac Nuevo,Mun,,2nd,,58176,06,06030,Region VI (Western Visayas),Iloilo,barotac nuevo,iloilo
+0603008000,063008000,Barotac Viejo,Mun,,3rd,,48614,06,06030,Region VI (Western Visayas),Iloilo,barotac viejo,iloilo
+0603009000,063009000,Batad,Mun,,5th,,22157,06,06030,Region VI (Western Visayas),Iloilo,batad,iloilo
+0603010000,063010000,Bingawan,Mun,,5th,,16164,06,06030,Region VI (Western Visayas),Iloilo,bingawan,iloilo
+0603012000,063012000,Cabatuan,Mun,,2nd,,61110,06,06030,Region VI (Western Visayas),Iloilo,cabatuan,iloilo
+0603013000,063013000,Calinog,Mun,,1st,,62853,06,06030,Region VI (Western Visayas),Iloilo,calinog,iloilo
+0603014000,063014000,Carles,Mun,,2nd,,72637,06,06030,Region VI (Western Visayas),Iloilo,carles,iloilo
+0603015000,063015000,Concepcion,Mun,,3rd,,44633,06,06030,Region VI (Western Visayas),Iloilo,concepcion,iloilo
+0603016000,063016000,Dingle,Mun,,3rd,,45965,06,06030,Region VI (Western Visayas),Iloilo,dingle,iloilo
+0603017000,063017000,Dueñas,Mun,,4th,,34597,06,06030,Region VI (Western Visayas),Iloilo,duenas,iloilo
+0603018000,063018000,Dumangas,Mun,,1st,,73899,06,06030,Region VI (Western Visayas),Iloilo,dumangas,iloilo
+0603019000,063019000,Estancia,Mun,,2nd,,53200,06,06030,Region VI (Western Visayas),Iloilo,estancia,iloilo
+0603020000,063020000,Guimbal,Mun,,4th,,35022,06,06030,Region VI (Western Visayas),Iloilo,guimbal,iloilo
+0603021000,063021000,Igbaras,Mun,,3rd,,32197,06,06030,Region VI (Western Visayas),Iloilo,igbaras,iloilo
+0603023000,063023000,Janiuay,Mun,,1st,,66786,06,06030,Region VI (Western Visayas),Iloilo,janiuay,iloilo
+0603025000,063025000,Lambunao,Mun,,1st,,81236,06,06030,Region VI (Western Visayas),Iloilo,lambunao,iloilo
+0603026000,063026000,Leganes,Mun,,4th,,34725,06,06030,Region VI (Western Visayas),Iloilo,leganes,iloilo
+0603027000,063027000,Lemery,Mun,,4th,,31414,06,06030,Region VI (Western Visayas),Iloilo,lemery,iloilo
+0603028000,063028000,Leon,Mun,,2nd,,51990,06,06030,Region VI (Western Visayas),Iloilo,leon,iloilo
+0603029000,063029000,Maasin,Mun,,3rd,,38461,06,06030,Region VI (Western Visayas),Iloilo,maasin,iloilo
+0603030000,063030000,Miagao,Mun,,1st,,68115,06,06030,Region VI (Western Visayas),Iloilo,miagao,iloilo
+0603031000,063031000,Mina,Mun,,5th,,24042,06,06030,Region VI (Western Visayas),Iloilo,mina,iloilo
+0603032000,063032000,New Lucena,Mun,,4th,,24314,06,06030,Region VI (Western Visayas),Iloilo,new lucena,iloilo
+0603034000,063034000,Oton,Mun,,1st,,98509,06,06030,Region VI (Western Visayas),Iloilo,oton,iloilo
+0603035000,063035000,City of Passi,City,CC,4th,,88873,06,06030,Region VI (Western Visayas),Iloilo,passi city,iloilo
+0603036000,063036000,Pavia,Mun,,2nd,,70388,06,06030,Region VI (Western Visayas),Iloilo,pavia,iloilo
+0603037000,063037000,Pototan,Mun,,1st,,78298,06,06030,Region VI (Western Visayas),Iloilo,pototan,iloilo
+0603038000,063038000,San Dionisio,Mun,,4th,,39048,06,06030,Region VI (Western Visayas),Iloilo,san dionisio,iloilo
+0603039000,063039000,San Enrique,Mun,,3rd,,36911,06,06030,Region VI (Western Visayas),Iloilo,san enrique,iloilo
+0603040000,063040000,San Joaquin,Mun,,2nd,,52617,06,06030,Region VI (Western Visayas),Iloilo,san joaquin,iloilo
+0603041000,063041000,San Miguel,Mun,,4th,,30115,06,06030,Region VI (Western Visayas),Iloilo,san miguel,iloilo
+0603042000,063042000,San Rafael,Mun,,5th,,17795,06,06030,Region VI (Western Visayas),Iloilo,san rafael,iloilo
+0603043000,063043000,Santa Barbara,Mun,,2nd,,67630,06,06030,Region VI (Western Visayas),Iloilo,santa barbara,iloilo
+0603044000,063044000,Sara,Mun,,2nd,,54637,06,06030,Region VI (Western Visayas),Iloilo,sara,iloilo
+0603045000,063045000,Tigbauan,Mun,,2nd,,65245,06,06030,Region VI (Western Visayas),Iloilo,tigbauan,iloilo
+0603046000,063046000,Tubungan,Mun,,4th,,23021,06,06030,Region VI (Western Visayas),Iloilo,tubungan,iloilo
+0603047000,063047000,Zarraga,Mun,,4th,,27305,06,06030,Region VI (Western Visayas),Iloilo,zarraga,iloilo
+0607901000,067901000,Buenavista,Mun,,2nd,,52899,06,06079,Region VI (Western Visayas),Guimaras,buenavista,guimaras
+0607902000,067902000,Jordan ,Mun,,3rd,,39566,06,06079,Region VI (Western Visayas),Guimaras,jordan,guimaras
+0607903000,067903000,Nueva Valencia,Mun,,3rd,,42771,06,06079,Region VI (Western Visayas),Guimaras,nueva valencia,guimaras
+0607904000,067904000,San Lorenzo,Mun,,5th,,29444,06,06079,Region VI (Western Visayas),Guimaras,san lorenzo,guimaras
+0607905000,067905000,Sibunag,Mun,,4th,,23162,06,06079,Region VI (Western Visayas),Guimaras,sibunag,guimaras
+0631000000,063022000,City of Iloilo ,City,HUC,1st,,457626,06,06310,Region VI (Western Visayas),Region VI (Western Visayas),iloilo city,region vi (western visayas)
+1804502000,064502000,City of Bago,City,CC,2nd,,191210,18,18045,Negros Island Region (NIR),Negros Occidental,bago city,negros occidental
+1804503000,064503000,Binalbagan,Mun,,1st,,71407,18,18045,Negros Island Region (NIR),Negros Occidental,binalbagan,negros occidental
+1804504000,064504000,City of Cadiz,City,CC,2nd,,158544,18,18045,Negros Island Region (NIR),Negros Occidental,cadiz city,negros occidental
+1804505000,064505000,Calatrava,Mun,,1st,,82540,18,18045,Negros Island Region (NIR),Negros Occidental,calatrava,negros occidental
+1804506000,064506000,Candoni,Mun,,4th,,23751,18,18045,Negros Island Region (NIR),Negros Occidental,candoni,negros occidental
+1804507000,064507000,Cauayan,Mun,,1st,,108480,18,18045,Negros Island Region (NIR),Negros Occidental,cauayan,negros occidental
+1804508000,064508000,Enrique B. Magalona,Mun,,2nd,Saravia,64290,18,18045,Negros Island Region (NIR),Negros Occidental,enrique b magalona,negros occidental
+1804509000,064509000,City of Escalante,City,CC,4th,,96159,18,18045,Negros Island Region (NIR),Negros Occidental,escalante city,negros occidental
+1804510000,064510000,City of Himamaylan,City,CC,3rd,,116240,18,18045,Negros Island Region (NIR),Negros Occidental,himamaylan city,negros occidental
+1804511000,064511000,Hinigaran,Mun,,1st,,88909,18,18045,Negros Island Region (NIR),Negros Occidental,hinigaran,negros occidental
+1804512000,064512000,Hinoba-an,Mun,,1st,Asia,60865,18,18045,Negros Island Region (NIR),Negros Occidental,hinoba an,negros occidental
+1804513000,064513000,Ilog,Mun,,2nd,,59855,18,18045,Negros Island Region (NIR),Negros Occidental,ilog,negros occidental
+1804514000,064514000,Isabela,Mun,,2nd,,64516,18,18045,Negros Island Region (NIR),Negros Occidental,isabela,negros occidental
+1804515000,064515000,City of Kabankalan,City,CC,1st,,200198,18,18045,Negros Island Region (NIR),Negros Occidental,kabankalan city,negros occidental
+1804516000,064516000,City of La Carlota,City,CC,4th,,66664,18,18045,Negros Island Region (NIR),Negros Occidental,la carlota city,negros occidental
+1804517000,064517000,La Castellana,Mun,,1st,,79492,18,18045,Negros Island Region (NIR),Negros Occidental,la castellana,negros occidental
+1804518000,064518000,Manapla,Mun,,2nd,,55083,18,18045,Negros Island Region (NIR),Negros Occidental,manapla,negros occidental
+1804519000,064519000,Moises Padilla,Mun,,3rd,Magallon,43462,18,18045,Negros Island Region (NIR),Negros Occidental,moises padilla,negros occidental
+1804520000,064520000,Murcia,Mun,,1st,,88868,18,18045,Negros Island Region (NIR),Negros Occidental,murcia,negros occidental
+1804521000,064521000,Pontevedra,Mun,,3rd,,54502,18,18045,Negros Island Region (NIR),Negros Occidental,pontevedra,negros occidental
+1804522000,064522000,Pulupandan,Mun,,3rd,,30117,18,18045,Negros Island Region (NIR),Negros Occidental,pulupandan,negros occidental
+1804523000,064523000,City of Sagay,City,CC,3rd,,148894,18,18045,Negros Island Region (NIR),Negros Occidental,sagay city,negros occidental
+1804524000,064524000,City of San Carlos,City,CC,2nd,,132650,18,18045,Negros Island Region (NIR),Negros Occidental,san carlos city,negros occidental
+1804525000,064525000,San Enrique,Mun,,4th,,24177,18,18045,Negros Island Region (NIR),Negros Occidental,san enrique,negros occidental
+1804526000,064526000,City of Silay,City,CC,3rd,,130478,18,18045,Negros Island Region (NIR),Negros Occidental,silay city,negros occidental
+1804527000,064527000,City of Sipalay,City,CC,4th,,72448,18,18045,Negros Island Region (NIR),Negros Occidental,sipalay city,negros occidental
+1804528000,064528000,City of Talisay,City,CC,4th,,108909,18,18045,Negros Island Region (NIR),Negros Occidental,talisay city,negros occidental
+1804529000,064529000,Toboso,Mun,,3rd,,43445,18,18045,Negros Island Region (NIR),Negros Occidental,toboso,negros occidental
+1804530000,064530000,Valladolid,Mun,,4th,,39996,18,18045,Negros Island Region (NIR),Negros Occidental,valladolid,negros occidental
+1804531000,064531000,City of Victorias,City,CC,4th,,90101,18,18045,Negros Island Region (NIR),Negros Occidental,victorias city,negros occidental
+1804532000,064532000,Salvador Benedicto,Mun,,4th,,26922,18,18045,Negros Island Region (NIR),Negros Occidental,salvador benedicto,negros occidental
+1804601000,074601000,Amlan,Mun,,4th,Ayuquitan,25513,18,18046,Negros Island Region (NIR),Negros Oriental,amlan,negros oriental
+1804602000,074602000,Ayungon,Mun,,2nd,,47102,18,18046,Negros Island Region (NIR),Negros Oriental,ayungon,negros oriental
+1804603000,074603000,Bacong,Mun,,4th,,41207,18,18046,Negros Island Region (NIR),Negros Oriental,bacong,negros oriental
+1804604000,074604000,City of Bais,City,CC,3rd,,84317,18,18046,Negros Island Region (NIR),Negros Oriental,bais city,negros oriental
+1804605000,074605000,Basay,Mun,,4th,,28531,18,18046,Negros Island Region (NIR),Negros Oriental,basay,negros oriental
+1804606000,074606000,City of Bayawan,City,CC,2nd,Tulong,122747,18,18046,Negros Island Region (NIR),Negros Oriental,bayawan city,negros oriental
+1804607000,074607000,Bindoy,Mun,,3rd,Payabon,40308,18,18046,Negros Island Region (NIR),Negros Oriental,bindoy,negros oriental
+1804608000,074608000,City of Canlaon,City,CC,4th,,58822,18,18046,Negros Island Region (NIR),Negros Oriental,canlaon city,negros oriental
+1804609000,074609000,Dauin,Mun,,4th,,30018,18,18046,Negros Island Region (NIR),Negros Oriental,dauin,negros oriental
+1804610000,074610000,City of Dumaguete ,City,CC,3rd,,134103,18,18046,Negros Island Region (NIR),Negros Oriental,dumaguete city,negros oriental
+1804611000,074611000,City of Guihulngan,City,CC,5th,,102656,18,18046,Negros Island Region (NIR),Negros Oriental,guihulngan city,negros oriental
+1804612000,074612000,Jimalalud,Mun,,4th,,32256,18,18046,Negros Island Region (NIR),Negros Oriental,jimalalud,negros oriental
+1804613000,074613000,La Libertad,Mun,,3rd,,41089,18,18046,Negros Island Region (NIR),Negros Oriental,la libertad,negros oriental
+1804614000,074614000,Mabinay,Mun,,1st,,82953,18,18046,Negros Island Region (NIR),Negros Oriental,mabinay,negros oriental
+1804615000,074615000,Manjuyod,Mun,,2nd,,44799,18,18046,Negros Island Region (NIR),Negros Oriental,manjuyod,negros oriental
+1804616000,074616000,Pamplona,Mun,,3rd,,39805,18,18046,Negros Island Region (NIR),Negros Oriental,pamplona,negros oriental
+1804617000,074617000,San Jose,Mun,,5th,,21956,18,18046,Negros Island Region (NIR),Negros Oriental,san jose,negros oriental
+1804618000,074618000,Santa Catalina,Mun,,1st,,77501,18,18046,Negros Island Region (NIR),Negros Oriental,santa catalina,negros oriental
+1804619000,074619000,Siaton,Mun,,1st,,83082,18,18046,Negros Island Region (NIR),Negros Oriental,siaton,negros oriental
+1804620000,074620000,Sibulan,Mun,,2nd,,64343,18,18046,Negros Island Region (NIR),Negros Oriental,sibulan,negros oriental
+1804621000,074621000,City of Tanjay,City,CC,4th,,82642,18,18046,Negros Island Region (NIR),Negros Oriental,tanjay city,negros oriental
+1804622000,074622000,Tayasan,Mun,,3rd,,38159,18,18046,Negros Island Region (NIR),Negros Oriental,tayasan,negros oriental
+1804623000,074623000,Valencia,Mun,,1st,Luzurriaga,38733,18,18046,Negros Island Region (NIR),Negros Oriental,valencia,negros oriental
+1804624000,074624000,Vallehermoso,Mun,,3rd,,40779,18,18046,Negros Island Region (NIR),Negros Oriental,vallehermoso,negros oriental
+1804625000,074625000,Zamboanguita,Mun,,4th,,29569,18,18046,Negros Island Region (NIR),Negros Oriental,zamboanguita,negros oriental
+1806101000,076101000,Enrique Villanueva,Mun,,5th,,6790,18,18061,Negros Island Region (NIR),Siquijor,enrique villanueva,siquijor
+1806102000,076102000,Larena,Mun,,5th,,14454,18,18061,Negros Island Region (NIR),Siquijor,larena,siquijor
+1806103000,076103000,Lazi,Mun,,4th,,22488,18,18061,Negros Island Region (NIR),Siquijor,lazi,siquijor
+1806104000,076104000,Maria,Mun,,5th,,14385,18,18061,Negros Island Region (NIR),Siquijor,maria,siquijor
+1806105000,076105000,San Juan,Mun,,5th,,16363,18,18061,Negros Island Region (NIR),Siquijor,san juan,siquijor
+1806106000,076106000,Siquijor ,Mun,,4th,,28915,18,18061,Negros Island Region (NIR),Siquijor,siquijor,siquijor
+1830200000,064501000,City of Bacolod ,City,HUC,1st,,600783,18,18302,Negros Island Region (NIR),Negros Island Region (NIR),bacolod city,negros island region (nir)
+0701201000,071201000,Alburquerque,Mun,,5th,,11246,07,07012,Region VII (Central Visayas),Bohol,alburquerque,bohol
+0701202000,071202000,Alicia,Mun,,4th,,24374,07,07012,Region VII (Central Visayas),Bohol,alicia,bohol
+0701203000,071203000,Anda,Mun,,5th,,17778,07,07012,Region VII (Central Visayas),Bohol,anda,bohol
+0701204000,071204000,Antequera,Mun,,4th,,14990,07,07012,Region VII (Central Visayas),Bohol,antequera,bohol
+0701205000,071205000,Baclayon,Mun,,4th,,22461,07,07012,Region VII (Central Visayas),Bohol,baclayon,bohol
+0701206000,071206000,Balilihan,Mun,,4th,,18694,07,07012,Region VII (Central Visayas),Bohol,balilihan,bohol
+0701207000,071207000,Batuan,Mun,,5th,,13845,07,07012,Region VII (Central Visayas),Bohol,batuan,bohol
+0701208000,071208000,Bilar,Mun,,4th,,18512,07,07012,Region VII (Central Visayas),Bohol,bilar,bohol
+0701209000,071209000,Buenavista,Mun,,4th,,29711,07,07012,Region VII (Central Visayas),Bohol,buenavista,bohol
+0701210000,071210000,Calape,Mun,,3rd,,33079,07,07012,Region VII (Central Visayas),Bohol,calape,bohol
+0701211000,071211000,Candijay,Mun,,4th,,30119,07,07012,Region VII (Central Visayas),Bohol,candijay,bohol
+0701212000,071212000,Carmen,Mun,,1st,,49191,07,07012,Region VII (Central Visayas),Bohol,carmen,bohol
+0701213000,071213000,Catigbian,Mun,,4th,,23805,07,07012,Region VII (Central Visayas),Bohol,catigbian,bohol
+0701214000,071214000,Clarin,Mun,,5th,,21158,07,07012,Region VII (Central Visayas),Bohol,clarin,bohol
+0701215000,071215000,Corella,Mun,,5th,,9479,07,07012,Region VII (Central Visayas),Bohol,corella,bohol
+0701216000,071216000,Cortes,Mun,,5th,,18344,07,07012,Region VII (Central Visayas),Bohol,cortes,bohol
+0701217000,071217000,Dagohoy,Mun,,5th,,19874,07,07012,Region VII (Central Visayas),Bohol,dagohoy,bohol
+0701218000,071218000,Danao,Mun,,4th*,,20245,07,07012,Region VII (Central Visayas),Bohol,danao,bohol
+0701219000,071219000,Dauis,Mun,,4th,,52492,07,07012,Region VII (Central Visayas),Bohol,dauis,bohol
+0701220000,071220000,Dimiao,Mun,,4th,,14889,07,07012,Region VII (Central Visayas),Bohol,dimiao,bohol
+0701221000,071221000,Duero,Mun,,4th,,18861,07,07012,Region VII (Central Visayas),Bohol,duero,bohol
+0701222000,071222000,Garcia Hernandez,Mun,,4th,,24430,07,07012,Region VII (Central Visayas),Bohol,garcia hernandez,bohol
+0701223000,071223000,Guindulman,Mun,,4th,,34104,07,07012,Region VII (Central Visayas),Bohol,guindulman,bohol
+0701224000,071224000,Inabanga,Mun,,3rd,,48534,07,07012,Region VII (Central Visayas),Bohol,inabanga,bohol
+0701225000,071225000,Jagna,Mun,,3rd,,35832,07,07012,Region VII (Central Visayas),Bohol,jagna,bohol
+0701226000,071226000,Getafe,Mun,,3rd,,33422,07,07012,Region VII (Central Visayas),Bohol,getafe,bohol
+0701227000,071227000,Lila,Mun,,5th,,12240,07,07012,Region VII (Central Visayas),Bohol,lila,bohol
+0701228000,071228000,Loay,Mun,,5th,,17855,07,07012,Region VII (Central Visayas),Bohol,loay,bohol
+0701229000,071229000,Loboc,Mun,,4th,,17418,07,07012,Region VII (Central Visayas),Bohol,loboc,bohol
+0701230000,071230000,Loon,Mun,,2nd,,44224,07,07012,Region VII (Central Visayas),Bohol,loon,bohol
+0701231000,071231000,Mabini,Mun,,4th,,28701,07,07012,Region VII (Central Visayas),Bohol,mabini,bohol
+0701232000,071232000,Maribojoc,Mun,,4th,,22178,07,07012,Region VII (Central Visayas),Bohol,maribojoc,bohol
+0701233000,071233000,Panglao,Mun,,4th,,39839,07,07012,Region VII (Central Visayas),Bohol,panglao,bohol
+0701234000,071234000,Pilar,Mun,,4th,,28693,07,07012,Region VII (Central Visayas),Bohol,pilar,bohol
+0701235000,071235000,President Carlos P. Garcia,Mun,,4th,Pitogo,23625,07,07012,Region VII (Central Visayas),Bohol,president carlos p garcia,bohol
+0701236000,071236000,Sagbayan,Mun,,4th,Borja,24335,07,07012,Region VII (Central Visayas),Bohol,sagbayan,bohol
+0701237000,071237000,San Isidro,Mun,,5th*,,9909,07,07012,Region VII (Central Visayas),Bohol,san isidro,bohol
+0701238000,071238000,San Miguel,Mun,,4th,,25356,07,07012,Region VII (Central Visayas),Bohol,san miguel,bohol
+0701239000,071239000,Sevilla,Mun,,5th,,11376,07,07012,Region VII (Central Visayas),Bohol,sevilla,bohol
+0701240000,071240000,Sierra Bullones,Mun,,3rd,,26095,07,07012,Region VII (Central Visayas),Bohol,sierra bullones,bohol
+0701241000,071241000,Sikatuna,Mun,,5th,,6906,07,07012,Region VII (Central Visayas),Bohol,sikatuna,bohol
+0701242000,071242000,City of Tagbilaran ,City,CC,3rd,,104976,07,07012,Region VII (Central Visayas),Bohol,tagbilaran city,bohol
+0701243000,071243000,Talibon,Mun,,1st,,71272,07,07012,Region VII (Central Visayas),Bohol,talibon,bohol
+0701244000,071244000,Trinidad,Mun,,3rd,,35119,07,07012,Region VII (Central Visayas),Bohol,trinidad,bohol
+0701245000,071245000,Tubigon,Mun,,1st,,47886,07,07012,Region VII (Central Visayas),Bohol,tubigon,bohol
+0701246000,071246000,Ubay,Mun,,1st,,81799,07,07012,Region VII (Central Visayas),Bohol,ubay,bohol
+0701247000,071247000,Valencia,Mun,,4th,,28392,07,07012,Region VII (Central Visayas),Bohol,valencia,bohol
+0701248000,071248000,Bien Unido,Mun,,4th,,26666,07,07012,Region VII (Central Visayas),Bohol,bien unido,bohol
+0702201000,072201000,Alcantara,Mun,,5th,,16910,07,07022,Region VII (Central Visayas),Cebu,alcantara,cebu
+0702202000,072202000,Alcoy,Mun,,5th,,19186,07,07022,Region VII (Central Visayas),Cebu,alcoy,cebu
+0702203000,072203000,Alegria,Mun,,4th,,25620,07,07022,Region VII (Central Visayas),Cebu,alegria,cebu
+0702204000,072204000,Aloguinsan,Mun,,4th,,34466,07,07022,Region VII (Central Visayas),Cebu,aloguinsan,cebu
+0702205000,072205000,Argao,Mun,,1st,,78187,07,07022,Region VII (Central Visayas),Cebu,argao,cebu
+0702206000,072206000,Asturias,Mun,,3rd,,55397,07,07022,Region VII (Central Visayas),Cebu,asturias,cebu
+0702207000,072207000,Badian,Mun,,3rd,,43735,07,07022,Region VII (Central Visayas),Cebu,badian,cebu
+0702208000,072208000,Balamban,Mun,,1st,,95136,07,07022,Region VII (Central Visayas),Cebu,balamban,cebu
+0702209000,072209000,Bantayan,Mun,,1st,,86247,07,07022,Region VII (Central Visayas),Cebu,bantayan,cebu
+0702210000,072210000,Barili,Mun,,2nd,,80715,07,07022,Region VII (Central Visayas),Cebu,barili,cebu
+0702211000,072211000,City of Bogo,City,CC,6th,,88867,07,07022,Region VII (Central Visayas),Cebu,bogo city,cebu
+0702212000,072212000,Boljoon,Mun,,5th,,17525,07,07022,Region VII (Central Visayas),Cebu,boljoon,cebu
+0702213000,072213000,Borbon,Mun,,4th*,,38187,07,07022,Region VII (Central Visayas),Cebu,borbon,cebu
+0702214000,072214000,City of Carcar,City,CC,5th,,136453,07,07022,Region VII (Central Visayas),Cebu,carcar city,cebu
+0702215000,072215000,Carmen,Mun,,3rd,,57897,07,07022,Region VII (Central Visayas),Cebu,carmen,cebu
+0702216000,072216000,Catmon,Mun,,4th,,33745,07,07022,Region VII (Central Visayas),Cebu,catmon,cebu
+0702218000,072218000,Compostela,Mun,,3rd,,55874,07,07022,Region VII (Central Visayas),Cebu,compostela,cebu
+0702219000,072219000,Consolacion,Mun,,1st,,148012,07,07022,Region VII (Central Visayas),Cebu,consolacion,cebu
+0702220000,072220000,Cordova,Mun,,3rd,,70595,07,07022,Region VII (Central Visayas),Cebu,cordova,cebu
+0702221000,072221000,Daanbantayan,Mun,,1st,,93502,07,07022,Region VII (Central Visayas),Cebu,daanbantayan,cebu
+0702222000,072222000,Dalaguete,Mun,,1st,,74596,07,07022,Region VII (Central Visayas),Cebu,dalaguete,cebu
+0702223000,072223000,Danao City,City,CC,3rd,,156321,07,07022,Region VII (Central Visayas),Cebu,danao city,cebu
+0702224000,072224000,Dumanjug,Mun,,3rd,,57823,07,07022,Region VII (Central Visayas),Cebu,dumanjug,cebu
+0702225000,072225000,Ginatilan,Mun,,5th,,16906,07,07022,Region VII (Central Visayas),Cebu,ginatilan,cebu
+0702227000,072227000,Liloan,Mun,,1st,,153197,07,07022,Region VII (Central Visayas),Cebu,liloan,cebu
+0702228000,072228000,Madridejos,Mun,,4th,,42039,07,07022,Region VII (Central Visayas),Cebu,madridejos,cebu
+0702229000,072229000,Malabuyoc,Mun,,5th,,19770,07,07022,Region VII (Central Visayas),Cebu,malabuyoc,cebu
+0702231000,072231000,Medellin,Mun,,2nd,,59605,07,07022,Region VII (Central Visayas),Cebu,medellin,cebu
+0702232000,072232000,Minglanilla,Mun,,1st,,151002,07,07022,Region VII (Central Visayas),Cebu,minglanilla,cebu
+0702233000,072233000,Moalboal,Mun,,4th,,36930,07,07022,Region VII (Central Visayas),Cebu,moalboal,cebu
+0702234000,072234000,City of Naga,City,CC,5th,,133184,07,07022,Region VII (Central Visayas),Cebu,naga city,cebu
+0702235000,072235000,Oslob,Mun,,4th,,29264,07,07022,Region VII (Central Visayas),Cebu,oslob,cebu
+0702236000,072236000,Pilar,Mun,,5th,,12506,07,07022,Region VII (Central Visayas),Cebu,pilar,cebu
+0702237000,072237000,Pinamungajan,Mun,,2nd,,75131,07,07022,Region VII (Central Visayas),Cebu,pinamungajan,cebu
+0702238000,072238000,Poro,Mun,,4th,,26232,07,07022,Region VII (Central Visayas),Cebu,poro,cebu
+0702239000,072239000,Ronda,Mun,,5th*,,21005,07,07022,Region VII (Central Visayas),Cebu,ronda,cebu
+0702240000,072240000,Samboan,Mun,,5th,,20373,07,07022,Region VII (Central Visayas),Cebu,samboan,cebu
+0702241000,072241000,San Fernando,Mun,,2nd,,72224,07,07022,Region VII (Central Visayas),Cebu,san fernando,cebu
+0702242000,072242000,San Francisco,Mun,,3rd,,59236,07,07022,Region VII (Central Visayas),Cebu,san francisco,cebu
+0702243000,072243000,San Remigio,Mun,,3rd,,65744,07,07022,Region VII (Central Visayas),Cebu,san remigio,cebu
+0702244000,072244000,Santa Fe,Mun,,4th,,34471,07,07022,Region VII (Central Visayas),Cebu,santa fe,cebu
+0702245000,072245000,Santander,Mun,,4th,,18527,07,07022,Region VII (Central Visayas),Cebu,santander,cebu
+0702246000,072246000,Sibonga,Mun,,3rd,,53424,07,07022,Region VII (Central Visayas),Cebu,sibonga,cebu
+0702247000,072247000,Sogod,Mun,,4th*,,39447,07,07022,Region VII (Central Visayas),Cebu,sogod,cebu
+0702248000,072248000,Tabogon,Mun,,3rd,,41432,07,07022,Region VII (Central Visayas),Cebu,tabogon,cebu
+0702249000,072249000,Tabuelan,Mun,,4th,,28907,07,07022,Region VII (Central Visayas),Cebu,tabuelan,cebu
+0702250000,072250000,City of Talisay,City,CC,3rd,,263048,07,07022,Region VII (Central Visayas),Cebu,talisay city,cebu
+0702251000,072251000,City of Toledo,City,CC,3rd,,207314,07,07022,Region VII (Central Visayas),Cebu,toledo city,cebu
+0702252000,072252000,Tuburan,Mun,,2nd,,68167,07,07022,Region VII (Central Visayas),Cebu,tuburan,cebu
+0702253000,072253000,Tudela,Mun,,5th,,11304,07,07022,Region VII (Central Visayas),Cebu,tudela,cebu
+0730600000,072217000,City of Cebu ,City,HUC,1st,,964169,07,07306,Region VII (Central Visayas),Region VII (Central Visayas),cebu city,region vii (central visayas)
+0731100000,072226000,City of Lapu-Lapu,City,HUC,1st,Opon,497604,07,07311,Region VII (Central Visayas),Region VII (Central Visayas),lapu lapu city,region vii (central visayas)
+0731300000,072230000,City of Mandaue,City,HUC,1st,,364116,07,07313,Region VII (Central Visayas),Region VII (Central Visayas),mandaue city,region vii (central visayas)
+0802601000,082601000,Arteche,Mun,,3rd,,16360,08,08026,Region VIII (Eastern Visayas),Eastern Samar,arteche,eastern samar
+0802602000,082602000,Balangiga,Mun,,4th,,14341,08,08026,Region VIII (Eastern Visayas),Eastern Samar,balangiga,eastern samar
+0802603000,082603000,Balangkayan,Mun,,5th,,10185,08,08026,Region VIII (Eastern Visayas),Eastern Samar,balangkayan,eastern samar
+0802604000,082604000,City of Borongan ,City,CC,1st (as Mun),,71961,08,08026,Region VIII (Eastern Visayas),Eastern Samar,borongan city,eastern samar
+0802605000,082605000,Can-Avid,Mun,,4th,,21682,08,08026,Region VIII (Eastern Visayas),Eastern Samar,can avid,eastern samar
+0802606000,082606000,Dolores,Mun,,3rd*,,44626,08,08026,Region VIII (Eastern Visayas),Eastern Samar,dolores,eastern samar
+0802607000,082607000,General Macarthur,Mun,,5th*,,14411,08,08026,Region VIII (Eastern Visayas),Eastern Samar,general macarthur,eastern samar
+0802608000,082608000,Giporlos,Mun,,5th*,,13117,08,08026,Region VIII (Eastern Visayas),Eastern Samar,giporlos,eastern samar
+0802609000,082609000,Guiuan,Mun,,2nd,,53361,08,08026,Region VIII (Eastern Visayas),Eastern Samar,guiuan,eastern samar
+0802610000,082610000,Hernani,Mun,,5th,,8531,08,08026,Region VIII (Eastern Visayas),Eastern Samar,hernani,eastern samar
+0802611000,082611000,Jipapad,Mun,,5th,,8439,08,08026,Region VIII (Eastern Visayas),Eastern Samar,jipapad,eastern samar
+0802612000,082612000,Lawaan,Mun,,5th*,,13003,08,08026,Region VIII (Eastern Visayas),Eastern Samar,lawaan,eastern samar
+0802613000,082613000,Llorente,Mun,,3rd,,21459,08,08026,Region VIII (Eastern Visayas),Eastern Samar,llorente,eastern samar
+0802614000,082614000,Maslog,Mun,,5th*,,5463,08,08026,Region VIII (Eastern Visayas),Eastern Samar,maslog,eastern samar
+0802615000,082615000,Maydolong,Mun,,4th*,,15314,08,08026,Region VIII (Eastern Visayas),Eastern Samar,maydolong,eastern samar
+0802616000,082616000,Mercedes,Mun,,5th*,,6112,08,08026,Region VIII (Eastern Visayas),Eastern Samar,mercedes,eastern samar
+0802617000,082617000,Oras,Mun,,3rd,,37451,08,08026,Region VIII (Eastern Visayas),Eastern Samar,oras,eastern samar
+0802618000,082618000,Quinapondan,Mun,,5th,,14507,08,08026,Region VIII (Eastern Visayas),Eastern Samar,quinapondan,eastern samar
+0802619000,082619000,Salcedo,Mun,,5th*,,22136,08,08026,Region VIII (Eastern Visayas),Eastern Samar,salcedo,eastern samar
+0802620000,082620000,San Julian,Mun,,5th,,14800,08,08026,Region VIII (Eastern Visayas),Eastern Samar,san julian,eastern samar
+0802621000,082621000,San Policarpo,Mun,,5th*,,15365,08,08026,Region VIII (Eastern Visayas),Eastern Samar,san policarpo,eastern samar
+0802622000,082622000,Sulat,Mun,,4th,,15758,08,08026,Region VIII (Eastern Visayas),Eastern Samar,sulat,eastern samar
+0802623000,082623000,Taft,Mun,,4th,,18786,08,08026,Region VIII (Eastern Visayas),Eastern Samar,taft,eastern samar
+0803701000,083701000,Abuyog,Mun,,1st*,,61216,08,08037,Region VIII (Eastern Visayas),Leyte,abuyog,leyte
+0803702000,083702000,Alangalang,Mun,,2nd,,57185,08,08037,Region VIII (Eastern Visayas),Leyte,alangalang,leyte
+0803703000,083703000,Albuera,Mun,,3rd*,,47151,08,08037,Region VIII (Eastern Visayas),Leyte,albuera,leyte
+0803705000,083705000,Babatngon,Mun,,4th*,,28823,08,08037,Region VIII (Eastern Visayas),Leyte,babatngon,leyte
+0803706000,083706000,Barugo,Mun,,4th,,34497,08,08037,Region VIII (Eastern Visayas),Leyte,barugo,leyte
+0803707000,083707000,Bato,Mun,,4th*,,38505,08,08037,Region VIII (Eastern Visayas),Leyte,bato,leyte
+0803708000,083708000,City of Baybay,City,CC,1st (as Mun),,111848,08,08037,Region VIII (Eastern Visayas),Leyte,baybay city,leyte
+0803710000,083710000,Burauen,Mun,,1st,,52511,08,08037,Region VIII (Eastern Visayas),Leyte,burauen,leyte
+0803713000,083713000,Calubian,Mun,,4th,,31646,08,08037,Region VIII (Eastern Visayas),Leyte,calubian,leyte
+0803714000,083714000,Capoocan,Mun,,4th,,33721,08,08037,Region VIII (Eastern Visayas),Leyte,capoocan,leyte
+0803715000,083715000,Carigara,Mun,,2nd,,54656,08,08037,Region VIII (Eastern Visayas),Leyte,carigara,leyte
+0803717000,083717000,Dagami,Mun,,3rd,,36178,08,08037,Region VIII (Eastern Visayas),Leyte,dagami,leyte
+0803718000,083718000,Dulag,Mun,,3rd*,,48992,08,08037,Region VIII (Eastern Visayas),Leyte,dulag,leyte
+0803719000,083719000,Hilongos,Mun,,2nd,,64514,08,08037,Region VIII (Eastern Visayas),Leyte,hilongos,leyte
+0803720000,083720000,Hindang,Mun,,5th,,20849,08,08037,Region VIII (Eastern Visayas),Leyte,hindang,leyte
+0803721000,083721000,Inopacan,Mun,,4th,,21389,08,08037,Region VIII (Eastern Visayas),Leyte,inopacan,leyte
+0803722000,083722000,Isabel,Mun,,1st,,46781,08,08037,Region VIII (Eastern Visayas),Leyte,isabel,leyte
+0803723000,083723000,Jaro,Mun,,3rd,,43758,08,08037,Region VIII (Eastern Visayas),Leyte,jaro,leyte
+0803724000,083724000,Javier,Mun,,4th*,Bugho,26658,08,08037,Region VIII (Eastern Visayas),Leyte,javier,leyte
+0803725000,083725000,Julita,Mun,,5th,,15598,08,08037,Region VIII (Eastern Visayas),Leyte,julita,leyte
+0803726000,083726000,Kananga,Mun,,1st,,59696,08,08037,Region VIII (Eastern Visayas),Leyte,kananga,leyte
+0803728000,083728000,La Paz,Mun,,5th*,,19174,08,08037,Region VIII (Eastern Visayas),Leyte,la paz,leyte
+0803729000,083729000,Leyte,Mun,,4th*,,40397,08,08037,Region VIII (Eastern Visayas),Leyte,leyte,leyte
+0803730000,083730000,Macarthur,Mun,,5th*,,21578,08,08037,Region VIII (Eastern Visayas),Leyte,macarthur,leyte
+0803731000,083731000,Mahaplag,Mun,,4th,,27865,08,08037,Region VIII (Eastern Visayas),Leyte,mahaplag,leyte
+0803733000,083733000,Matag-Ob,Mun,,4th,,17522,08,08037,Region VIII (Eastern Visayas),Leyte,matag ob,leyte
+0803734000,083734000,Matalom,Mun,,3rd,,32586,08,08037,Region VIII (Eastern Visayas),Leyte,matalom,leyte
+0803735000,083735000,Mayorga,Mun,,5th*,,18071,08,08037,Region VIII (Eastern Visayas),Leyte,mayorga,leyte
+0803736000,083736000,Merida,Mun,,5th,,31574,08,08037,Region VIII (Eastern Visayas),Leyte,merida,leyte
+0803738000,083738000,Ormoc City,City,ICC,1st,,230998,08,08037,Region VIII (Eastern Visayas),Leyte,ormoc city,leyte
+0803739000,083739000,Palo,Mun,,3rd,,76213,08,08037,Region VIII (Eastern Visayas),Leyte,palo,leyte
+0803740000,083740000,Palompon,Mun,,2nd*,,58313,08,08037,Region VIII (Eastern Visayas),Leyte,palompon,leyte
+0803741000,083741000,Pastrana,Mun,,5th*,,19359,08,08037,Region VIII (Eastern Visayas),Leyte,pastrana,leyte
+0803742000,083742000,San Isidro,Mun,,4th*,,30722,08,08037,Region VIII (Eastern Visayas),Leyte,san isidro,leyte
+0803743000,083743000,San Miguel,Mun,,4th,,19753,08,08037,Region VIII (Eastern Visayas),Leyte,san miguel,leyte
+0803744000,083744000,Santa Fe,Mun,,5th*,,22102,08,08037,Region VIII (Eastern Visayas),Leyte,santa fe,leyte
+0803745000,083745000,Tabango,Mun,,4th,,33868,08,08037,Region VIII (Eastern Visayas),Leyte,tabango,leyte
+0803746000,083746000,Tabontabon,Mun,,5th,,11902,08,08037,Region VIII (Eastern Visayas),Leyte,tabontabon,leyte
+0803748000,083748000,Tanauan,Mun,,2nd,,57455,08,08037,Region VIII (Eastern Visayas),Leyte,tanauan,leyte
+0803749000,083749000,Tolosa,Mun,,5th,,20708,08,08037,Region VIII (Eastern Visayas),Leyte,tolosa,leyte
+0803750000,083750000,Tunga,Mun,,6th*,,7656,08,08037,Region VIII (Eastern Visayas),Leyte,tunga,leyte
+0803751000,083751000,Villaba,Mun,,3rd,,42859,08,08037,Region VIII (Eastern Visayas),Leyte,villaba,leyte
+0804801000,084801000,Allen,Mun,,5th,,25228,08,08048,Region VIII (Eastern Visayas),Northern Samar,allen,northern samar
+0804802000,084802000,Biri,Mun,,5th,,11274,08,08048,Region VIII (Eastern Visayas),Northern Samar,biri,northern samar
+0804803000,084803000,Bobon,Mun,,4th,,25964,08,08048,Region VIII (Eastern Visayas),Northern Samar,bobon,northern samar
+0804804000,084804000,Capul,Mun,,5th,,12323,08,08048,Region VIII (Eastern Visayas),Northern Samar,capul,northern samar
+0804805000,084805000,Catarman ,Mun,,1st,,97879,08,08048,Region VIII (Eastern Visayas),Northern Samar,catarman,northern samar
+0804806000,084806000,Catubig,Mun,,3rd,,32174,08,08048,Region VIII (Eastern Visayas),Northern Samar,catubig,northern samar
+0804807000,084807000,Gamay,Mun,,4th,,23367,08,08048,Region VIII (Eastern Visayas),Northern Samar,gamay,northern samar
+0804808000,084808000,Laoang,Mun,,2nd,,60607,08,08048,Region VIII (Eastern Visayas),Northern Samar,laoang,northern samar
+0804809000,084809000,Lapinig,Mun,,5th,,11844,08,08048,Region VIII (Eastern Visayas),Northern Samar,lapinig,northern samar
+0804810000,084810000,Las Navas,Mun,,3rd,,36621,08,08048,Region VIII (Eastern Visayas),Northern Samar,las navas,northern samar
+0804811000,084811000,Lavezares,Mun,,4th,,29390,08,08048,Region VIII (Eastern Visayas),Northern Samar,lavezares,northern samar
+0804812000,084812000,Mapanas,Mun,,5th,,14234,08,08048,Region VIII (Eastern Visayas),Northern Samar,mapanas,northern samar
+0804813000,084813000,Mondragon,Mun,,3rd,,41415,08,08048,Region VIII (Eastern Visayas),Northern Samar,mondragon,northern samar
+0804814000,084814000,Palapag,Mun,,3rd,,34034,08,08048,Region VIII (Eastern Visayas),Northern Samar,palapag,northern samar
+0804815000,084815000,Pambujan,Mun,,4th,,35532,08,08048,Region VIII (Eastern Visayas),Northern Samar,pambujan,northern samar
+0804816000,084816000,Rosario,Mun,,5th,,10949,08,08048,Region VIII (Eastern Visayas),Northern Samar,rosario,northern samar
+0804817000,084817000,San Antonio,Mun,,5th,,8882,08,08048,Region VIII (Eastern Visayas),Northern Samar,san antonio,northern samar
+0804818000,084818000,San Isidro,Mun,,4th,,27867,08,08048,Region VIII (Eastern Visayas),Northern Samar,san isidro,northern samar
+0804819000,084819000,San Jose,Mun,,5th,,17641,08,08048,Region VIII (Eastern Visayas),Northern Samar,san jose,northern samar
+0804820000,084820000,San Roque,Mun,,4th,,29882,08,08048,Region VIII (Eastern Visayas),Northern Samar,san roque,northern samar
+0804821000,084821000,San Vicente,Mun,,6th,,6928,08,08048,Region VIII (Eastern Visayas),Northern Samar,san vicente,northern samar
+0804822000,084822000,Silvino Lobos,Mun,,4th,,15100,08,08048,Region VIII (Eastern Visayas),Northern Samar,silvino lobos,northern samar
+0804823000,084823000,Victoria,Mun,,5th,,15361,08,08048,Region VIII (Eastern Visayas),Northern Samar,victoria,northern samar
+0804824000,084824000,Lope De Vega,Mun,,4th,,14690,08,08048,Region VIII (Eastern Visayas),Northern Samar,lope de vega,northern samar
+0806001000,086001000,Almagro,Mun,,5th,,9273,08,08060,Region VIII (Eastern Visayas),Samar,almagro,samar
+0806002000,086002000,Basey,Mun,,1st,,56685,08,08060,Region VIII (Eastern Visayas),Samar,basey,samar
+0806003000,086003000,City of Calbayog,City,CC,1st,,186960,08,08060,Region VIII (Eastern Visayas),Samar,calbayog city,samar
+0806004000,086004000,Calbiga,Mun,,4th,,23310,08,08060,Region VIII (Eastern Visayas),Samar,calbiga,samar
+0806005000,086005000,City of Catbalogan ,City,CC,5th,,106440,08,08060,Region VIII (Eastern Visayas),Samar,catbalogan city,samar
+0806006000,086006000,Daram,Mun,,3rd,,41608,08,08060,Region VIII (Eastern Visayas),Samar,daram,samar
+0806007000,086007000,Gandara,Mun,,2nd,,35242,08,08060,Region VIII (Eastern Visayas),Samar,gandara,samar
+0806008000,086008000,Hinabangan,Mun,,4th*,,13693,08,08060,Region VIII (Eastern Visayas),Samar,hinabangan,samar
+0806009000,086009000,Jiabong,Mun,,5th,,19205,08,08060,Region VIII (Eastern Visayas),Samar,jiabong,samar
+0806010000,086010000,Marabut,Mun,,5th,,17842,08,08060,Region VIII (Eastern Visayas),Samar,marabut,samar
+0806011000,086011000,Matuguinao,Mun,,5th,,7364,08,08060,Region VIII (Eastern Visayas),Samar,matuguinao,samar
+0806012000,086012000,Motiong,Mun,,4th,,15276,08,08060,Region VIII (Eastern Visayas),Samar,motiong,samar
+0806013000,086013000,Pinabacdao,Mun,,4th,,18136,08,08060,Region VIII (Eastern Visayas),Samar,pinabacdao,samar
+0806014000,086014000,San Jose De Buan,Mun,,4th,,7767,08,08060,Region VIII (Eastern Visayas),Samar,san jose de buan,samar
+0806015000,086015000,San Sebastian,Mun,,6th,,8704,08,08060,Region VIII (Eastern Visayas),Samar,san sebastian,samar
+0806016000,086016000,Santa Margarita,Mun,,4th,,26816,08,08060,Region VIII (Eastern Visayas),Samar,santa margarita,samar
+0806017000,086017000,Santa Rita,Mun,,3rd*,,42384,08,08060,Region VIII (Eastern Visayas),Samar,santa rita,samar
+0806018000,086018000,Santo Niño,Mun,,5th,,12519,08,08060,Region VIII (Eastern Visayas),Samar,santo nino,samar
+0806019000,086019000,Talalora,Mun,,6th,,7856,08,08060,Region VIII (Eastern Visayas),Samar,talalora,samar
+0806020000,086020000,Tarangnan,Mun,,4th,,25713,08,08060,Region VIII (Eastern Visayas),Samar,tarangnan,samar
+0806021000,086021000,Villareal,Mun,,4th*,,27394,08,08060,Region VIII (Eastern Visayas),Samar,villareal,samar
+0806022000,086022000,Paranas,Mun,,2nd,Wright,32374,08,08060,Region VIII (Eastern Visayas),Samar,paranas,samar
+0806023000,086023000,Zumarraga,Mun,,5th*,,16279,08,08060,Region VIII (Eastern Visayas),Samar,zumarraga,samar
+0806024000,086024000,Tagapul-An,Mun,,5th*,,8805,08,08060,Region VIII (Eastern Visayas),Samar,tagapul an,samar
+0806025000,086025000,San Jorge,Mun,,4th,,17579,08,08060,Region VIII (Eastern Visayas),Samar,san jorge,samar
+0806026000,086026000,Pagsanghan,Mun,,5th,,7959,08,08060,Region VIII (Eastern Visayas),Samar,pagsanghan,samar
+0806401000,086401000,Anahawan,Mun,,5th,,8429,08,08064,Region VIII (Eastern Visayas),Southern Leyte,anahawan,southern leyte
+0806402000,086402000,Bontoc,Mun,,4th*,,29799,08,08064,Region VIII (Eastern Visayas),Southern Leyte,bontoc,southern leyte
+0806403000,086403000,Hinunangan,Mun,,3rd,,29149,08,08064,Region VIII (Eastern Visayas),Southern Leyte,hinunangan,southern leyte
+0806404000,086404000,Hinundayan,Mun,,5th,,12398,08,08064,Region VIII (Eastern Visayas),Southern Leyte,hinundayan,southern leyte
+0806405000,086405000,Libagon,Mun,,5th,,15244,08,08064,Region VIII (Eastern Visayas),Southern Leyte,libagon,southern leyte
+0806406000,086406000,Liloan,Mun,,4th*,,24800,08,08064,Region VIII (Eastern Visayas),Southern Leyte,liloan,southern leyte
+0806407000,086407000,City of Maasin ,City,CC,4th,,87446,08,08064,Region VIII (Eastern Visayas),Southern Leyte,maasin city,southern leyte
+0806408000,086408000,Macrohon,Mun,,4th,,26580,08,08064,Region VIII (Eastern Visayas),Southern Leyte,macrohon,southern leyte
+0806409000,086409000,Malitbog,Mun,,4th*,,23256,08,08064,Region VIII (Eastern Visayas),Southern Leyte,malitbog,southern leyte
+0806410000,086410000,Padre Burgos,Mun,,5th*,,11159,08,08064,Region VIII (Eastern Visayas),Southern Leyte,padre burgos,southern leyte
+0806411000,086411000,Pintuyan,Mun,,5th*,,10202,08,08064,Region VIII (Eastern Visayas),Southern Leyte,pintuyan,southern leyte
+0806412000,086412000,Saint Bernard,Mun,,4th,,28414,08,08064,Region VIII (Eastern Visayas),Southern Leyte,saint bernard,southern leyte
+0806413000,086413000,San Francisco,Mun,,5th,,13436,08,08064,Region VIII (Eastern Visayas),Southern Leyte,san francisco,southern leyte
+0806414000,086414000,San Juan,Mun,,5th,Cabalian,14912,08,08064,Region VIII (Eastern Visayas),Southern Leyte,san juan,southern leyte
+0806415000,086415000,San Ricardo,Mun,,5th,,10500,08,08064,Region VIII (Eastern Visayas),Southern Leyte,san ricardo,southern leyte
+0806416000,086416000,Silago,Mun,,4th,,13116,08,08064,Region VIII (Eastern Visayas),Southern Leyte,silago,southern leyte
+0806417000,086417000,Sogod,Mun,,2nd,,47552,08,08064,Region VIII (Eastern Visayas),Southern Leyte,sogod,southern leyte
+0806418000,086418000,Tomas Oppus,Mun,,5th,,16990,08,08064,Region VIII (Eastern Visayas),Southern Leyte,tomas oppus,southern leyte
+0806419000,086419000,Limasawa,Mun,,6th*,,6191,08,08064,Region VIII (Eastern Visayas),Southern Leyte,limasawa,southern leyte
+0807801000,087801000,Almeria,Mun,,5th,,17954,08,08078,Region VIII (Eastern Visayas),Biliran,almeria,biliran
+0807802000,087802000,Biliran,Mun,,5th,,17662,08,08078,Region VIII (Eastern Visayas),Biliran,biliran,biliran
+0807803000,087803000,Cabucgayan,Mun,,5th,,21542,08,08078,Region VIII (Eastern Visayas),Biliran,cabucgayan,biliran
+0807804000,087804000,Caibiran,Mun,,5th*,,24167,08,08078,Region VIII (Eastern Visayas),Biliran,caibiran,biliran
+0807805000,087805000,Culaba,Mun,,5th,,12972,08,08078,Region VIII (Eastern Visayas),Biliran,culaba,biliran
+0807806000,087806000,Kawayan,Mun,,5th*,,20455,08,08078,Region VIII (Eastern Visayas),Biliran,kawayan,biliran
+0807807000,087807000,Maripipi,Mun,,5th,,6373,08,08078,Region VIII (Eastern Visayas),Biliran,maripipi,biliran
+0807808000,087808000,Naval ,Mun,,2nd,,58187,08,08078,Region VIII (Eastern Visayas),Biliran,naval,biliran
+0831600000,083747000,City of Tacloban ,City,HUC,1st,,251881,08,08316,Region VIII (Eastern Visayas),Region VIII (Eastern Visayas),tacloban city,region viii (eastern visayas)
+0907201000,097201000,City of Dapitan,City,CC,3rd,,85202,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,dapitan city,zamboanga del norte
+0907202000,097202000,City of Dipolog ,City,CC,3rd,,138141,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,dipolog city,zamboanga del norte
+0907203000,097203000,Katipunan,Mun,,2nd,,44661,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,katipunan,zamboanga del norte
+0907204000,097204000,La Libertad,Mun,,5th,,8119,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,la libertad,zamboanga del norte
+0907205000,097205000,Labason,Mun,,3rd,,43934,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,labason,zamboanga del norte
+0907206000,097206000,Liloy,Mun,,3rd,,42213,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,liloy,zamboanga del norte
+0907207000,097207000,Manukan,Mun,,3rd,,36887,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,manukan,zamboanga del norte
+0907208000,097208000,Mutia,Mun,,5th,,11726,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,mutia,zamboanga del norte
+0907209000,097209000,Piñan,Mun,,4th,New Piñan,20221,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,pinan,zamboanga del norte
+0907210000,097210000,Polanco,Mun,,3rd,,42265,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,polanco,zamboanga del norte
+0907211000,097211000,Pres. Manuel A. Roxas,Mun,,2nd,,39198,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,president manuel a roxas,zamboanga del norte
+0907212000,097212000,Rizal,Mun,,5th,,15052,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,rizal,zamboanga del norte
+0907213000,097213000,Salug,Mun,,3rd,,32134,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,salug,zamboanga del norte
+0907214000,097214000,Sergio Osmeña Sr.,Mun,,2nd,,31942,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,sergio osmena sr,zamboanga del norte
+0907215000,097215000,Siayan,Mun,,2nd,,36236,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,siayan,zamboanga del norte
+0907216000,097216000,Sibuco,Mun,,1st,,36049,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,sibuco,zamboanga del norte
+0907217000,097217000,Sibutad,Mun,,5th,,17453,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,sibutad,zamboanga del norte
+0907218000,097218000,Sindangan,Mun,,1st,,103952,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,sindangan,zamboanga del norte
+0907219000,097219000,Siocon,Mun,,1st,,48524,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,siocon,zamboanga del norte
+0907220000,097220000,Sirawai,Mun,,4th,,31163,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,sirawai,zamboanga del norte
+0907221000,097221000,Tampilisan,Mun,,4th,,24680,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,tampilisan,zamboanga del norte
+0907222000,097222000,Jose Dalman,Mun,,4th,Ponot,28881,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,jose dalman,zamboanga del norte
+0907223000,097223000,Gutalac,Mun,,2nd,,36090,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,gutalac,zamboanga del norte
+0907224000,097224000,Baliguian,Mun,,3rd,,23771,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,baliguian,zamboanga del norte
+0907225000,097225000,Godod,Mun,,4th,,17510,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,godod,zamboanga del norte
+0907226000,097226000,Leon T. Postigo,Mun,,4th,Bacungan,27639,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,leon t postigo,zamboanga del norte
+0907227000,097227000,Kalawit,Mun,,4th,,23812,09,09072,Region IX (Zamboanga Peninsula),Zamboanga del Norte,kalawit,zamboanga del norte
+0907302000,097302000,Aurora,Mun,,2nd,,52995,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,aurora,zamboanga del sur
+0907303000,097303000,Bayog,Mun,,3rd*,,34519,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,bayog,zamboanga del sur
+0907305000,097305000,Dimataling,Mun,,4th,,31340,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,dimataling,zamboanga del sur
+0907306000,097306000,Dinas,Mun,,4th,,36291,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,dinas,zamboanga del sur
+0907307000,097307000,Dumalinao,Mun,,4th,,32928,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,dumalinao,zamboanga del sur
+0907308000,097308000,Dumingag,Mun,,2nd,,48881,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,dumingag,zamboanga del sur
+0907311000,097311000,Kumalarang,Mun,,4th*,,29479,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,kumalarang,zamboanga del sur
+0907312000,097312000,Labangan,Mun,,3rd,,44262,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,labangan,zamboanga del sur
+0907313000,097313000,Lapuyan,Mun,,3rd,,27737,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,lapuyan,zamboanga del sur
+0907315000,097315000,Mahayag,Mun,,3rd*,,48258,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,mahayag,zamboanga del sur
+0907317000,097317000,Margosatubig,Mun,,3rd,,38660,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,margosatubig,zamboanga del sur
+0907318000,097318000,Midsalip,Mun,,4th*,,33711,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,midsalip,zamboanga del sur
+0907319000,097319000,Molave,Mun,,1st,,53140,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,molave,zamboanga del sur
+0907322000,097322000,City of Pagadian ,City,CC,2nd,,210452,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,pagadian city,zamboanga del sur
+0907323000,097323000,Ramon Magsaysay,Mun,,4th*,Liargo,27280,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,ramon magsaysay,zamboanga del sur
+0907324000,097324000,San Miguel,Mun,,4th,,19838,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,san miguel,zamboanga del sur
+0907325000,097325000,San Pablo,Mun,,4th*,,26648,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,san pablo,zamboanga del sur
+0907327000,097327000,Tabina,Mun,,4th,,25734,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,tabina,zamboanga del sur
+0907328000,097328000,Tambulig,Mun,,4th*,,37480,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,tambulig,zamboanga del sur
+0907330000,097330000,Tukuran,Mun,,4th*,,42429,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,tukuran,zamboanga del sur
+0907333000,097333000,Lakewood,Mun,,4th,,21559,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,lakewood,zamboanga del sur
+0907337000,097337000,Josefina,Mun,,5th*,,12205,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,josefina,zamboanga del sur
+0907338000,097338000,Pitogo,Mun,,4th,,27516,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,pitogo,zamboanga del sur
+0907340000,097340000,Sominot,Mun,,5th*,Don Mariano Marcos,19061,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,sominot,zamboanga del sur
+0907341000,097341000,Vincenzo A. Sagun,Mun,,5th,,24852,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,vincenzo a sagun,zamboanga del sur
+0907343000,097343000,Guipos,Mun,,4th,,21738,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,guipos,zamboanga del sur
+0907344000,097344000,Tigbao,Mun,,5th*,,21675,09,09073,Region IX (Zamboanga Peninsula),Zamboanga del Sur,tigbao,zamboanga del sur
+0908301000,098301000,Alicia,Mun,,3rd,,39456,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,alicia,zamboanga sibugay
+0908302000,098302000,Buug,Mun,,3rd,,38425,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,buug,zamboanga sibugay
+0908303000,098303000,Diplahan,Mun,,3rd,,32585,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,diplahan,zamboanga sibugay
+0908304000,098304000,Imelda,Mun,,4th,,26020,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,imelda,zamboanga sibugay
+0908305000,098305000,Ipil ,Mun,,1st,,89401,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,ipil,zamboanga sibugay
+0908306000,098306000,Kabasalan,Mun,,2nd,,46884,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,kabasalan,zamboanga sibugay
+0908307000,098307000,Mabuhay,Mun,,4th*,,37390,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,mabuhay,zamboanga sibugay
+0908308000,098308000,Malangas,Mun,,3rd*,,32022,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,malangas,zamboanga sibugay
+0908309000,098309000,Naga,Mun,,3rd*,,41743,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,naga,zamboanga sibugay
+0908310000,098310000,Olutanga,Mun,,4th,,38438,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,olutanga,zamboanga sibugay
+0908311000,098311000,Payao,Mun,,3rd,,34952,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,payao,zamboanga sibugay
+0908312000,098312000,Roseller Lim,Mun,,3rd,,43575,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,roseller lim,zamboanga sibugay
+0908313000,098313000,Siay,Mun,,2nd,,40585,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,siay,zamboanga sibugay
+0908314000,098314000,Talusan,Mun,,5th,,27873,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,talusan,zamboanga sibugay
+0908315000,098315000,Titay,Mun,,2nd,,53994,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,titay,zamboanga sibugay
+0908316000,098316000,Tungawan,Mun,,2nd,,46497,09,09083,Region IX (Zamboanga Peninsula),Zamboanga Sibugay,tungawan,zamboanga sibugay
+0990101000,099701000,City of Isabela,City,CC,4th,,130379,09,09901,Region IX (Zamboanga Peninsula),Region IX (Zamboanga Peninsula),isabela city,region ix (zamboanga peninsula)
+0931700000,097332000,City of Zamboanga,City,HUC,1st,,977234,09,09317,Region IX (Zamboanga Peninsula),Region IX (Zamboanga Peninsula),zamboanga city,region ix (zamboanga peninsula)
+1001301000,101301000,Baungon,Mun,,2nd,,37111,10,10013,Region X (Northern Mindanao),Bukidnon,baungon,bukidnon
+1001302000,101302000,Damulog,Mun,,4th,,39322,10,10013,Region X (Northern Mindanao),Bukidnon,damulog,bukidnon
+1001303000,101303000,Dangcagan,Mun,,3rd,,26076,10,10013,Region X (Northern Mindanao),Bukidnon,dangcagan,bukidnon
+1001304000,101304000,Don Carlos,Mun,,1st,,69273,10,10013,Region X (Northern Mindanao),Bukidnon,don carlos,bukidnon
+1001305000,101305000,Impasug-ong,Mun,,1st,,53863,10,10013,Region X (Northern Mindanao),Bukidnon,impasug ong,bukidnon
+1001306000,101306000,Kadingilan,Mun,,3rd,,33735,10,10013,Region X (Northern Mindanao),Bukidnon,kadingilan,bukidnon
+1001307000,101307000,Kalilangan,Mun,,2nd,,43711,10,10013,Region X (Northern Mindanao),Bukidnon,kalilangan,bukidnon
+1001308000,101308000,Kibawe,Mun,,2nd,,41897,10,10013,Region X (Northern Mindanao),Bukidnon,kibawe,bukidnon
+1001309000,101309000,Kitaotao,Mun,,1st,,53796,10,10013,Region X (Northern Mindanao),Bukidnon,kitaotao,bukidnon
+1001310000,101310000,Lantapan,Mun,,1st,,65974,10,10013,Region X (Northern Mindanao),Bukidnon,lantapan,bukidnon
+1001311000,101311000,Libona,Mun,,1st,,48965,10,10013,Region X (Northern Mindanao),Bukidnon,libona,bukidnon
+1001312000,101312000,City of Malaybalay ,City,CC,1st,,190712,10,10013,Region X (Northern Mindanao),Bukidnon,malaybalay city,bukidnon
+1001313000,101313000,Malitbog,Mun,,2nd,,26741,10,10013,Region X (Northern Mindanao),Bukidnon,malitbog,bukidnon
+1001314000,101314000,Manolo Fortich,Mun,,1st,,113200,10,10013,Region X (Northern Mindanao),Bukidnon,manolo fortich,bukidnon
+1001315000,101315000,Maramag,Mun,,1st,,108293,10,10013,Region X (Northern Mindanao),Bukidnon,maramag,bukidnon
+1001316000,101316000,Pangantucan,Mun,,1st,,56580,10,10013,Region X (Northern Mindanao),Bukidnon,pangantucan,bukidnon
+1001317000,101317000,Quezon,Mun,,1st,,109624,10,10013,Region X (Northern Mindanao),Bukidnon,quezon,bukidnon
+1001318000,101318000,San Fernando,Mun,,1st,,63045,10,10013,Region X (Northern Mindanao),Bukidnon,san fernando,bukidnon
+1001319000,101319000,Sumilao,Mun,,4th,,29531,10,10013,Region X (Northern Mindanao),Bukidnon,sumilao,bukidnon
+1001320000,101320000,Talakag,Mun,,1st,,77027,10,10013,Region X (Northern Mindanao),Bukidnon,talakag,bukidnon
+1001321000,101321000,City of Valencia,City,CC,2nd,,216546,10,10013,Region X (Northern Mindanao),Bukidnon,valencia city,bukidnon
+1001322000,101322000,Cabanglasan,Mun,,3rd,,36286,10,10013,Region X (Northern Mindanao),Bukidnon,cabanglasan,bukidnon
+1001801000,101801000,Catarman,Mun,,5th,,17569,10,10018,Region X (Northern Mindanao),Camiguin,catarman,camiguin
+1001802000,101802000,Guinsiliban,Mun,,6th,,6685,10,10018,Region X (Northern Mindanao),Camiguin,guinsiliban,camiguin
+1001803000,101803000,Mahinog,Mun,,5th,,14634,10,10018,Region X (Northern Mindanao),Camiguin,mahinog,camiguin
+1001804000,101804000,Mambajao ,Mun,,3rd,,41094,10,10018,Region X (Northern Mindanao),Camiguin,mambajao,camiguin
+1001805000,101805000,Sagay,Mun,,5th,,12826,10,10018,Region X (Northern Mindanao),Camiguin,sagay,camiguin
+1003501000,103501000,Bacolod,Mun,,4th,,24367,10,10035,Region X (Northern Mindanao),Lanao del Norte,bacolod,lanao del norte
+1003502000,103502000,Baloi,Mun,,3rd,,68465,10,10035,Region X (Northern Mindanao),Lanao del Norte,baloi,lanao del norte
+1003503000,103503000,Baroy,Mun,,4th,,24683,10,10035,Region X (Northern Mindanao),Lanao del Norte,baroy,lanao del norte
+1003505000,103505000,Kapatagan,Mun,,2nd,,62571,10,10035,Region X (Northern Mindanao),Lanao del Norte,kapatagan,lanao del norte
+1003506000,103506000,Sultan Naga Dimaporo,Mun,,3rd,Karomatan,60904,10,10035,Region X (Northern Mindanao),Lanao del Norte,sultan naga dimaporo,lanao del norte
+1003507000,103507000,Kauswagan,Mun,,5th,,24193,10,10035,Region X (Northern Mindanao),Lanao del Norte,kauswagan,lanao del norte
+1003508000,103508000,Kolambugan,Mun,,4th,,28265,10,10035,Region X (Northern Mindanao),Lanao del Norte,kolambugan,lanao del norte
+1003509000,103509000,Lala,Mun,,1st,,73425,10,10035,Region X (Northern Mindanao),Lanao del Norte,lala,lanao del norte
+1003510000,103510000,Linamon,Mun,,5th,,21269,10,10035,Region X (Northern Mindanao),Lanao del Norte,linamon,lanao del norte
+1003511000,103511000,Magsaysay,Mun,,5th,,20463,10,10035,Region X (Northern Mindanao),Lanao del Norte,magsaysay,lanao del norte
+1003512000,103512000,Maigo,Mun,,4th,,23337,10,10035,Region X (Northern Mindanao),Lanao del Norte,maigo,lanao del norte
+1003513000,103513000,Matungao,Mun,,5th,,14756,10,10035,Region X (Northern Mindanao),Lanao del Norte,matungao,lanao del norte
+1003514000,103514000,Munai,Mun,,4th,,35020,10,10035,Region X (Northern Mindanao),Lanao del Norte,munai,lanao del norte
+1003515000,103515000,Nunungan,Mun,,3rd,,18827,10,10035,Region X (Northern Mindanao),Lanao del Norte,nunungan,lanao del norte
+1003516000,103516000,Pantao Ragat,Mun,,4th,,30247,10,10035,Region X (Northern Mindanao),Lanao del Norte,pantao ragat,lanao del norte
+1003517000,103517000,Poona Piagapo,Mun,,4th,,29183,10,10035,Region X (Northern Mindanao),Lanao del Norte,poona piagapo,lanao del norte
+1003518000,103518000,Salvador,Mun,,5th,,32115,10,10035,Region X (Northern Mindanao),Lanao del Norte,salvador,lanao del norte
+1003519000,103519000,Sapad,Mun,,5th,,22974,10,10035,Region X (Northern Mindanao),Lanao del Norte,sapad,lanao del norte
+1003520000,103520000,Tagoloan,Mun,,5th,,15091,10,10035,Region X (Northern Mindanao),Lanao del Norte,tagoloan,lanao del norte
+1003521000,103521000,Tangcal,Mun,,5th,,16075,10,10035,Region X (Northern Mindanao),Lanao del Norte,tangcal,lanao del norte
+1003522000,103522000,Tubod ,Mun,,2nd,,50073,10,10035,Region X (Northern Mindanao),Lanao del Norte,tubod,lanao del norte
+1003523000,103523000,Pantar,Mun,,5th,,26599,10,10035,Region X (Northern Mindanao),Lanao del Norte,pantar,lanao del norte
+1004201000,104201000,Aloran,Mun,,4th,,27934,10,10042,Region X (Northern Mindanao),Misamis Occidental,aloran,misamis occidental
+1004202000,104202000,Baliangao,Mun,,5th,,18433,10,10042,Region X (Northern Mindanao),Misamis Occidental,baliangao,misamis occidental
+1004203000,104203000,Bonifacio,Mun,,4th,,34558,10,10042,Region X (Northern Mindanao),Misamis Occidental,bonifacio,misamis occidental
+1004204000,104204000,Calamba,Mun,,4th,,23227,10,10042,Region X (Northern Mindanao),Misamis Occidental,calamba,misamis occidental
+1004205000,104205000,Clarin,Mun,,4th,,39356,10,10042,Region X (Northern Mindanao),Misamis Occidental,clarin,misamis occidental
+1004206000,104206000,Concepcion,Mun,,6th*,,9324,10,10042,Region X (Northern Mindanao),Misamis Occidental,concepcion,misamis occidental
+1004207000,104207000,Jimenez,Mun,,3rd,,28909,10,10042,Region X (Northern Mindanao),Misamis Occidental,jimenez,misamis occidental
+1004208000,104208000,Lopez Jaena,Mun,,4th,,25507,10,10042,Region X (Northern Mindanao),Misamis Occidental,lopez jaena,misamis occidental
+1004209000,104209000,City of Oroquieta ,City,CC,4th,,72301,10,10042,Region X (Northern Mindanao),Misamis Occidental,oroquieta city,misamis occidental
+1004210000,104210000,City of Ozamiz,City,CC,3rd,,140334,10,10042,Region X (Northern Mindanao),Misamis Occidental,ozamiz city,misamis occidental
+1004211000,104211000,Panaon,Mun,,5th,,10797,10,10042,Region X (Northern Mindanao),Misamis Occidental,panaon,misamis occidental
+1004212000,104212000,Plaridel,Mun,,3rd,,39840,10,10042,Region X (Northern Mindanao),Misamis Occidental,plaridel,misamis occidental
+1004213000,104213000,Sapang Dalaga,Mun,,5th*,,20490,10,10042,Region X (Northern Mindanao),Misamis Occidental,sapang dalaga,misamis occidental
+1004214000,104214000,Sinacaban,Mun,,5th,,19671,10,10042,Region X (Northern Mindanao),Misamis Occidental,sinacaban,misamis occidental
+1004215000,104215000,City of Tangub,City,CC,4th,,68389,10,10042,Region X (Northern Mindanao),Misamis Occidental,tangub city,misamis occidental
+1004216000,104216000,Tudela,Mun,,4th,,28599,10,10042,Region X (Northern Mindanao),Misamis Occidental,tudela,misamis occidental
+1004217000,104217000,Don Victoriano Chiongbian,Mun,,4th,Don Mariano Marcos,9664,10,10042,Region X (Northern Mindanao),Misamis Occidental,don victoriano chiongbian,misamis occidental
+1004301000,104301000,Alubijid,Mun,,4th,,32163,10,10043,Region X (Northern Mindanao),Misamis Oriental,alubijid,misamis oriental
+1004302000,104302000,Balingasag,Mun,,2nd,,74385,10,10043,Region X (Northern Mindanao),Misamis Oriental,balingasag,misamis oriental
+1004303000,104303000,Balingoan,Mun,,5th,,11020,10,10043,Region X (Northern Mindanao),Misamis Oriental,balingoan,misamis oriental
+1004304000,104304000,Binuangan,Mun,,6th,,7441,10,10043,Region X (Northern Mindanao),Misamis Oriental,binuangan,misamis oriental
+1004306000,104306000,Claveria,Mun,,1st,,52478,10,10043,Region X (Northern Mindanao),Misamis Oriental,claveria,misamis oriental
+1004307000,104307000,City of El Salvador,City,CC,6th,,58771,10,10043,Region X (Northern Mindanao),Misamis Oriental,el salvador city,misamis oriental
+1004308000,104308000,City of Gingoog,City,CC,2nd,,136698,10,10043,Region X (Northern Mindanao),Misamis Oriental,gingoog city,misamis oriental
+1004309000,104309000,Gitagum,Mun,,5th,,17920,10,10043,Region X (Northern Mindanao),Misamis Oriental,gitagum,misamis oriental
+1004310000,104310000,Initao,Mun,,3rd,,33902,10,10043,Region X (Northern Mindanao),Misamis Oriental,initao,misamis oriental
+1004311000,104311000,Jasaan,Mun,,2nd,,57055,10,10043,Region X (Northern Mindanao),Misamis Oriental,jasaan,misamis oriental
+1004312000,104312000,Kinoguitan,Mun,,5th,,14091,10,10043,Region X (Northern Mindanao),Misamis Oriental,kinoguitan,misamis oriental
+1004313000,104313000,Lagonglong,Mun,,5th,,24190,10,10043,Region X (Northern Mindanao),Misamis Oriental,lagonglong,misamis oriental
+1004314000,104314000,Laguindingan,Mun,,4th,,26363,10,10043,Region X (Northern Mindanao),Misamis Oriental,laguindingan,misamis oriental
+1004315000,104315000,Libertad,Mun,,5th,,12948,10,10043,Region X (Northern Mindanao),Misamis Oriental,libertad,misamis oriental
+1004316000,104316000,Lugait,Mun,,2nd,,20559,10,10043,Region X (Northern Mindanao),Misamis Oriental,lugait,misamis oriental
+1004317000,104317000,Magsaysay,Mun,,4th,Linugos,36803,10,10043,Region X (Northern Mindanao),Misamis Oriental,magsaysay,misamis oriental
+1004318000,104318000,Manticao,Mun,,4th,,29469,10,10043,Region X (Northern Mindanao),Misamis Oriental,manticao,misamis oriental
+1004319000,104319000,Medina,Mun,,4th,,35612,10,10043,Region X (Northern Mindanao),Misamis Oriental,medina,misamis oriental
+1004320000,104320000,Naawan,Mun,,4th,,22444,10,10043,Region X (Northern Mindanao),Misamis Oriental,naawan,misamis oriental
+1004321000,104321000,Opol,Mun,,2nd,,66327,10,10043,Region X (Northern Mindanao),Misamis Oriental,opol,misamis oriental
+1004322000,104322000,Salay,Mun,,4th,,29998,10,10043,Region X (Northern Mindanao),Misamis Oriental,salay,misamis oriental
+1004323000,104323000,Sugbongcogon,Mun,,5th,,9764,10,10043,Region X (Northern Mindanao),Misamis Oriental,sugbongcogon,misamis oriental
+1004324000,104324000,Tagoloan,Mun,,1st,,80319,10,10043,Region X (Northern Mindanao),Misamis Oriental,tagoloan,misamis oriental
+1004325000,104325000,Talisayan,Mun,,4th,,25761,10,10043,Region X (Northern Mindanao),Misamis Oriental,talisayan,misamis oriental
+1004326000,104326000,Villanueva,Mun,,2nd,,40419,10,10043,Region X (Northern Mindanao),Misamis Oriental,villanueva,misamis oriental
+1030500000,104305000,City of Cagayan De Oro ,City,HUC,1st,,728402,10,10305,Region X (Northern Mindanao),Region X (Northern Mindanao),cagayan de oro city,region x (northern mindanao)
+1030900000,103504000,City of Iligan,City,HUC,1st* (reclass 2005),,363115,10,10309,Region X (Northern Mindanao),Region X (Northern Mindanao),iligan city,region x (northern mindanao)
+1102301000,112301000,Asuncion,Mun,,1st,Saug,61893,11,11023,Region XI (Davao Region),Davao del Norte,asuncion,davao del norte
+1102303000,112303000,Carmen,Mun,,1st,,82018,11,11023,Region XI (Davao Region),Davao del Norte,carmen,davao del norte
+1102305000,112305000,Kapalong,Mun,,1st,,81068,11,11023,Region XI (Davao Region),Davao del Norte,kapalong,davao del norte
+1102314000,112314000,New Corella,Mun,,2nd,,57913,11,11023,Region XI (Davao Region),Davao del Norte,new corella,davao del norte
+1102315000,112315000,City of Panabo,City,CC,3rd,,209230,11,11023,Region XI (Davao Region),Davao del Norte,panabo city,davao del norte
+1102317000,112317000,Island Garden City of Samal,City,CC,4th,,116771,11,11023,Region XI (Davao Region),Davao del Norte,island garden city of samal,davao del norte
+1102318000,112318000,Santo Tomas,Mun,,1st,,128667,11,11023,Region XI (Davao Region),Davao del Norte,santo tomas,davao del norte
+1102319000,112319000,City of Tagum ,City,CC,1st,,296202,11,11023,Region XI (Davao Region),Davao del Norte,tagum city,davao del norte
+1102322000,112322000,Talaingod,Mun,,2nd,,28333,11,11023,Region XI (Davao Region),Davao del Norte,talaingod,davao del norte
+1102323000,112323000,Braulio E. Dujali,Mun,,4th,,35729,11,11023,Region XI (Davao Region),Davao del Norte,braulio e dujali,davao del norte
+1102324000,112324000,San Isidro,Mun,,5th,,27233,11,11023,Region XI (Davao Region),Davao del Norte,san isidro,davao del norte
+1102401000,112401000,Bansalan,Mun,,1st,,62737,11,11024,Region XI (Davao Region),Davao del Sur,bansalan,davao del sur
+1102403000,112403000,City of Digos ,City,CC,2nd,,188376,11,11024,Region XI (Davao Region),Davao del Sur,digos city,davao del sur
+1102404000,112404000,Hagonoy,Mun,,2nd,,56919,11,11024,Region XI (Davao Region),Davao del Sur,hagonoy,davao del sur
+1102406000,112406000,Kiblawan,Mun,,2nd,,49381,11,11024,Region XI (Davao Region),Davao del Sur,kiblawan,davao del sur
+1102407000,112407000,Magsaysay,Mun,,3rd,,56263,11,11024,Region XI (Davao Region),Davao del Sur,magsaysay,davao del sur
+1102408000,112408000,Malalag,Mun,,2nd,,40158,11,11024,Region XI (Davao Region),Davao del Sur,malalag,davao del sur
+1102410000,112410000,Matanao,Mun,,2nd,,60493,11,11024,Region XI (Davao Region),Davao del Sur,matanao,davao del sur
+1102411000,112411000,Padada,Mun,,3rd,,29878,11,11024,Region XI (Davao Region),Davao del Sur,padada,davao del sur
+1102412000,112412000,Santa Cruz,Mun,,1st,,101125,11,11024,Region XI (Davao Region),Davao del Sur,santa cruz,davao del sur
+1102414000,112414000,Sulop,Mun,,3rd,,35151,11,11024,Region XI (Davao Region),Davao del Sur,sulop,davao del sur
+1102501000,112501000,Baganga,Mun,,1st,,58714,11,11025,Region XI (Davao Region),Davao Oriental,baganga,davao oriental
+1102502000,112502000,Banaybanay,Mun,,2nd,,44451,11,11025,Region XI (Davao Region),Davao Oriental,banaybanay,davao oriental
+1102503000,112503000,Boston,Mun,,3rd,,14618,11,11025,Region XI (Davao Region),Davao Oriental,boston,davao oriental
+1102504000,112504000,Caraga,Mun,,1st,,39704,11,11025,Region XI (Davao Region),Davao Oriental,caraga,davao oriental
+1102505000,112505000,Cateel,Mun,,2nd,,44207,11,11025,Region XI (Davao Region),Davao Oriental,cateel,davao oriental
+1102506000,112506000,Governor Generoso,Mun,,2nd,,59891,11,11025,Region XI (Davao Region),Davao Oriental,governor generoso,davao oriental
+1102507000,112507000,Lupon,Mun,,1st,,66979,11,11025,Region XI (Davao Region),Davao Oriental,lupon,davao oriental
+1102508000,112508000,Manay,Mun,,2nd,,39572,11,11025,Region XI (Davao Region),Davao Oriental,manay,davao oriental
+1102509000,112509000,City of Mati ,City,CC,5th,,147547,11,11025,Region XI (Davao Region),Davao Oriental,mati city,davao oriental
+1102510000,112510000,San Isidro,Mun,,3rd,,33664,11,11025,Region XI (Davao Region),Davao Oriental,san isidro,davao oriental
+1102511000,112511000,Tarragona,Mun,,3rd,,26996,11,11025,Region XI (Davao Region),Davao Oriental,tarragona,davao oriental
+1108201000,118201000,Compostela,Mun,,1st,,89884,11,11082,Region XI (Davao Region),Davao de Oro,compostela,davao de oro
+1108202000,118202000,Laak,Mun,,1st,San Vicente,79744,11,11082,Region XI (Davao Region),Davao de Oro,laak,davao de oro
+1108203000,118203000,Mabini,Mun,,2nd,Doña Alicia,43552,11,11082,Region XI (Davao Region),Davao de Oro,mabini,davao de oro
+1108204000,118204000,Maco,Mun,,1st,,83237,11,11082,Region XI (Davao Region),Davao de Oro,maco,davao de oro
+1108205000,118205000,Maragusan,Mun,,1st,San Mariano,64412,11,11082,Region XI (Davao Region),Davao de Oro,maragusan,davao de oro
+1108206000,118206000,Mawab,Mun,,3rd,,39631,11,11082,Region XI (Davao Region),Davao de Oro,mawab,davao de oro
+1108207000,118207000,Monkayo,Mun,,1st,,93937,11,11082,Region XI (Davao Region),Davao de Oro,monkayo,davao de oro
+1108208000,118208000,Montevista,Mun,,3rd,,46558,11,11082,Region XI (Davao Region),Davao de Oro,montevista,davao de oro
+1108209000,118209000,Nabunturan ,Mun,,1st,,84340,11,11082,Region XI (Davao Region),Davao de Oro,nabunturan,davao de oro
+1108210000,118210000,New Bataan,Mun,,1st,,51466,11,11082,Region XI (Davao Region),Davao de Oro,new bataan,davao de oro
+1108211000,118211000,Pantukan,Mun,,1st,,90786,11,11082,Region XI (Davao Region),Davao de Oro,pantukan,davao de oro
+1108601000,118601000,Don Marcelino,Mun,,3rd,,45540,11,11086,Region XI (Davao Region),Davao Occidental,don marcelino,davao occidental
+1108602000,118602000,Jose Abad Santos,Mun,,1st,Trinidad,73381,11,11086,Region XI (Davao Region),Davao Occidental,jose abad santos,davao occidental
+1108603000,118603000,Malita ,Mun,,1st,,118197,11,11086,Region XI (Davao Region),Davao Occidental,malita,davao occidental
+1108604000,118604000,Santa Maria,Mun,,2nd,,57526,11,11086,Region XI (Davao Region),Davao Occidental,santa maria,davao occidental
+1108605000,118605000,Sarangani,Mun,,4th,,22515,11,11086,Region XI (Davao Region),Davao Occidental,sarangani,davao occidental
+1130700000,112402000,City of Davao,City,HUC,1st,,1776949,11,11307,Region XI (Davao Region),Region XI (Davao Region),davao city,region xi (davao region)
+1204701000,124701000,Alamada,Mun,,1st,,68659,12,12047,Region XII (SOCCSKSARGEN),Cotabato,alamada,cotabato
+1204702000,124702000,Carmen,Mun,,1st,,79140,12,12047,Region XII (SOCCSKSARGEN),Cotabato,carmen,cotabato
+1204703000,124703000,Kabacan,Mun,,1st,,77164,12,12047,Region XII (SOCCSKSARGEN),Cotabato,kabacan,cotabato
+1204704000,124704000,City of Kidapawan ,City,CC,3rd,,160791,12,12047,Region XII (SOCCSKSARGEN),Cotabato,kidapawan city,cotabato
+1204705000,124705000,Libungan,Mun,,2nd,,56269,12,12047,Region XII (SOCCSKSARGEN),Cotabato,libungan,cotabato
+1204706000,124706000,Magpet,Mun,,1st,,53800,12,12047,Region XII (SOCCSKSARGEN),Cotabato,magpet,cotabato
+1204707000,124707000,Makilala,Mun,,1st,,87927,12,12047,Region XII (SOCCSKSARGEN),Cotabato,makilala,cotabato
+1204708000,124708000,Matalam,Mun,,1st,,81355,12,12047,Region XII (SOCCSKSARGEN),Cotabato,matalam,cotabato
+1204709000,124709000,Midsayap,Mun,,1st,,117365,12,12047,Region XII (SOCCSKSARGEN),Cotabato,midsayap,cotabato
+1204710000,124710000,M'Lang,Mun,,1st,,98195,12,12047,Region XII (SOCCSKSARGEN),Cotabato,m lang,cotabato
+1204711000,124711000,Pigkawayan,Mun,,1st,,52744,12,12047,Region XII (SOCCSKSARGEN),Cotabato,pigkawayan,cotabato
+1204712000,124712000,Pikit,Mun,,1st,,67024,12,12047,Region XII (SOCCSKSARGEN),Cotabato,pikit,cotabato
+1204713000,124713000,President Roxas,Mun,,1st,,52512,12,12047,Region XII (SOCCSKSARGEN),Cotabato,president roxas,cotabato
+1204714000,124714000,Tulunan,Mun,,2nd,,60978,12,12047,Region XII (SOCCSKSARGEN),Cotabato,tulunan,cotabato
+1204715000,124715000,Antipas,Mun,,2nd,,26817,12,12047,Region XII (SOCCSKSARGEN),Cotabato,antipas,cotabato
+1204716000,124716000,Banisilan,Mun,,2nd,,46995,12,12047,Region XII (SOCCSKSARGEN),Cotabato,banisilan,cotabato
+1204717000,124717000,Aleosan,Mun,,3rd,,36892,12,12047,Region XII (SOCCSKSARGEN),Cotabato,aleosan,cotabato
+1204718000,124718000,Arakan,Mun,,1st,,50558,12,12047,Region XII (SOCCSKSARGEN),Cotabato,arakan,cotabato
+1206302000,126302000,Banga,Mun,,1st,,89164,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,banga,south cotabato
+1206306000,126306000,City of Koronadal ,City,CC,3rd,,195398,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,koronadal city,south cotabato
+1206311000,126311000,Norala,Mun,,3rd,,46682,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,norala,south cotabato
+1206312000,126312000,Polomolok,Mun,,1st,,172605,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,polomolok,south cotabato
+1206313000,126313000,Surallah,Mun,,1st,,89340,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,surallah,south cotabato
+1206314000,126314000,Tampakan,Mun,,2nd,,41018,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,tampakan,south cotabato
+1206315000,126315000,Tantangan,Mun,,3rd,,45744,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,tantangan,south cotabato
+1206316000,126316000,T'Boli,Mun,,1st,,101049,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,t boli,south cotabato
+1206317000,126317000,Tupi,Mun,,1st,,73459,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,tupi,south cotabato
+1206318000,126318000,Santo Niño,Mun,,3rd,,39796,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,santo nino,south cotabato
+1206319000,126319000,Lake Sebu,Mun,,1st,,81221,12,12063,Region XII (SOCCSKSARGEN),South Cotabato,lake sebu,south cotabato
+1206501000,126501000,Bagumbayan,Mun,,1st,,68947,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,bagumbayan,sultan kudarat
+1206502000,126502000,Columbio,Mun,,1st,,33527,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,columbio,sultan kudarat
+1206503000,126503000,Esperanza,Mun,,1st,,74696,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,esperanza,sultan kudarat
+1206504000,126504000,Isulan ,Mun,,1st,,97490,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,isulan,sultan kudarat
+1206505000,126505000,Kalamansig,Mun,,1st,,50900,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,kalamansig,sultan kudarat
+1206506000,126506000,Lebak,Mun,,1st,,91344,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,lebak,sultan kudarat
+1206507000,126507000,Lutayan,Mun,,2nd,,65644,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,lutayan,sultan kudarat
+1206508000,126508000,Lambayong,Mun,,2nd,Mariano Marcos,79739,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,lambayong,sultan kudarat
+1206509000,126509000,Palimbang,Mun,,2nd,,92828,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,palimbang,sultan kudarat
+1206510000,126510000,President Quirino,Mun,,3rd,,42244,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,president quirino,sultan kudarat
+1206511000,126511000,City of Tacurong,City,CC,4th,,109319,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,tacurong city,sultan kudarat
+1206512000,126512000,Sen. Ninoy Aquino,Mun,,3rd,,47374,12,12065,Region XII (SOCCSKSARGEN),Sultan Kudarat,sen ninoy aquino,sultan kudarat
+1208001000,128001000,Alabel ,Mun,,1st,,88294,12,12080,Region XII (SOCCSKSARGEN),Sarangani,alabel,sarangani
+1208002000,128002000,Glan,Mun,,1st,,109547,12,12080,Region XII (SOCCSKSARGEN),Sarangani,glan,sarangani
+1208003000,128003000,Kiamba,Mun,,1st,,65774,12,12080,Region XII (SOCCSKSARGEN),Sarangani,kiamba,sarangani
+1208004000,128004000,Maasim,Mun,,1st,,64940,12,12080,Region XII (SOCCSKSARGEN),Sarangani,maasim,sarangani
+1208005000,128005000,Maitum,Mun,,2nd,,44185,12,12080,Region XII (SOCCSKSARGEN),Sarangani,maitum,sarangani
+1208006000,128006000,Malapatan,Mun,,1st,,80741,12,12080,Region XII (SOCCSKSARGEN),Sarangani,malapatan,sarangani
+1208007000,128007000,Malungon,Mun,,1st,,105465,12,12080,Region XII (SOCCSKSARGEN),Sarangani,malungon,sarangani
+1230800000,126303000,City of General Santos,City,HUC,1st,Dadiangas,697315,12,12308,Region XII (SOCCSKSARGEN),Region XII (SOCCSKSARGEN),general santos city,region xii (soccsksargen)
+1600201000,160201000,Buenavista,Mun,,1st,,68892,16,16002,Region XIII (Caraga),Agusan del Norte,buenavista,agusan del norte
+1600203000,160203000,City of Cabadbaran,City,CC,6th,,80354,16,16002,Region XIII (Caraga),Agusan del Norte,cabadbaran city,agusan del norte
+1600204000,160204000,Carmen,Mun,,4th,,23172,16,16002,Region XIII (Caraga),Agusan del Norte,carmen,agusan del norte
+1600205000,160205000,Jabonga,Mun,,3rd,,24855,16,16002,Region XIII (Caraga),Agusan del Norte,jabonga,agusan del norte
+1600206000,160206000,Kitcharao,Mun,,4th,,21278,16,16002,Region XIII (Caraga),Agusan del Norte,kitcharao,agusan del norte
+1600207000,160207000,Las Nieves,Mun,,2nd,,30240,16,16002,Region XIII (Caraga),Agusan del Norte,las nieves,agusan del norte
+1600208000,160208000,Magallanes,Mun,,4th,,22293,16,16002,Region XIII (Caraga),Agusan del Norte,magallanes,agusan del norte
+1600209000,160209000,Nasipit,Mun,,3rd,,44822,16,16002,Region XIII (Caraga),Agusan del Norte,nasipit,agusan del norte
+1600210000,160210000,Santiago,Mun,,4th,,28657,16,16002,Region XIII (Caraga),Agusan del Norte,santiago,agusan del norte
+1600211000,160211000,Tubay,Mun,,4th,,25785,16,16002,Region XIII (Caraga),Agusan del Norte,tubay,agusan del norte
+1600212000,160212000,Remedios T. Romualdez,Mun,,5th,,17155,16,16002,Region XIII (Caraga),Agusan del Norte,remedios t romualdez,agusan del norte
+1600301000,160301000,City of Bayugan,City,CC,5th,,109499,16,16003,Region XIII (Caraga),Agusan del Sur,bayugan city,agusan del sur
+1600302000,160302000,Bunawan,Mun,,1st,,47512,16,16003,Region XIII (Caraga),Agusan del Sur,bunawan,agusan del sur
+1600303000,160303000,Esperanza,Mun,,1st,,59353,16,16003,Region XIII (Caraga),Agusan del Sur,esperanza,agusan del sur
+1600304000,160304000,La Paz,Mun,,1st,,30969,16,16003,Region XIII (Caraga),Agusan del Sur,la paz,agusan del sur
+1600305000,160305000,Loreto,Mun,,1st,,43880,16,16003,Region XIII (Caraga),Agusan del Sur,loreto,agusan del sur
+1600306000,160306000,Prosperidad ,Mun,,1st,,88321,16,16003,Region XIII (Caraga),Agusan del Sur,prosperidad,agusan del sur
+1600307000,160307000,Rosario,Mun,,2nd,,49610,16,16003,Region XIII (Caraga),Agusan del Sur,rosario,agusan del sur
+1600308000,160308000,San Francisco,Mun,,1st,,80760,16,16003,Region XIII (Caraga),Agusan del Sur,san francisco,agusan del sur
+1600309000,160309000,San Luis,Mun,,1st,,35196,16,16003,Region XIII (Caraga),Agusan del Sur,san luis,agusan del sur
+1600310000,160310000,Santa Josefa,Mun,,3rd,,26432,16,16003,Region XIII (Caraga),Agusan del Sur,santa josefa,agusan del sur
+1600311000,160311000,Talacogon,Mun,,2nd,,39678,16,16003,Region XIII (Caraga),Agusan del Sur,talacogon,agusan del sur
+1600312000,160312000,Trento,Mun,,1st,,54492,16,16003,Region XIII (Caraga),Agusan del Sur,trento,agusan del sur
+1600313000,160313000,Veruela,Mun,,2nd,,39708,16,16003,Region XIII (Caraga),Agusan del Sur,veruela,agusan del sur
+1600314000,160314000,Sibagat,Mun,,1st,,33957,16,16003,Region XIII (Caraga),Agusan del Sur,sibagat,agusan del sur
+1606701000,166701000,Alegria,Mun,,5th,,16184,16,16067,Region XIII (Caraga),Surigao del Norte,alegria,surigao del norte
+1606702000,166702000,Bacuag,Mun,,5th,,14881,16,16067,Region XIII (Caraga),Surigao del Norte,bacuag,surigao del norte
+1606704000,166704000,Burgos,Mun,,6th,,4185,16,16067,Region XIII (Caraga),Surigao del Norte,burgos,surigao del norte
+1606706000,166706000,Claver,Mun,,2nd,,36033,16,16067,Region XIII (Caraga),Surigao del Norte,claver,surigao del norte
+1606707000,166707000,Dapa,Mun,,4th,,29006,16,16067,Region XIII (Caraga),Surigao del Norte,dapa,surigao del norte
+1606708000,166708000,Del Carmen,Mun,,5th,,20127,16,16067,Region XIII (Caraga),Surigao del Norte,del carmen,surigao del norte
+1606710000,166710000,General Luna,Mun,,5th,,22853,16,16067,Region XIII (Caraga),Surigao del Norte,general luna,surigao del norte
+1606711000,166711000,Gigaquit,Mun,,4th,,21849,16,16067,Region XIII (Caraga),Surigao del Norte,gigaquit,surigao del norte
+1606714000,166714000,Mainit,Mun,,4th,,28019,16,16067,Region XIII (Caraga),Surigao del Norte,mainit,surigao del norte
+1606715000,166715000,Malimono,Mun,,5th,,18852,16,16067,Region XIII (Caraga),Surigao del Norte,malimono,surigao del norte
+1606716000,166716000,Pilar,Mun,,5th,,10374,16,16067,Region XIII (Caraga),Surigao del Norte,pilar,surigao del norte
+1606717000,166717000,Placer,Mun,,4th,,29616,16,16067,Region XIII (Caraga),Surigao del Norte,placer,surigao del norte
+1606718000,166718000,San Benito,Mun,,6th,,5663,16,16067,Region XIII (Caraga),Surigao del Norte,san benito,surigao del norte
+1606719000,166719000,San Francisco,Mun,,5th,Anao-aon,15347,16,16067,Region XIII (Caraga),Surigao del Norte,san francisco,surigao del norte
+1606720000,166720000,San Isidro,Mun,,5th,,8519,16,16067,Region XIII (Caraga),Surigao del Norte,san isidro,surigao del norte
+1606721000,166721000,Santa Monica,Mun,,5th,Sapao,9423,16,16067,Region XIII (Caraga),Surigao del Norte,santa monica,surigao del norte
+1606722000,166722000,Sison,Mun,,5th,,14290,16,16067,Region XIII (Caraga),Surigao del Norte,sison,surigao del norte
+1606723000,166723000,Socorro,Mun,,4th,,25942,16,16067,Region XIII (Caraga),Surigao del Norte,socorro,surigao del norte
+1606724000,166724000,City of Surigao ,City,CC,3rd,,171107,16,16067,Region XIII (Caraga),Surigao del Norte,surigao city,surigao del norte
+1606725000,166725000,Tagana-An,Mun,,5th*,,17323,16,16067,Region XIII (Caraga),Surigao del Norte,tagana an,surigao del norte
+1606727000,166727000,Tubod,Mun,,5th,,15043,16,16067,Region XIII (Caraga),Surigao del Norte,tubod,surigao del norte
+1606801000,166801000,Barobo,Mun,,3rd,,53146,16,16068,Region XIII (Caraga),Surigao del Sur,barobo,surigao del sur
+1606802000,166802000,Bayabas,Mun,,5th,,8979,16,16068,Region XIII (Caraga),Surigao del Sur,bayabas,surigao del sur
+1606803000,166803000,City of Bislig,City,CC,3rd,,99290,16,16068,Region XIII (Caraga),Surigao del Sur,bislig city,surigao del sur
+1606804000,166804000,Cagwait,Mun,,4th,,21747,16,16068,Region XIII (Caraga),Surigao del Sur,cagwait,surigao del sur
+1606805000,166805000,Cantilan,Mun,,2nd,,34060,16,16068,Region XIII (Caraga),Surigao del Sur,cantilan,surigao del sur
+1606806000,166806000,Carmen,Mun,,5th,,11720,16,16068,Region XIII (Caraga),Surigao del Sur,carmen,surigao del sur
+1606807000,166807000,Carrascal,Mun,,4th,,24586,16,16068,Region XIII (Caraga),Surigao del Sur,carrascal,surigao del sur
+1606808000,166808000,Cortes,Mun,,4th,,17924,16,16068,Region XIII (Caraga),Surigao del Sur,cortes,surigao del sur
+1606809000,166809000,Hinatuan,Mun,,2nd,,43841,16,16068,Region XIII (Caraga),Surigao del Sur,hinatuan,surigao del sur
+1606810000,166810000,Lanuza,Mun,,4th,,13642,16,16068,Region XIII (Caraga),Surigao del Sur,lanuza,surigao del sur
+1606811000,166811000,Lianga,Mun,,4th,,33869,16,16068,Region XIII (Caraga),Surigao del Sur,lianga,surigao del sur
+1606812000,166812000,Lingig,Mun,,2nd,,35142,16,16068,Region XIII (Caraga),Surigao del Sur,lingig,surigao del sur
+1606813000,166813000,Madrid,Mun,,4th,,16653,16,16068,Region XIII (Caraga),Surigao del Sur,madrid,surigao del sur
+1606814000,166814000,Marihatag,Mun,,3rd,,19441,16,16068,Region XIII (Caraga),Surigao del Sur,marihatag,surigao del sur
+1606815000,166815000,San Agustin,Mun,,4th,,22855,16,16068,Region XIII (Caraga),Surigao del Sur,san agustin,surigao del sur
+1606816000,166816000,San Miguel,Mun,,1st,,41809,16,16068,Region XIII (Caraga),Surigao del Sur,san miguel,surigao del sur
+1606817000,166817000,Tagbina,Mun,,2nd,,41051,16,16068,Region XIII (Caraga),Surigao del Sur,tagbina,surigao del sur
+1606818000,166818000,Tago,Mun,,2nd,,39831,16,16068,Region XIII (Caraga),Surigao del Sur,tago,surigao del sur
+1606819000,166819000,City of Tandag ,City,CC,5th,,62669,16,16068,Region XIII (Caraga),Surigao del Sur,tandag city,surigao del sur
+1608501000,168501000,Basilisa,Mun,,4th*,Rizal,36911,16,16085,Region XIII (Caraga),Dinagat Islands,basilisa,dinagat islands
+1608502000,168502000,Cagdianao,Mun,,3rd,,18350,16,16085,Region XIII (Caraga),Dinagat Islands,cagdianao,dinagat islands
+1608503000,168503000,Dinagat,Mun,,5th,,10621,16,16085,Region XIII (Caraga),Dinagat Islands,dinagat,dinagat islands
+1608504000,168504000,Libjo,Mun,,5th,Albor,18051,16,16085,Region XIII (Caraga),Dinagat Islands,libjo,dinagat islands
+1608505000,168505000,Loreto,Mun,,4th*,,9690,16,16085,Region XIII (Caraga),Dinagat Islands,loreto,dinagat islands
+1608506000,168506000,San Jose ,Mun,,4th*,,26375,16,16085,Region XIII (Caraga),Dinagat Islands,san jose,dinagat islands
+1608507000,168507000,Tubajon,Mun,,5th*,,8119,16,16085,Region XIII (Caraga),Dinagat Islands,tubajon,dinagat islands
+1630400000,160202000,City of Butuan ,City,HUC,1st,,372910,16,16304,Region XIII (Caraga),Region XIII (Caraga),butuan city,region xiii (caraga)
+1900702000,150702000,City of Lamitan ,City,CC,6th,,100150,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,lamitan city,basilan
+1900703000,150703000,Lantawan,Mun,,3rd,,31040,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,lantawan,basilan
+1900704000,150704000,Maluso,Mun,,4th,,45730,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,maluso,basilan
+1900705000,150705000,Sumisip,Mun,,1st,,47345,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,sumisip,basilan
+1900706000,150706000,Tipo-Tipo,Mun,,3rd,,25531,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,tipo tipo,basilan
+1900707000,150707000,Tuburan,Mun,,2nd,,24742,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,tuburan,basilan
+1900708000,150708000,Akbar,Mun,,-,,23098,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,akbar,basilan
+1900709000,150709000,Al-Barka,Mun,,-,,23736,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,al barka,basilan
+1900710000,150710000,Hadji Mohammad Ajul,Mun,,-,,24625,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,hadji mohammad ajul,basilan
+1900711000,150711000,Ungkaya Pukan,Mun,,-,,24016,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,ungkaya pukan,basilan
+1900712000,150712000,Hadji Muhtamad,Mun,,-,,26867,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,hadji muhtamad,basilan
+1900713000,150713000,Tabuan-Lasa,Mun,,-,,29327,19,19007,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Basilan,tabuan lasa,basilan
+1903601000,153601000,Bacolod-Kalawi,Mun,,3rd,Bacolod Grande,23129,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,bacolod kalawi,lanao del sur
+1903602000,153602000,Balabagan,Mun,,4th*,,29863,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,balabagan,lanao del sur
+1903603000,153603000,Balindong,Mun,,4th*,Watu,32573,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,balindong,lanao del sur
+1903604000,153604000,Bayang,Mun,,5th,,28023,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,bayang,lanao del sur
+1903605000,153605000,Binidayan,Mun,,4th,,25965,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,binidayan,lanao del sur
+1903606000,153606000,Bubong,Mun,,2nd,,26514,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,bubong,lanao del sur
+1903607000,153607000,Butig,Mun,,6th*,,22768,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,butig,lanao del sur
+1903609000,153609000,Ganassi,Mun,,4th,,30802,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,ganassi,lanao del sur
+1903610000,153610000,Kapai,Mun,,4th,,20581,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,kapai,lanao del sur
+1903611000,153611000,Lumba-Bayabao,Mun,,2nd,Maguing,45909,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,lumba bayabao,lanao del sur
+1903612000,153612000,Lumbatan,Mun,,5th*,,22780,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,lumbatan,lanao del sur
+1903613000,153613000,Madalum,Mun,,3rd,,26478,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,madalum,lanao del sur
+1903614000,153614000,Madamba,Mun,,4th,,22050,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,madamba,lanao del sur
+1903615000,153615000,Malabang,Mun,,3rd,,49088,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,malabang,lanao del sur
+1903616000,153616000,Marantao,Mun,,2nd,,37763,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,marantao,lanao del sur
+1903617000,153617000,City of Marawi ,City,CC,4th,,207010,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,marawi city,lanao del sur
+1903618000,153618000,Masiu,Mun,,5th,,33580,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,masiu,lanao del sur
+1903619000,153619000,Mulondo,Mun,,3rd,,19932,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,mulondo,lanao del sur
+1903620000,153620000,Pagayawan,Mun,,5th,Tatarikan,15057,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,pagayawan,lanao del sur
+1903621000,153621000,Piagapo,Mun,,4th,,30132,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,piagapo,lanao del sur
+1903622000,153622000,Poona Bayabao,Mun,,4th,Gata,31141,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,poona bayabao,lanao del sur
+1903623000,153623000,Pualas,Mun,,5th,,14526,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,pualas,lanao del sur
+1903624000,153624000,Ditsaan-Ramain,Mun,,3rd,,24406,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,ditsaan ramain,lanao del sur
+1903625000,153625000,Saguiaran,Mun,,4th,,26712,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,saguiaran,lanao del sur
+1903626000,153626000,Tamparan,Mun,,5th*,,32074,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,tamparan,lanao del sur
+1903627000,153627000,Taraka,Mun,,4th,,27184,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,taraka,lanao del sur
+1903628000,153628000,Tubaran,Mun,,4th,,16896,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,tubaran,lanao del sur
+1903629000,153629000,Tugaya,Mun,,5th,,24778,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,tugaya,lanao del sur
+1903630000,153630000,Wao,Mun,,2nd,,50366,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,wao,lanao del sur
+1903631000,153631000,Marogong,Mun,,4th,,30118,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,marogong,lanao del sur
+1903632000,153632000,Calanogas,Mun,,5th,,14985,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,calanogas,lanao del sur
+1903633000,153633000,Buadiposo-Buntong,Mun,,4th,,18046,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,buadiposo buntong,lanao del sur
+1903634000,153634000,Maguing,Mun,,2nd,,30436,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,maguing,lanao del sur
+1903635000,153635000,Picong,Mun,,4th*,Sultan Gumander,18907,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,picong,lanao del sur
+1903636000,153636000,Lumbayanague,Mun,,4th,,19091,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,lumbayanague,lanao del sur
+1903637000,153637000,Amai Manabilang,Mun,,3rd,Bumbaran,12124,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,amai manabilang,lanao del sur
+1903638000,153638000,Tagoloan Ii,Mun,,4th,,12602,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,tagoloan ii,lanao del sur
+1903639000,153639000,Kapatagan,Mun,,4th,,20498,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,kapatagan,lanao del sur
+1903640000,153640000,Sultan Dumalondong,Mun,,6th*,,12500,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,sultan dumalondong,lanao del sur
+1903641000,153641000,Lumbaca-Unayan,Mun,,-,,8131,19,19036,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Lanao del Sur,lumbaca unayan,lanao del sur
+1906601000,156601000,Indanan,Mun,,3rd,,93168,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,indanan,sulu
+1906602000,156602000,Jolo ,Mun,,1st,,137266,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,jolo,sulu
+1906603000,156603000,Kalingalan Caluang,Mun,,5th,,39549,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,kalingalan caluang,sulu
+1906604000,156604000,Luuk,Mun,,3rd,,37873,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,luuk,sulu
+1906605000,156605000,Maimbung,Mun,,5th,,59597,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,maimbung,sulu
+1906606000,156606000,Hadji Panglima Tahil,Mun,,6th,Marunggas,7906,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,hadji panglima tahil,sulu
+1906607000,156607000,Old Panamao,Mun,,4th,,49849,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,old panamao,sulu
+1906608000,156608000,Pangutaran,Mun,,4th,,36374,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,pangutaran,sulu
+1906609000,156609000,Parang,Mun,,2nd,,71495,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,parang,sulu
+1906610000,156610000,Pata,Mun,,5th,,24736,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,pata,sulu
+1906611000,156611000,Patikul,Mun,,3rd,,79564,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,patikul,sulu
+1906612000,156612000,Siasi,Mun,,2nd,,81689,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,siasi,sulu
+1906613000,156613000,Talipao,Mun,,1st,,100088,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,talipao,sulu
+1906614000,156614000,Tapul,Mun,,5th,,20799,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,tapul,sulu
+1906615000,156615000,Tongkil,Mun,,4th,,35616,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,tongkil,sulu
+1906616000,156616000,Panglima Estino,Mun,,5th,New Panamao,34249,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,panglima estino,sulu
+1906617000,156617000,Lugus,Mun,,5th,,29043,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,lugus,sulu
+1906618000,156618000,Pandami,Mun,,4th,,33177,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,pandami,sulu
+1906619000,156619000,Omar,Mun,,-,,28070,19,19066,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Sulu,omar,sulu
+1907001000,157001000,Panglima Sugala,Mun,,3rd,Balimbing,48055,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,panglima sugala,tawi tawi
+1907002000,157002000,Bongao ,Mun,,2nd,,116118,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,bongao,tawi tawi
+1907003000,157003000,Mapun,Mun,,4th,Cagayan de Tawi-Tawi,30038,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,mapun,tawi tawi
+1907004000,157004000,Simunul,Mun,,4th,,34245,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,simunul,tawi tawi
+1907005000,157005000,Sitangkai,Mun,,1st,,37319,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,sitangkai,tawi tawi
+1907006000,157006000,South Ubian,Mun,,3rd,,29583,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,south ubian,tawi tawi
+1907007000,157007000,Tandubas,Mun,,2nd,,34316,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,tandubas,tawi tawi
+1907008000,157008000,Turtle Islands,Mun,,5th,,5683,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,turtle islands,tawi tawi
+1907009000,157009000,Languyan,Mun,,1st,,37096,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,languyan,tawi tawi
+1907010000,157010000,Sapa-Sapa,Mun,,3rd,,33580,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,sapa sapa,tawi tawi
+1907011000,157011000,Sibutu,Mun,,-,,34243,19,19070,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Tawi-Tawi,sibutu,tawi tawi
+1908701000,153818000,Barira,Mun,,4th,,36143,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,barira,maguindanao del norte
+1908702000,153802000,Buldon,Mun,,4th*,,39684,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,buldon,maguindanao del norte
+1908703000,129804000,City of Cotabato,City,ICC,3rd,,325079,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,cotabato city,maguindanao del norte
+1908704000,153830000,Datu Blah T. Sinsuat,Mun,,-,,28243,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,datu blah t sinsuat,maguindanao del norte
+1908705000,153807000,Datu Odin Sinsuat,Mun,,2nd,Dinaig,116768,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,datu odin sinsuat,maguindanao del norte
+1908706000,153814000,Kabuntalan,Mun,,5th*,Tumbao,25439,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,kabuntalan,maguindanao del norte
+1908707000,153809000,Matanog,Mun,,4th,,36034,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,matanog,maguindanao del norte
+1908708000,153834000,Northern Kabuntalan,Mun,,5th*,,26277,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,northern kabuntalan,maguindanao del norte
+1908709000,153811000,Parang,Mun,,1st*,,102914,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,parang,maguindanao del norte
+1908710000,153812000,Sultan Kudarat,Mun,,1st,Nuling,105121,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,sultan kudarat,maguindanao del norte
+1908711000,153824000,Sultan Mastura,Mun,,5th,,25331,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,sultan mastura,maguindanao del norte
+1908712000,153821000,Talitay,Mun,,-,,17463,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,talitay,maguindanao del norte
+1908713000,153815000,Upi,Mun,,1st,,59004,19,19087,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Norte,upi,maguindanao del norte
+1908801000,153801000,Ampatuan,Mun,,4th,,28941,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,ampatuan,maguindanao del sur
+1908802000,153803000,Buluan,Mun,,4th*,,57406,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,buluan,maguindanao del sur
+1908803000,153828000,Datu Abdullah Sangki,Mun,,-,,30117,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu abdullah sangki,maguindanao del sur
+1908804000,153831000,Datu Anggal Midtimbang,Mun,,-,,28224,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu anggal midtimbang,maguindanao del sur
+1908805000,153835000,Datu Hoffer Ampatuan,Mun,,-,,26660,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu hoffer ampatuan,maguindanao del sur
+1908806000,153805000,Datu Paglas,Mun,,4th,,33682,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu paglas,maguindanao del sur
+1908807000,153806000,Datu Piang,Mun,,2nd,,28380,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu piang,maguindanao del sur
+1908808000,153836000,Datu Salibo,Mun,,-,,18795,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu salibo,maguindanao del sur
+1908809000,153826000,Datu Saudi Ampatuan,Mun,,4th,,31060,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu saudi ampatuan,maguindanao del sur
+1908810000,153827000,Datu Unsay,Mun,,5th,,12890,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,datu unsay,maguindanao del sur
+1908811000,153819000,Gen. S.K. Pendatun,Mun,,4th*,,31263,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,general s k pendatun,maguindanao del sur
+1908812000,153825000,Guindulungan,Mun,,-,,24933,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,guindulungan,maguindanao del sur
+1908813000,153820000,Mamasapano,Mun,,5th,,27807,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,mamasapano,maguindanao del sur
+1908814000,153832000,Mangudadatu,Mun,,-,,26203,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,mangudadatu,maguindanao del sur
+1908815000,153822000,Pagagawan,Mun,,5th,,37314,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,pagagawan,maguindanao del sur
+1908816000,153810000,Pagalungan,Mun,,1st,,46277,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,pagalungan,maguindanao del sur
+1908817000,153823000,Paglat,Mun,,-,,18727,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,paglat,maguindanao del sur
+1908818000,153833000,Pandag,Mun,,-,,26356,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,pandag,maguindanao del sur
+1908819000,153829000,Rajah Buayan,Mun,,-,,27832,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,rajah buayan,maguindanao del sur
+1908820000,153808000,Shariff Aguak,Mun,,2nd,Maganoy,33982,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,shariff aguak,maguindanao del sur
+1908821000,153837000,Shariff Saydona Mustapha,Mun,,-,,25080,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,shariff saydona mustapha,maguindanao del sur
+1908822000,153817000,South Upi,Mun,,4th*,,43197,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,south upi,maguindanao del sur
+1908823000,153813000,Sultan Sa Barongis,Mun,,2nd,Lambayong,24476,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,sultan sa barongis,maguindanao del sur
+1908824000,153816000,Talayan,Mun,,4th*,,34156,19,19088,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Maguindanao del Sur,talayan,maguindanao del sur
+1999901000,,Kapalawan,Mun,,-,,28463,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),kapalawan,bangsamoro autonomous region in muslim mindanao (barmm)
+1999902000,,Old Kaabakan,Mun,,-,,16658,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),old kaabakan,bangsamoro autonomous region in muslim mindanao (barmm)
+1999903000,,Kadayangan,Mun,,-,,25573,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),kadayangan,bangsamoro autonomous region in muslim mindanao (barmm)
+1999904000,,Nabalawag,Mun,,-,,25723,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),nabalawag,bangsamoro autonomous region in muslim mindanao (barmm)
+1999905000,,Pahamuddin,Mun,,-,,19627,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),pahamuddin,bangsamoro autonomous region in muslim mindanao (barmm)
+1999906000,,Malidegao,Mun,,-,,36438,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),malidegao,bangsamoro autonomous region in muslim mindanao (barmm)
+1999907000,,Ligawasan,Mun,,-,,29784,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),ligawasan,bangsamoro autonomous region in muslim mindanao (barmm)
+1999908000,,Tugunan,Mun,,-,,33167,19,19999,Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),Bangsamoro Autonomous Region In Muslim Mindanao (BARMM),tugunan,bangsamoro autonomous region in muslim mindanao (barmm)

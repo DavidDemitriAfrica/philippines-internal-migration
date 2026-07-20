@@ -1,0 +1,83 @@
+prov_code,province,income_class
+14001,Abra,3rd
+14011,Benguet,2nd
+14027,Ifugao,3rd
+14032,Kalinga,3rd
+14044,Mountain Province,4th
+14081,Apayao,3rd
+01028,Ilocos Norte,1st
+01029,Ilocos Sur,1st
+01033,La Union,1st
+01055,Pangasinan,1st
+02009,Batanes,5th
+02015,Cagayan,1st
+02031,Isabela,1st
+02050,Nueva Vizcaya,2nd
+02057,Quirino,3rd
+03008,Bataan,1st
+03014,Bulacan,1st
+03049,Nueva Ecija,1st
+03054,Pampanga,1st
+03069,Tarlac,1st
+03071,Zambales,2nd
+03077,Aurora,3rd
+04010,Batangas,1st
+04021,Cavite,1st
+04034,Laguna,1st
+04056,Quezon,1st
+04058,Rizal,1st
+17040,Marinduque,4th
+17051,Occidental Mindoro,2nd
+17052,Oriental Mindoro,1st
+17053,Palawan,1st
+17059,Romblon,3rd
+05005,Albay,1st
+05016,Camarines Norte,2nd
+05017,Camarines Sur,1st
+05020,Catanduanes,3rd
+05041,Masbate,1st
+05062,Sorsogon,2nd
+06004,Aklan,2nd
+06006,Antique,2nd
+06019,Capiz,1st
+06030,Iloilo,1st
+06079,Guimaras,4th
+18045,Negros Occidental,1st
+18046,Negros Oriental,1st
+18061,Siquijor,5th
+07012,Bohol,1st
+07022,Cebu,1st
+08026,Eastern Samar,2nd
+08037,Leyte,1st
+08048,Northern Samar,2nd
+08060,Samar,1st
+08064,Southern Leyte,3rd
+08078,Biliran,4th
+09072,Zamboanga del Norte,1st
+09073,Zamboanga del Sur,1st
+09083,Zamboanga Sibugay,2nd
+10013,Bukidnon,1st
+10018,Camiguin,5th
+10035,Lanao del Norte,2nd
+10042,Misamis Occidental,2nd
+10043,Misamis Oriental,1st
+11023,Davao del Norte,1st
+11024,Davao del Sur,1st
+11025,Davao Oriental,1st
+11082,Davao de Oro,1st
+11086,Davao Occidental,4th
+12047,Cotabato,1st
+12063,South Cotabato,1st
+12065,Sultan Kudarat,1st
+12080,Sarangani,2nd
+16002,Agusan del Norte,3rd
+16003,Agusan del Sur,1st
+16067,Surigao del Norte,2nd
+16068,Surigao del Sur,1st
+16085,Dinagat Islands,4th
+19007,Basilan,3rd
+19036,Lanao del Sur,1st
+19066,Sulu,2nd
+19070,Tawi-Tawi,3rd
+19087,Maguindanao del Norte,1st
+19088,Maguindanao del Sur,1st

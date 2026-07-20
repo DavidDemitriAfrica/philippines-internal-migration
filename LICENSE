@@ -1,0 +1,19 @@
+Open Data Commons Open Database License (ODbL) v1.0
+
+This dataset ("Philippine Internal Migration Dataset") is made available under
+the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
+Any rights in individual contents of the database are licensed under the
+Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+Underlying sources remain the property of their publishers:
+- Philippine Statistics Authority (census, vital statistics, PSGC) — public
+  government statistics.
+- OpenHalalan (election vote counts) — see its CITATION.cff and license.
+- English Wikipedia (2024 population transcription, pinned revision,
+  verified against PSA totals) — CC BY-SA 4.0.
+- faeldon/philippines-json-maps (boundary polygons, derived from PSA/NAMRIA).
+
+Pipeline code (pipeline/*.py) is licensed under the MIT License.
+
+You are free to share, create from, and adapt this database, as long as you
+attribute, share-alike, and keep it open as required by the ODbL.

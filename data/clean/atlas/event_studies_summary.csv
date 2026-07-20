@@ -1,0 +1,7 @@
+event,key,unit,treated_mean,control_mean,did,ci_lo,ci_hi,n_treated,n_control,note
+Mt. Pinatubo eruption (Jun 1991),pinatubo,pp/yr (Δ annualized growth),-0.583,-0.074,-0.508,-0.978,0.188,51,216,ashfall/lahar provinces vs rest of Central/North Luzon
+Bohol earthquake (Oct 2013),bohol_quake,pp/yr (Δ annualized growth),-0.202,-0.18,-0.023,-0.183,0.105,48,162,controls exclude Cebu and the Haiyan corridor
+Typhoon Haiyan — census window (2010–15),haiyan_immediate,pp/yr (Δ annualized growth),0.317,-0.185,0.502,-0.049,0.917,118,210,landfall corridor; census came 21 months after landfall
+Typhoon Haiyan — delayed window (2015–20),haiyan_delayed,pp/yr (Δ annualized growth),-0.989,0.152,-1.141,-1.528,-0.606,118,210,the demographic cost arrives after the immediate recovery
+Marawi siege (May–Oct 2017) †,marawi,pp/yr (Δ annualized growth),0.91,-0.387,1.297,1.03,1.565,40,140,BARMM census-quality caveats apply to treated counts
+Typhoon Odette (Dec 2021),odette,"per 1,000/yr (residual net migration rate)",1.432,1.75,-0.317,-5.891,6.875,95,231,"outcome = residual net migration rate 2020–24 (level, not change)"

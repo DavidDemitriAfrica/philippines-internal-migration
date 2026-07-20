@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Philippine Internal Migration Dataset"
+type: dataset
+authors:
+  - family-names: Africa
+    given-names: David Demitri
+date-released: 2026-07-20
+license: ODbL-1.0
+repository-code: "https://github.com/DavidDemitriAfrica/philippines-internal-migration"
+url: "https://daviddemitriafrica.github.io/philippines-internal-migration/"
+abstract: >
+  Net internal migration estimates for every Philippine city and
+  municipality, built from public PSA data (censuses, birth and death
+  registration, and the PSGC) with full provenance.
+keywords:
+  - internal migration
+  - Philippines
+  - residual method
+  - census
+  - civil registration
+  - PSGC
+references:
+  - type: software
+    title: "OpenHalalan: The Philippine National and Local Election Dataset Project"
+    authors:
+      - family-names: Leung
+        given-names: Robert R.
+    repository-code: "https://github.com/RobertRLeung/OpenHalalan"

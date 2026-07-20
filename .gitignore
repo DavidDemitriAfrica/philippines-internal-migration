@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# OpenHalalan's compiled dataset is not redistributed here; parse_votes_proxy.py
+# downloads it from the canonical repo on demand (see data/provenance.jsonl)
+data/raw/openhalalan/
